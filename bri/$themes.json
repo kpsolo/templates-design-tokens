@@ -1116,9 +1116,7 @@
       "shadow.icon-graphic": "S:5a25bf8cc92e905f27f669b3fda8c9fa6ea9f778,",
       "shadow.icon-graphic2": "S:7d377f114d017a841a4cc9f9a53e06a8fb487930,"
     },
-    "selectedTokenSets": {
-      "Awi.Altaris": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {
       "main": "f59c4e103c5600277a5509805a6780f4525a2d94",
       "accent": "24e28b43de4c4842ff2c5e58088b6c6df7156202",
@@ -1362,10 +1360,7 @@
     "id": "37faf7d4b172f2111f50c9cf6f8026a77c8cf642",
     "name": "Altaris.green",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.green": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {},
     "group": "AWI"
   },
@@ -2663,10 +2658,7 @@
       "contextual.mobile-application.button.text": "S:cbe8cce65b5150bce86f66faa6a3ce54a1e9f57d,",
       "core.brand-10.300a0": "S:a1d80f700bd0adf1dea6e7311d885d63a686699e,"
     },
-    "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.default": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {
       "main": "0da33f07b9f42b7e996c92dbc616bdb772077f45",
       "accent": "1395cd766315b0b1940641a362bd6e20f61562e6",
@@ -2912,10 +2904,7 @@
     "id": "05813ffe2859770efee486bd751e4c3dcdca83fd",
     "name": "Altaris.preset.green2",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.green2": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {},
     "group": "AWI"
   },
@@ -4256,10 +4245,7 @@
       "core.brand-60.700a50": "S:18bc5620d4aa250fff12c25347ef1b1c947f1d14,",
       "shadow.icon-graphic.deals.slate-1.active": "S:53b12c645a72e61ae9e2208e95979a0bab196555,"
     },
-    "selectedTokenSets": {
-      "Awi.Altaris.light": "enabled",
-      "Altaris.preset.default_light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:44526:90059",
     "$figmaModeId": "44526:0",
     "$figmaVariableReferences": {
@@ -4506,10 +4492,7 @@
     "id": "c5961ee3862628a78e1a3db69b66797ac5498b0d",
     "name": "Altaris.preset.light-green",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Awi.Altaris.light": "enabled",
-      "Altaris.preset.green_light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {},
     "group": "AWI"
   },
