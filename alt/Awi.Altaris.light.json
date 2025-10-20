@@ -6730,11 +6730,11 @@
     "sticky-notification": {
       "text": {
         "primary": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "secondary": {
-          "value": "{semantic.text.static.secondary}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "tertiary": {
