@@ -1360,7 +1360,9 @@
           "type": "boxShadow",
           "description": "0px 0px 4px 0px #E028FD"
         }
-      },
+      }
+    },
+    "tap-bar": {
       "general": {
         "value": [
           {
