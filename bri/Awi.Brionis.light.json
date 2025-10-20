@@ -5244,22 +5244,18 @@
           "type": "color"
         },
         "card": {
-          "text": {
-            "value": "{semantic.text.banner-cart.primary}",
-            "type": "color"
-          },
           "background": {
-            "fill": {
-              "value": "{core.brand-60.700a40}",
+            "default": {
+              "value": "{core.white.a100}",
               "type": "color"
             },
-            "border": {
-              "value": "{core.brand-60.a15}",
+            "hover": {
+              "value": "{core.brand-10.700}",
               "type": "color"
             }
           },
           "text-body": {
-            "value": "{core.brand-30.50}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           }
         }
