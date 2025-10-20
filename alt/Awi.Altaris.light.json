@@ -1360,6 +1360,20 @@
           "type": "boxShadow",
           "description": "0px 0px 4px 0px #E028FD"
         }
+      },
+      "general": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.0}",
+            "spread": "{depth.0}",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "0px 0px 4px 0px #E028FD"
       }
     },
     "datepicker": {
