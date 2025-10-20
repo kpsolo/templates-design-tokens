@@ -1333,7 +1333,7 @@
             "y": "-4",
             "blur": "{blur.100}",
             "spread": "{depth.0}",
-            "color": "{core.grey.a10}",
+            "color": "{core.white.a0}",
             "type": "dropShadow"
           }
         ],
