@@ -6729,6 +6729,26 @@
           "type": "color"
         }
       }
+    },
+    "sticky-notification": {
+      "text": {
+        "primary": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{semantic.text.static.secondary}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{semantic.text.static.tertiary}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
