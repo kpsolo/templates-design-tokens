@@ -4219,11 +4219,11 @@
         "icon": {
           "sorting": {
             "default": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{semantic.text.default.secondary}",
               "type": "color"
             },
             "active": {
-              "value": "{core.white.a100}",
+              "value": "{contextual.footer.heading}",
               "type": "color"
             }
           }
