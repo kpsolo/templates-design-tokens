@@ -219,6 +219,21 @@
       "type": "borderRadius",
       "description": "\n\n\n"
     },
+    "homepage": {
+      "collection": {
+        "card": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius",
+          "description": "\n\n\n"
+        }
+      },
+      "nav-menu": {
+        "general": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        }
+      }
+    },
     "datepicker": {
       "all": {
         "value": "{border-radius.core.300}",
@@ -329,14 +344,6 @@
         "value": "{border-radius.core.300}",
         "type": "borderRadius",
         "description": "contextual.segment-control.item"
-      }
-    },
-    "homepage": {
-      "nav-menu": {
-        "general": {
-          "value": "{border-radius.core.400}",
-          "type": "borderRadius"
-        }
       }
     },
     "profile": {
@@ -5253,10 +5260,6 @@
               "value": "{core.brand-10.700}",
               "type": "color"
             }
-          },
-          "text-body": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
           }
         }
       }
