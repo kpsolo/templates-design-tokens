@@ -598,40 +598,6 @@
         }
       }
     },
-    "toast": {
-      "success": {
-        "value": {
-          "color": "{contextual.notifications.toast.type-color.success}",
-          "width": "{depth.50}",
-          "style": "solid"
-        },
-        "type": "border"
-      },
-      "error": {
-        "value": {
-          "color": "{contextual.notifications.toast.type-color.error}",
-          "width": "{depth.50}",
-          "style": "solid"
-        },
-        "type": "border"
-      },
-      "warning": {
-        "value": {
-          "color": "{contextual.notifications.toast.type-color.warning}",
-          "width": "{depth.50}",
-          "style": "solid"
-        },
-        "type": "border"
-      },
-      "info": {
-        "value": {
-          "color": "{contextual.notifications.toast.type-color.info}",
-          "width": "{depth.50}",
-          "style": "solid"
-        },
-        "type": "border"
-      }
-    },
     "notification": {
       "divider": {
         "value": {
@@ -3280,7 +3246,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{semantic.gradients.3}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "popover-action": {
@@ -3294,7 +3260,7 @@
         "type": "color"
       },
       "close": {
-        "value": "{semantic.icon.default.secondary}",
+        "value": "{semantic.icon.default.tertiary}",
         "type": "color"
       },
       "text": {
@@ -3308,7 +3274,7 @@
         }
       },
       "toast": {
-        "type-color": {
+        "status": {
           "success": {
             "value": "{core.validation.success.500}",
             "type": "color"
@@ -4078,12 +4044,6 @@
       }
     },
     "content": {
-      "fill": {
-        "value": "{core.white.a100}",
-        "type": "color"
-      }
-    },
-    "toast-notifications": {
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
