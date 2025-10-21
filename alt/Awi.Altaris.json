@@ -1332,7 +1332,7 @@
         "value": [
           {
             "x": "{depth.0}",
-            "y": "-4px",
+            "y": "{depth.m100}",
             "blur": "{blur.100}",
             "spread": "{depth.0}",
             "color": "{core.white.a0}",
