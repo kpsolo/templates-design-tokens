@@ -1365,7 +1365,7 @@
         "value": [
           {
             "x": "{depth.0}",
-            "y": "{depth.m100}",
+            "y": "{depth.0}",
             "blur": "{blur.100}",
             "spread": "{depth.0}",
             "color": "{core.grey.a10}",
