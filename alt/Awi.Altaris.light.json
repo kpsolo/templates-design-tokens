@@ -4498,15 +4498,15 @@
         "tournament": {
           "text": {
             "primary": {
-              "value": "{core.white.a100}",
+              "value": "{semantic.text.default.heading}",
               "type": "color"
             },
             "secondary": {
-              "value": "{core.white.a80}",
+              "value": "{semantic.text.default.primary}",
               "type": "color"
             },
             "tertiary": {
-              "value": "{core.white.a60}",
+              "value": "{semantic.text.default.primary}",
               "type": "color"
             }
           }
@@ -4587,6 +4587,22 @@
         "border": {
           "value": "{core.white.a15}",
           "type": "color"
+        }
+      },
+      "tournament": {
+        "text": {
+          "primary": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.text.default.tertiary}",
+            "type": "color"
+          }
         }
       }
     },

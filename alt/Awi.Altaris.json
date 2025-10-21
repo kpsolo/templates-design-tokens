@@ -4592,6 +4592,22 @@
             "type": "color"
           }
         }
+      },
+      "tournament": {
+        "text": {
+          "primary": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.text.default.tertiary}",
+            "type": "color"
+          }
+        }
       }
     },
     "header": {
