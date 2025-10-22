@@ -6386,6 +6386,100 @@
           "description": "badge"
         }
       }
+    },
+    "status": {
+      "content": {
+        "transparency": {
+          "success": {
+            "value": "{core.validation.success.500}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.600}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{core.validation.warning.500}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{core.brand-preset.validation.info}",
+            "type": "color"
+          }
+        },
+        "normal": {
+          "success": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.600}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        }
+      },
+      "fill": {
+        "transparency": {
+          "success": {
+            "value": "{core.validation.success.a20}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.a10}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{core.validation.warning.a20}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.validation.danger.a20}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{core.brand-10.a10}",
+            "type": "color"
+          }
+        },
+        "normal": {
+          "success": {
+            "value": "{core.validation.success.500}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.brand-60.100}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{core.validation.warning.500}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{core.brand-preset.validation.info}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {
