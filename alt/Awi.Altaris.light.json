@@ -4495,15 +4495,15 @@
         "tournament": {
           "text": {
             "primary": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{semantic.text.static.primary}",
               "type": "color"
             },
             "secondary": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{semantic.text.static.secondary}",
               "type": "color"
             },
             "tertiary": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{semantic.text.static.tertiary}",
               "type": "color"
             }
           }
@@ -4540,7 +4540,7 @@
         },
         "bonus-talisman": {
           "fill": {
-            "value": "{core.white.a50}",
+            "value": "{core.white.a70}",
             "type": "color",
             "description": "Bonus/Talisman"
           },
