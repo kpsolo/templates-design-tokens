@@ -1111,94 +1111,105 @@
         "description": "border.input.disabled"
       }
     },
+    "modal": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "{core.white.a0}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
     "drop": {
-      "modal": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "{core.white.a0}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "small": {
+      "sm": {
         "value": {
           "x": "{depth.0}",
-          "y": "{blur.50}",
-          "blur": "{blur.150}",
-          "spread": "{depth.0}",
-          "color": "{core.grey.a8}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "medium": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.025}",
-          "blur": "{blur.100}",
-          "spread": "{depth.0}",
-          "color": "{core.grey.a10}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "large": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.800}",
-          "blur": "{blur.800}",
+          "y": "{depth.200}",
+          "blur": "{blur.200}",
           "spread": "{depth.0}",
           "color": "{core.grey.a5}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
       },
-      "game-item": {
-        "value": [
-          {
-            "x": "{depth.0}",
-            "y": "{depth.50}",
-            "blur": "{depth.100}",
-            "spread": "{depth.0}",
-            "color": "{core.white.a0}",
-            "type": "dropShadow"
-          },
-          {
-            "x": "{depth.0}",
-            "y": "{depth.025}",
-            "blur": "{depth.0}",
-            "spread": "{depth.0}",
-            "color": "{core.white.a30}",
-            "type": "innerShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "up": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.m200}",
-          "blur": "{depth.400}",
-          "spread": "{depth.0}",
-          "color": "{core.grey.a30}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "down": {
+      "md": {
         "value": {
           "x": "{depth.0}",
           "y": "{depth.200}",
           "blur": "{blur.400}",
           "spread": "{depth.0}",
-          "color": "#211D14",
+          "color": "{core.grey.a8}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "ml": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.400}",
+          "blur": "24px",
+          "spread": "{depth.0}",
+          "color": "{core.grey.a8}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "xs": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.50}",
+          "blur": "{blur.100}",
+          "spread": "{depth.0}",
+          "color": "{core.grey.a5}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "lg": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.800}",
+          "blur": "{blur.800}",
+          "spread": "{depth.0}",
+          "color": "{core.grey.a8}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "xl": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.1200}",
+          "blur": "48px",
+          "spread": "{depth.0}",
+          "color": "{core.grey.a8}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
       }
+    },
+    "game-item": {
+      "value": [
+        {
+          "x": "{depth.0}",
+          "y": "{depth.50}",
+          "blur": "{depth.100}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "{depth.0}",
+          "y": "{depth.025}",
+          "blur": "{depth.0}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a30}",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow"
     },
     "inner": {
       "small": {
@@ -1239,7 +1250,7 @@
       "description": "0px 0px 4px 0px #E028FD"
     },
     "datepicker": {
-      "value": "{shadow.drop.small}",
+      "value": "{shadow.drop.sm}",
       "type": "boxShadow"
     },
     "tooltip": {
@@ -1256,7 +1267,7 @@
       "type": "boxShadow"
     },
     "popup": {
-      "value": "{shadow.drop.modal}",
+      "value": "{shadow.modal}",
       "type": "boxShadow"
     },
     "booster-cart": {
@@ -1430,12 +1441,12 @@
     },
     "homepage": {
       "collections": {
-        "value": "{shadow.drop.small}",
+        "value": "{shadow.drop.sm}",
         "type": "boxShadow"
       },
       "slider": {
         "payment-block": {
-          "value": "{shadow.drop.small}",
+          "value": "{shadow.drop.sm}",
           "type": "boxShadow"
         }
       },
@@ -1497,7 +1508,7 @@
     },
     "bonus": {
       "Slade": {
-        "value": "{shadow.drop.small}",
+        "value": "{shadow.drop.sm}",
         "type": "boxShadow"
       }
     },
@@ -1563,7 +1574,7 @@
       }
     },
     "notification": {
-      "value": "{shadow.drop.medium}",
+      "value": "{shadow.drop.xs}",
       "type": "boxShadow"
     },
     "messages": {
@@ -2234,7 +2245,7 @@
     },
     "tabs": {
       "popup": {
-        "value": "{shadow.drop.medium}",
+        "value": "{shadow.drop.xs}",
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
       }

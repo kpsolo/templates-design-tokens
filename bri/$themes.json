@@ -6073,7 +6073,13 @@
       "contextual.status.fill.normal.default": "S:92c5cbbf20d16de48fb3ffcf4e921402ba2dc315,",
       "contextual.status.fill.normal.warning": "S:e37b24b561a9c769ef98ab78d21f8f2b05658996,",
       "contextual.status.fill.normal.error": "S:2c19c69944a7e7e79a2525a595d8e1a3c5747ba6,",
-      "contextual.status.fill.normal.info": "S:50acfb76dadcc7751e1acd218d81dc0b43659d46,"
+      "contextual.status.fill.normal.info": "S:50acfb76dadcc7751e1acd218d81dc0b43659d46,",
+      "shadow.drop.sm": "S:26a7aa5b382cfc3e25e06ab18c5f949326b067a4,",
+      "shadow.drop.md": "S:fbd5ed7a23fcfd4b8a20c53007c319358b9db352,",
+      "shadow.drop.ml": "S:8c9c9e15621bfdce24ced41a0aa8f7599a610da3,",
+      "shadow.drop.xs": "S:f79a437eb55954dd3117f9291fc563f9af944214,",
+      "shadow.drop.lg": "S:81e2532a506e73e4c162b5c7e7654761b5720508,",
+      "shadow.drop.xl": "S:952b0ce0d2e823f7b75f0a273920968ae48033b0,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
