@@ -6079,7 +6079,9 @@
       "shadow.drop.ml": "S:8c9c9e15621bfdce24ced41a0aa8f7599a610da3,",
       "shadow.drop.xs": "S:f79a437eb55954dd3117f9291fc563f9af944214,",
       "shadow.drop.lg": "S:81e2532a506e73e4c162b5c7e7654761b5720508,",
-      "shadow.drop.xl": "S:952b0ce0d2e823f7b75f0a273920968ae48033b0,"
+      "shadow.drop.xl": "S:952b0ce0d2e823f7b75f0a273920968ae48033b0,",
+      "shadow.modal": "S:87792db7e9323b4163edb72edc1b773172fb07a6,",
+      "shadow.game-item": "S:548ed741b12713e684f381b6c232b1c4336a8d7c,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

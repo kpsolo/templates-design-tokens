@@ -1574,7 +1574,7 @@
       }
     },
     "notification": {
-      "value": "{shadow.drop.xs}",
+      "value": "{shadow.drop.md}",
       "type": "boxShadow"
     },
     "messages": {
