@@ -6499,19 +6499,19 @@
     "type": "fontSizes"
   },
   "scale-5": {
-    "value": "{base} * 1.125",
-    "type": "fontSizes"
-  },
-  "scale-6": {
     "value": "{base} * 1.25",
     "type": "fontSizes"
   },
-  "scale-7": {
+  "scale-6": {
     "value": "{base} * 1.5",
     "type": "fontSizes"
   },
-  "scale-8": {
+  "scale-7": {
     "value": "{base} * 1.75",
+    "type": "fontSizes"
+  },
+  "scale-8": {
+    "value": "{base} * 2.5",
     "type": "fontSizes"
   },
   "xs": {
@@ -6527,19 +6527,19 @@
     "type": "lineHeights"
   },
   "ml": {
-    "value": "20px",
-    "type": "lineHeights"
-  },
-  "lg": {
     "value": "24px",
     "type": "lineHeights"
   },
+  "lg": {
+    "value": "28px",
+    "type": "lineHeights"
+  },
   "xl": {
-    "value": "26px",
+    "value": "32px",
     "type": "lineHeights"
   },
   "xxl": {
-    "value": "30px",
+    "value": "52px",
     "type": "lineHeights"
   },
   "text-decoration": {
