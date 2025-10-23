@@ -2716,6 +2716,38 @@
         "2": {
           "value": "#01FFEE",
           "type": "color"
+        },
+        "3": {
+          "value": "linear-gradient(163deg, #6304D2 0%, #8FADFF 88%)",
+          "type": "color"
+        },
+        "4": {
+          "value": "linear-gradient(163deg, #3A6EFE 0%, #4FFCC5 88%)",
+          "type": "color"
+        },
+        "5": {
+          "value": "linear-gradient(163deg, #512EA2 0%, #E875FF 88%)",
+          "type": "color"
+        },
+        "6": {
+          "value": "linear-gradient(163deg, #C51EBD 0%, #FFA4C8 88%)",
+          "type": "color"
+        },
+        "7": {
+          "value": "linear-gradient(163deg, #0449D2 0%, #87C9F3 88%)",
+          "type": "color"
+        },
+        "8": {
+          "value": "linear-gradient(163deg, #22516B 0%, #64D7AD 53%, #78EDC2 88%)",
+          "type": "color"
+        },
+        "9": {
+          "value": "linear-gradient(163deg, #A533F5 0%, #586ED5 88%)",
+          "type": "color"
+        },
+        "10": {
+          "value": "linear-gradient(163deg, #C51EBD 3%, #F7CD6F 88%)",
+          "type": "color"
         }
       },
       "secondary": {
