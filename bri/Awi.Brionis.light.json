@@ -5760,7 +5760,7 @@
             "description": "Tiket"
           },
           "border": {
-            "value": "{core.brand-60.a30}",
+            "value": "{core.brand-10.100}",
             "type": "color",
             "description": "Tiket"
           }
@@ -6513,7 +6513,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{ml}"
+        "lineHeight": "{md}"
       },
       "type": "typography"
     },
@@ -6522,7 +6522,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{ml}"
+        "lineHeight": "{md}"
       },
       "type": "typography"
     },
@@ -6540,7 +6540,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -6549,7 +6549,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -6558,7 +6558,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -8129,9 +8129,9 @@
         "md": {
           "value": {
             "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
+            "fontWeight": "{text.normal}",
             "fontSize": "{scale-3}",
-            "lineHeight": "{md}",
+            "lineHeight": "{sm}",
             "textDecoration": "{text-decoration.line-through}"
           },
           "type": "typography"
@@ -8139,8 +8139,8 @@
         "sm": {
           "value": {
             "fontFamily": "{main}",
-            "fontWeight": "{text.strong}",
-            "fontSize": "10px",
+            "fontWeight": "{text.normal}",
+            "fontSize": "{scale-2}",
             "lineHeight": "{sm}",
             "textDecoration": "{text-decoration.line-through}"
           },

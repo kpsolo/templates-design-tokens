@@ -178,7 +178,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{ml}"
+        "lineHeight": "{md}"
       },
       "type": "typography"
     },
@@ -187,7 +187,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{ml}"
+        "lineHeight": "{md}"
       },
       "type": "typography"
     },
@@ -196,7 +196,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{ml}"
+        "lineHeight": "{md}"
       },
       "type": "typography"
     },
@@ -205,7 +205,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -214,7 +214,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -223,7 +223,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -3129,7 +3129,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{text.normal}",
             "fontSize": "{scale-3}",
-            "lineHeight": "{ml}",
+            "lineHeight": "{sm}",
             "textDecoration": "{text-decoration.line-through}"
           },
           "type": "typography"
@@ -3138,7 +3138,7 @@
           "value": {
             "fontFamily": "{main}",
             "fontWeight": "{text.strong}",
-            "fontSize": "10px",
+            "fontSize": "{scale-2}",
             "lineHeight": "{sm}",
             "textDecoration": "{text-decoration.line-through}"
           },
