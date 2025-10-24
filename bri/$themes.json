@@ -6124,7 +6124,19 @@
       "shadow.mobile-application.button": "S:a51c6ee524a1956bfc13accaabea21f74440fb6d,",
       "shadow.tiket.default": "S:f68f5746e66a10e613663dc431c5c9f18ece37a9,",
       "shadow.tiket.hover": "S:a3b4179a83513c67cb447dafa4331c08507f69ba,",
-      "shadow.tiket.no-hover": "S:adffd0296cbead76256a663a3ddb130bd2dc1014,"
+      "shadow.tiket.no-hover": "S:adffd0296cbead76256a663a3ddb130bd2dc1014,",
+      "contextual.tabs.item.section.text.default": "S:a2c5da8b93fc3ad627ab36dad40913a1f9369d1d,",
+      "contextual.tabs.item.section.text.active": "S:9e4505bcc83352f76baeda685397db4da208eab1,",
+      "contextual.tabs.item.section.text.hover": "S:4dc931d45390975418f8f22a32257e2461097915,",
+      "contextual.tabs.item.section.text.disabled": "S:542a1560cf197c0506f75e126fa20d61664cd418,",
+      "contextual.tabs.item.section.fill.default": "S:16e51e5a36bea103972a219949f0e54a8e6697ad,",
+      "contextual.tabs.item.section.fill.active": "S:42d204b7976fdb7b8f1122b7e41cf3919898ee5d,",
+      "contextual.tabs.item.section.fill.hover": "S:346bc2cf21c646612159a62a9d82d69738c91d30,",
+      "contextual.tabs.item.section.fill.disabled": "S:fca0b21b4ffaa23cc8f9584e2f52e3f665613959,",
+      "contextual.tabs.item.section.icon.default": "S:f44acc3d761e5d1d317a7e8fd9618a6f2cb06406,",
+      "contextual.tabs.item.section.icon.active": "S:375c79cd5591362257fc83067970dc5a2a2ff551,",
+      "contextual.tabs.item.section.icon.hover": "S:e4aa88cd6521f305a6320affea29f85ba4b68b8c,",
+      "contextual.tabs.item.section.icon.disabled": "S:d6f2ea3446d2a7d82dc3698c2e87410cb36e6a89,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
