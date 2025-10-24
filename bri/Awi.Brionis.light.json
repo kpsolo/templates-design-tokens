@@ -5753,18 +5753,6 @@
         }
       },
       "tiket": {
-        "text": {
-          "primary": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "secondary": {
-            "value": "{semantic.text.default.tertiary}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
         "background": {
           "fill": {
             "value": "{core.white.a100}",
@@ -5785,39 +5773,6 @@
           },
           "text": {
             "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        }
-      },
-      "tiket-number": {
-        "text": {
-          "defoult": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "winning": {
-            "value": "{core.brand-30.500}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
-        "fill": {
-          "winning": {
-            "value": "{core.brand-30.a15}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
-        "border": {
-          "winning": {
-            "value": "{core.brand-30.500}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "default": {
-            "value": "{core.white.a0}",
             "type": "color",
             "description": "Tiket"
           }
@@ -6295,6 +6250,23 @@
       "primary": {
         "fill": {
           "value": "{semantic.gradients.7}",
+          "type": "color",
+          "description": "badge"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        }
+      },
+      "sale": {
+        "fill": {
+          "value": "{core.validation.danger.600}",
           "type": "color",
           "description": "badge"
         },

@@ -6105,7 +6105,22 @@
       "contextual.thumb-games.show-more.card.fill": "S:809e3a648a1a55ccafe83dfc732dce2e8affd46b,",
       "contextual.thumb-games.show-more.card.content": "S:f3d0e6e563a6558d4be05eb562d7c517cc9091b7,",
       "contextual.thumb-games.show-more.normal.border": "S:bb272b617bf244c310b51613191c07f0ea7dad4e,",
-      "contextual.thumb-games.show-more.card.border": "S:0792b3204110e3c1a7e3801d64f660847309d051,"
+      "contextual.thumb-games.show-more.card.border": "S:0792b3204110e3c1a7e3801d64f660847309d051,",
+      "contextual.chips.normal.fill.active": "S:982ea314e722c4efe9e2ccc5b0aacd02e9f90257,",
+      "contextual.chips.normal.fill.default": "S:bdec46a4809072acf1a8806f8aad13fda400b34f,",
+      "contextual.chips.normal.fill.hover": "S:14481e29fca3e537a98d430979aa8a055e8e0af5,",
+      "contextual.chips.normal.text.active": "S:20c3dc5d8460eccdfc6891d579614f87bba2e808,",
+      "contextual.chips.normal.text.default": "S:fc716279288837cfb1dcdb2b0d55bfc639502620,",
+      "contextual.chips.normal.text.hover": "S:4403cbf841bae292da435a7efce3e3296788aaef,",
+      "contextual.chips.normal.icon.active": "S:9a5f9302c81732ea16534d12b4a8a92c5bc9f662,",
+      "contextual.chips.normal.icon.default": "S:c7e5de481cb96527ba57caa71ab9e5e743d3230d,",
+      "contextual.chips.normal.icon.hover": "S:efa2f130f5d40caa62acaebfad79e2283d06a7fe,",
+      "contextual.chips.normal.border.active": "S:a7a9818801fadfeb2afee590f3731c1198de1cb8,",
+      "contextual.chips.normal.border.default": "S:0f17b98c2d1c5db0c793d2ce3cd5ac0108214daf,",
+      "contextual.chips.normal.border.hover": "S:5b3ddf7308e92a223c2d1a976fa2a10af3aedb41,",
+      "contextual.label.sale.fill": "S:c83c0141b3047326729c9ad7648931b1cb8d4ac7,",
+      "contextual.label.sale.text": "S:481a26ea6b1e878abf5c5cfe439b1214f7799c27,",
+      "contextual.label.sale.icon": "S:d693edf33ac5353b6bfffac1190db8870a966f6c,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
