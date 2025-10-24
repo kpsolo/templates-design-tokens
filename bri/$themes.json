@@ -6136,7 +6136,19 @@
       "contextual.tabs.item.section.icon.default": "S:f44acc3d761e5d1d317a7e8fd9618a6f2cb06406,",
       "contextual.tabs.item.section.icon.active": "S:375c79cd5591362257fc83067970dc5a2a2ff551,",
       "contextual.tabs.item.section.icon.hover": "S:e4aa88cd6521f305a6320affea29f85ba4b68b8c,",
-      "contextual.tabs.item.section.icon.disabled": "S:d6f2ea3446d2a7d82dc3698c2e87410cb36e6a89,"
+      "contextual.tabs.item.section.icon.disabled": "S:d6f2ea3446d2a7d82dc3698c2e87410cb36e6a89,",
+      "contextual.chips.static.fill.active": "S:e672640e0e218068bd3b5df21304d2d74f21ff68,",
+      "contextual.chips.static.fill.default": "S:d940c03cff72c93a46848222b4817b30a1e50f93,",
+      "contextual.chips.static.fill.hover": "S:26651e9b25eafecf1964b905954672329f4188b6,",
+      "contextual.chips.static.text.active": "S:4577796b3014e2ebf2c8f33e5d42aa94a99c7bf4,",
+      "contextual.chips.static.text.default": "S:4491473042ca30985017353f4fa9febb8a502152,",
+      "contextual.chips.static.text.hover": "S:b2004bd715014018771449c26356ac0fe335f5ae,",
+      "contextual.chips.static.icon.active": "S:5464de81120092bd8714b3416ff8611a6c3f307a,",
+      "contextual.chips.static.icon.default": "S:fe24af0551cbd199f804425d50cafea3c1257c3c,",
+      "contextual.chips.static.icon.hover": "S:305d84e537b755a334d65f658380d008a08f82ea,",
+      "contextual.chips.static.border.active": "S:0a90b8347f74d6523b39ca395343174e92f3441d,",
+      "contextual.chips.static.border.default": "S:ec7166b8c1de0df6a033c226c33873a58cc5217b,",
+      "contextual.chips.static.border.hover": "S:38cc9137f726253c0e123aa133c6bf069316c4c0,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
