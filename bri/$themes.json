@@ -6120,7 +6120,11 @@
       "contextual.chips.normal.border.hover": "S:5b3ddf7308e92a223c2d1a976fa2a10af3aedb41,",
       "contextual.label.sale.fill": "S:c83c0141b3047326729c9ad7648931b1cb8d4ac7,",
       "contextual.label.sale.text": "S:481a26ea6b1e878abf5c5cfe439b1214f7799c27,",
-      "contextual.label.sale.icon": "S:d693edf33ac5353b6bfffac1190db8870a966f6c,"
+      "contextual.label.sale.icon": "S:d693edf33ac5353b6bfffac1190db8870a966f6c,",
+      "shadow.mobile-application.button": "S:a51c6ee524a1956bfc13accaabea21f74440fb6d,",
+      "shadow.tiket.default": "S:f68f5746e66a10e613663dc431c5c9f18ece37a9,",
+      "shadow.tiket.hover": "S:a3b4179a83513c67cb447dafa4331c08507f69ba,",
+      "shadow.tiket.no-hover": "S:adffd0296cbead76256a663a3ddb130bd2dc1014,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
