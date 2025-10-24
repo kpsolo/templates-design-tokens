@@ -5764,18 +5764,6 @@
             "type": "color",
             "description": "Tiket"
           }
-        },
-        "label": {
-          "fill": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "text": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Tiket"
-          }
         }
       },
       "zero-block": {
