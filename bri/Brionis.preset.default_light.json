@@ -2834,17 +2834,8 @@
         "description": "+ tab bar special button "
       },
       "9": {
-        "value": "{core.brand-60.700}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "lch"
-            }
-          }
-        }
+        "value": "linear-gradient(90deg, #AA98EC 0%, #AA98EC 18%, {core.brand-60.500} 46%, {core.brand-60.500} 60%, {core.brand-30.500} 74%)",
+        "type": "color"
       },
       "10": {
         "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
