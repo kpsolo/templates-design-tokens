@@ -6215,60 +6215,62 @@
       }
     },
     "chips": {
-      "fill": {
-        "active": {
-          "value": "{core.brand-10.a10}",
-          "type": "color"
+      "normal": {
+        "fill": {
+          "active": {
+            "value": "{core.brand-10.a10}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         },
-        "default": {
-          "value": "{core.white.a0}",
-          "type": "color"
+        "text": {
+          "active": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          }
         },
-        "hover": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        }
-      },
-      "text": {
-        "active": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
+        "icon": {
+          "active": {
+            "value": "{semantic.icon.brand.primary}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.icon.default.tertiary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.icon.default.tertiary}",
+            "type": "color"
+          }
         },
-        "default": {
-          "value": "{semantic.text.default.secondary}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "active": {
-          "value": "{semantic.icon.brand.primary}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{semantic.icon.default.tertiary}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.icon.default.tertiary}",
-          "type": "color"
-        }
-      },
-      "border": {
-        "active": {
-          "value": "{core.brand-10.400}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{core.grey.100}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{contextual.chips.border.active}",
-          "type": "color"
+        "border": {
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{contextual.chips.normal.border.active}",
+            "type": "color"
+          }
         }
       }
     },
