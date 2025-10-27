@@ -3806,17 +3806,17 @@
         },
         "bottom": {
           "elipse-1": {
-            "value": "{core.brand-10.a25}",
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-30.500} 0%, {core.brand-30.a0} 100%)",
             "type": "color",
             "description": "Lootboxes"
           },
           "elipse-2": {
-            "value": "{core.brand-10.a25}",
+            "value": "{core.brand-30.a50}",
             "type": "color",
             "description": "Lootboxes"
           },
           "elipse-3": {
-            "value": "{core.brand-10.a25}",
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-30.500} 0%, {core.brand-30.a0} 100%)",
             "type": "color",
             "description": "Lootboxes"
           }
