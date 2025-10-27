@@ -5165,40 +5165,44 @@
         "item": {
           "fill": {
             "1": {
-              "value": "{core.brand-preset.for-gradients.3}",
+              "value": "{core.brand-preset.sport.1}",
               "type": "color"
             },
             "2": {
-              "value": "{core.brand-preset.for-gradients.4}",
+              "value": "{core.brand-preset.sport.2}",
               "type": "color"
             },
             "3": {
-              "value": "{core.brand-preset.for-gradients.5}",
+              "value": "{core.brand-preset.sport.3}",
               "type": "color"
             },
             "4": {
-              "value": "{core.brand-preset.for-gradients.6}",
+              "value": "{core.brand-preset.sport.4}",
               "type": "color"
             },
             "5": {
-              "value": "{core.brand-preset.for-gradients.7}",
+              "value": "{core.brand-preset.sport.5}",
               "type": "color"
             },
             "6": {
-              "value": "{core.brand-preset.for-gradients.8}",
+              "value": "{core.brand-preset.sport.6}",
               "type": "color"
             },
             "7": {
-              "value": "{core.brand-preset.for-gradients.9}",
+              "value": "{core.brand-preset.sport.7}",
               "type": "color"
             },
             "8": {
-              "value": "{core.brand-preset.for-gradients.10}",
+              "value": "{core.brand-preset.sport.8}",
               "type": "color"
             }
           },
-          "elipse": {
+          "ellipse": {
             "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{semantic.text.banner-cart.primary}",
             "type": "color"
           }
         }

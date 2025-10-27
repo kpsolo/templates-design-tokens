@@ -6148,7 +6148,17 @@
       "contextual.chips.static.icon.hover": "S:305d84e537b755a334d65f658380d008a08f82ea,",
       "contextual.chips.static.border.active": "S:0a90b8347f74d6523b39ca395343174e92f3441d,",
       "contextual.chips.static.border.default": "S:ec7166b8c1de0df6a033c226c33873a58cc5217b,",
-      "contextual.chips.static.border.hover": "S:38cc9137f726253c0e123aa133c6bf069316c4c0,"
+      "contextual.chips.static.border.hover": "S:38cc9137f726253c0e123aa133c6bf069316c4c0,",
+      "contextual.homepage.sport.item.ellipse": "S:3db9c0196a50fea54bd5c14a57e82fd3af43bc2a,",
+      "core.brand-preset.sport.1": "S:652d6d34ca0f550a3e45cd0c9bf2032141c721d5,",
+      "core.brand-preset.sport.2": "S:6fc68b34cfc797ccffd261558451af94d75b69cf,",
+      "core.brand-preset.sport.3": "S:7e276b54322b4d0af24aed68fcabcfb89c53885e,",
+      "core.brand-preset.sport.4": "S:8a016f47cf9f3b01cd1e2b5c1812330781631bf0,",
+      "core.brand-preset.sport.5": "S:9ed39be197a4185f39311d0d1d7871921711fbc6,",
+      "core.brand-preset.sport.6": "S:1557f1a3949ec528dbcd5b1c627196a66b04cd86,",
+      "core.brand-preset.sport.7": "S:632f2bbddf06a439c0405c8a490d06b47103f869,",
+      "core.brand-preset.sport.8": "S:2bd338fc4bf8d620a04047f0d2d8fc6a03ed16bc,",
+      "contextual.homepage.sport.item.text": "S:5def1cbdeea1ac8c541030750c60b74cec80bdbd,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
