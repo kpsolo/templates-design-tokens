@@ -2716,6 +2716,10 @@
         "2": {
           "value": "#01FFEE",
           "type": "color"
+        },
+        "3": {
+          "value": "#AA98EC",
+          "type": "color"
         }
       },
       "secondary": {
@@ -2836,7 +2840,7 @@
         "description": "+ tab bar special button "
       },
       "9": {
-        "value": "linear-gradient(90deg, #AA98EC 0%, #AA98EC 18%, {core.brand-60.500} 46%, {core.brand-60.500} 60%, {core.brand-30.500} 74%)",
+        "value": "linear-gradient(90deg, {core.brand-preset.for-gradients.3} 0%, {core.brand-preset.for-gradients.3} 18%, {core.brand-60.500} 46%, {core.brand-60.500} 60%, {core.brand-30.500} 74%)",
         "type": "color"
       },
       "10": {
