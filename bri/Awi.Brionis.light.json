@@ -5213,6 +5213,10 @@
           "type": "color"
         },
         "card": {
+          "text": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
           "background": {
             "default": {
               "value": "{core.white.a100}",
