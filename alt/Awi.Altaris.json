@@ -6251,21 +6251,21 @@
         "item": {
           "text": {
             "default": {
-              "value": "{core.grey.a30}",
+              "value": "{core.grey.200}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.600}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "disabled": {
-              "value": "{core.grey.a30}",
+              "value": "{core.brand-60.a50}",
               "type": "color"
             }
           },
           "line": {
             "active": {
-              "value": "{core.brand-10.600}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           },
