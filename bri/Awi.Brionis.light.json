@@ -3951,7 +3951,7 @@
         },
         "static": {
           "track": {
-            "value": "{core.white.a20}",
+            "value": "{core.white.a50}",
             "type": "color"
           },
           "container": {
