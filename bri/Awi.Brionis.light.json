@@ -5739,7 +5739,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.grey.a5}",
+              "value": "{semantic.background.slate-1}",
               "type": "color"
             },
             "hover": {
@@ -5782,7 +5782,7 @@
           "value": "{semantic.text.default.primary}",
           "type": "color"
         },
-        "text-type": {
+        "border": {
           "gold": {
             "value": "{core.brand-30.500}",
             "type": "color"
@@ -6010,7 +6010,7 @@
       "show-more": {
         "normal": {
           "fill": {
-            "value": "{core.brand-30.600a25}",
+            "value": "{core.brand-60.100}",
             "type": "color"
           },
           "border": {

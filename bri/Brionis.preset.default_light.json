@@ -785,6 +785,19 @@
           }
         }
       },
+      "50a60": {
+        "value": "{core.grey.50}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "a8": {
         "value": "{core.grey.900}",
         "type": "color",
@@ -2890,14 +2903,14 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.brand-30.a20}",
+        "value": "{core.grey.50a60}",
         "type": "color",
-        "description": "text input 1"
+        "description": "The slate second level on main(white) background"
       },
       "slate-2": {
-        "value": "{core.brand-10.100}",
+        "value": "{core.white.a100}",
         "type": "color",
-        "description": "text input 2"
+        "description": "The slate third level on main(white) background"
       },
       "slate-on-card": {
         "value": "{core.white.a90}",
