@@ -5761,7 +5761,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.grey.50}",
+              "value": "{core.white.a70}",
               "type": "color"
             },
             "hover": {
