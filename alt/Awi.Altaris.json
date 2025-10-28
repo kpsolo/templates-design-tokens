@@ -8863,11 +8863,7 @@
     }
   },
   "content": {
-    "padding-left": {
-      "value": "{blur.0}",
-      "type": "spacing"
-    },
-    "padding-right": {
+    "padding-left-right": {
       "value": "{blur.0}",
       "type": "spacing"
     },

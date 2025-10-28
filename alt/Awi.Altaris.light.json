@@ -8897,20 +8897,16 @@
         "description": "Tab menu_main"
       }
     },
-    "padding-left": {
-      "value": "{spacing.600}",
-      "type": "spacing"
-    },
-    "padding-right": {
-      "value": "{spacing.600}",
+    "padding-left-right": {
+      "value": "{spacing.400}",
       "type": "spacing"
     },
     "padding-bottom": {
-      "value": "{spacing.600}",
+      "value": "{spacing.400}",
       "type": "spacing"
     },
     "padding-top": {
-      "value": "{spacing.600}",
+      "value": "{spacing.400}",
       "type": "spacing"
     }
   },
