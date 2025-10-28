@@ -5095,23 +5095,9 @@
           }
         },
         "item": {
-          "title": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
-        },
-        "title": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "card": {
           "background": {
             "fill": {
-              "value": "{core.brand-60.700a40}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{core.brand-60.a15}",
+              "value": "{semantic.gradients.7}",
               "type": "color"
             }
           }
@@ -5200,10 +5186,6 @@
           "ellipse": {
             "value": "{core.white.a100}",
             "type": "color"
-          },
-          "text": {
-            "value": "{semantic.text.banner-cart.primary}",
-            "type": "color"
           }
         }
       },
@@ -5212,11 +5194,7 @@
           "value": "{core.brand-60.900}",
           "type": "color"
         },
-        "card": {
-          "text": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
+        "item": {
           "background": {
             "default": {
               "value": "{core.white.a100}",
@@ -8124,11 +8102,11 @@
           "type": "spacing"
         },
         "mob": {
-          "value": "{heading.xl-stronger}",
+          "value": "{text.lg-stronger}",
           "type": "typography"
         },
         "web": {
-          "value": "{heading.xxl-stronger}",
+          "value": "{heading.lg-stronger}",
           "type": "typography"
         }
       },
