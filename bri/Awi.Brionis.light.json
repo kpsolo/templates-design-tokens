@@ -5210,7 +5210,7 @@
       "banner": {
         "background": {
           "1": {
-            "value": "{semantic.gradients.8}",
+            "value": "linear-gradient(58deg, {core.brand-10.500} 0%, rgba(58, 110, 254, 0.00) 20%)",
             "type": "color"
           }
         }
