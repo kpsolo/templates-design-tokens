@@ -6162,7 +6162,14 @@
       "contextual.homepage.winning-now.text": "S:c97c147932d0ef8c84e730ac26680a9e88e8f873,",
       "contextual.homepage.collection.item.background.fill": "S:825e3da36a83da268a71fb870f430872bec3f897,",
       "contextual.homepage.winning-now.item.background.default": "S:b2afd48e7990e92225d0c09f9868f3ee2be606c4,",
-      "contextual.homepage.winning-now.item.background.hover": "S:c7c966cb459ac9a466d2e04eaf948effc6445f38,"
+      "contextual.homepage.winning-now.item.background.hover": "S:c7c966cb459ac9a466d2e04eaf948effc6445f38,",
+      "contextual.lottery-tournament.players-prizes.border.gold": "S:34aba0fdf982c2fd87e121081e434c06273f0285,",
+      "contextual.lottery-tournament.players-prizes.border.silver": "S:c7650a2c34b5cad846f989b5449acbb9ae596933,",
+      "contextual.lottery-tournament.players-prizes.border.bronze": "S:7512c17949b5c33d0b6542a1b4f4cc0f47ffc947,",
+      "core.grey.50a60": "S:f6016d80b7bf453fe3bc44f480c6e6fc6f1f21a6,",
+      "contextual.lottery-tournament.tabs.state-2.fill": "S:e1a0bf8b7a2f76a4465bde2d026554d9376d025b,",
+      "contextual.lottery-tournament.tabs.state-2.border": "S:c065ca587511968cfb0fa36ba16f60ad96c4214a,",
+      "text.lg-strong": "S:e80edb468569b1a2aa04f320554b4db6fe93e2a9,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

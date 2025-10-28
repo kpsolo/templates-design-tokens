@@ -5778,13 +5778,9 @@
           "value": "{core.white.a100}",
           "type": "color"
         },
-        "text-heading": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        },
         "border": {
           "gold": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.additionals.gold}",
             "type": "color"
           },
           "silver": {
@@ -5854,41 +5850,25 @@
           "description": "zero block"
         },
         "border": {
-          "value": "{core.grey.a8}",
+          "value": "{core.brand-10.100}",
           "type": "color",
           "description": "zero block border"
         }
       },
       "tabs": {
-        "item": {
-          "fill": {
-            "default": {
-              "value": "{core.brand-60.50}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{core.brand-60.400}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.brand-60.200}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-60.600}",
-              "type": "color"
-            }
-          }
-        },
         "fill": {
-          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
+          "value": "{semantic.background.slate-1}",
           "type": "color"
+        },
+        "state-2": {
+          "fill": {
+            "value": "{semantic.background.slate-2}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-10.100}",
+            "type": "color"
+          }
         }
       },
       "prize": {
@@ -6705,6 +6685,15 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{lg}"
+      },
+      "type": "typography"
+    },
+    "lg-strong": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-5}",
         "lineHeight": "{lg}"
       },
