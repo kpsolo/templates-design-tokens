@@ -8862,6 +8862,35 @@
       }
     }
   },
+  "content": {
+    "padding-left": {
+      "value": "{blur.0}",
+      "type": "spacing"
+    },
+    "padding-right": {
+      "value": "{blur.0}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{blur.0}",
+      "type": "spacing"
+    },
+    "padding-top": {
+      "value": "{blur.0}",
+      "type": "spacing"
+    },
+    "max-width": {
+      "value": "1560px",
+      "type": "sizing"
+    },
+    "tab-bar": {
+      "main-icon": {
+        "value": "{size.600}",
+        "type": "sizing",
+        "description": "Tab menu_main"
+      }
+    }
+  },
   "letter-spacing": {
     "2": {
       "value": "2%",
@@ -8904,19 +8933,6 @@
     "800": {
       "value": "64",
       "type": "sizing"
-    }
-  },
-  "content": {
-    "max-width": {
-      "value": "1560px",
-      "type": "sizing"
-    },
-    "tab-bar": {
-      "main-icon": {
-        "value": "{size.600}",
-        "type": "sizing",
-        "description": "Tab menu_main"
-      }
     }
   },
   "input": {
