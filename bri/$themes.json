@@ -6171,7 +6171,8 @@
       "contextual.lottery-tournament.tabs.state-2.border": "S:c065ca587511968cfb0fa36ba16f60ad96c4214a,",
       "text.lg-strong": "S:e80edb468569b1a2aa04f320554b4db6fe93e2a9,",
       "contextual.thumb-games.mobile.fill": "S:de2f9125fab8a048aaedd4804f1b89e279c571a0,",
-      "contextual.homepage.banner.background.1": "S:5fb4914486f988a5812810c0b6f11f364747b315,"
+      "contextual.homepage.banner.background.1": "S:5fb4914486f988a5812810c0b6f11f364747b315,",
+      "contextual.homepage.banner.background.2": "S:7cd607c2bedfdee0158a2324bde3dbc8eece164f,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

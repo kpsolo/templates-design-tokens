@@ -5212,6 +5212,10 @@
           "1": {
             "value": "linear-gradient(58deg, {core.brand-10.500} 0%, rgba(58, 110, 254, 0.00) 20%)",
             "type": "color"
+          },
+          "2": {
+            "value": "radial-gradient(89% 46% at 20% 45%, {core.brand-preset.for-gradients.3} 0%, {core.brand-10.500} 100%)",
+            "type": "color"
           }
         }
       }
