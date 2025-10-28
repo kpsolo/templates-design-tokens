@@ -8906,7 +8906,7 @@
       "type": "spacing"
     },
     "padding-top": {
-      "value": "{spacing.400}",
+      "value": "{spacing.600}",
       "type": "spacing"
     }
   },
