@@ -6022,6 +6022,12 @@
           "value": "{semantic.text.default.primary}",
           "type": "color"
         }
+      },
+      "mobile": {
+        "fill": {
+          "value": "{semantic.background.5}",
+          "type": "color"
+        }
       }
     },
     "tab-bar": {
