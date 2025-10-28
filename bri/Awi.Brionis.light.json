@@ -5206,6 +5206,14 @@
             }
           }
         }
+      },
+      "banner": {
+        "background": {
+          "1": {
+            "value": "{semantic.gradients.8}",
+            "type": "color"
+          }
+        }
       }
     },
     "slider": {
