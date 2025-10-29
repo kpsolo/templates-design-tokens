@@ -219,6 +219,11 @@
       "type": "borderRadius",
       "description": "\n\n\n"
     },
+    "toast&cookies": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius",
+      "description": "\n\n\n"
+    },
     "homepage": {
       "collection": {
         "card": {
