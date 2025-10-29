@@ -5898,8 +5898,15 @@
         }
       },
       "cart": {
+        "top": {
+          "fill": {
+            "value": "{semantic.gradients.7}",
+            "type": "color",
+            "description": "status-inactive"
+          }
+        },
         "fill": {
-          "value": "{semantic.gradients.9}",
+          "value": "{core.white.a100}",
           "type": "color",
           "description": "status-inactive"
         }
