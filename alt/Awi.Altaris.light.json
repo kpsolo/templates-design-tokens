@@ -3009,7 +3009,7 @@
       },
       "icon": {
         "standard": {
-          "value": "{semantic.background.brand.emphasizing.default.primary}",
+          "value": "{semantic.icon.default.primary}",
           "type": "color"
         },
         "hover": {
