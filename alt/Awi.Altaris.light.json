@@ -2989,7 +2989,7 @@
     "up-button": {
       "fill": {
         "standard": {
-          "value": "{core.grey.900}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "hover": {
