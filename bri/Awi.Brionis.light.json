@@ -4560,6 +4560,10 @@
         "fill": {
           "value": "{core.white.a100}",
           "type": "color"
+        },
+        "fill-current": {
+          "value": "linear-gradient(80deg, {core.brand-10.500} 70%, {core.brand-30.500} 120%)",
+          "type": "color"
         }
       }
     },
