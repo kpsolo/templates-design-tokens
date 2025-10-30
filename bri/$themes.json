@@ -6197,7 +6197,15 @@
       "contextual.menu-item.current.fill.default": "S:fe7b2f70bd986e873fcbc783490a26df5bd011a3,",
       "contextual.menu-item.current.fill.hover": "S:4d6c5ef310ed778c4efc161785e7a49ed6d262a9,",
       "contextual.menu-item.current.fill.active": "S:c65f59c2302d2dce65e9af6fd947b5e94ddfd4b8,",
-      "contextual.menu-item.current.fill.disabled": "S:5701fd4994da71cd499c8504def0cacfed435cda,"
+      "contextual.menu-item.current.fill.disabled": "S:5701fd4994da71cd499c8504def0cacfed435cda,",
+      "contextual.header.desktop.special-menu-item.new.fill": "S:16f8ae596857ac29690d9558c434dea3536185b8,",
+      "contextual.header.desktop.special-menu-item.new.border": "S:5ac529b7a0a5dbde6f69bad98396742637882502,",
+      "contextual.header.desktop.special-menu-item.new.icon": "S:52391a09af7607a4bae99d55fd929a5ecd4b749d,",
+      "contextual.header.desktop.special-menu-item.new.devider": "S:0ca44c9b370cc5b61ee046c47abca328341e4bd2,",
+      "contextual.header.desktop.special-menu-item.current.fill": "S:3016f4d4b8bbc460b20b33fdf1e7b9a06117dfcb,",
+      "contextual.header.desktop.special-menu-item.current.border": "S:1acdab66f2f494c47f49e33a272079cf4dde7c7f,",
+      "contextual.header.desktop.special-menu-item.current.icon": "S:19cb79b49275e19b17adf3c5b063843f7bf21f68,",
+      "contextual.header.desktop.special-menu-item.current.devider": "S:b1bed2fa0d7872ab2a88394bb41ac3b772edde0e,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
