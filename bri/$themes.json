@@ -6209,7 +6209,19 @@
       "shadow.button.static.default": "S:c9beadcd87cfe0417a0041cd1abbe0027c0eb8d6,",
       "shadow.button.static.disabled": "S:faab91aef73fb27a4b3a9897673a32e020a440dd,",
       "shadow.button.static.hover": "S:1f6f76273bd181c9751fed94ce8e43b8b5cf63c3,",
-      "shadow.button.static.active": "S:0dda457494f6686fa39c14db4c8ad16384cf017d,"
+      "shadow.button.static.active": "S:0dda457494f6686fa39c14db4c8ad16384cf017d,",
+      "contextual.button.static.fill.default": "S:5d3dd57a2bd55c389c01685b258ceea3759936e8,",
+      "contextual.button.static.fill.hover": "S:398082f2d579ebf71bed4693a6237d9d354d35a5,",
+      "contextual.button.static.fill.active": "S:74c59773ead7a1a00e483dcf80606e54bc730bce,",
+      "contextual.button.static.fill.disabled": "S:80da98ee3d27d38b79fc6935818453bcebeb32eb,",
+      "contextual.button.static.text.default": "S:546cec921c26b9a24e416844daca7176ba7406a6,",
+      "contextual.button.static.text.hover": "S:adb23d57138756bc8b3fc0938c1edcef317251d4,",
+      "contextual.button.static.text.active": "S:76f6e7e708718aeaede74f7ef59d29cf99ae75fd,",
+      "contextual.button.static.text.disabled": "S:dc7207d7734235b5976dcd722257474db07b0d1b,",
+      "contextual.button.static.border-color.default": "S:206e080fe03688f6dcd3994787fa4d382b70f8ef,",
+      "contextual.button.static.border-color.hover": "S:7689a41862c435809050f808b27f8f6c1af553f2,",
+      "contextual.button.static.border-color.active": "S:c55c119ccee672be59dac4e4bac785013559c314,",
+      "contextual.button.static.border-color.disabled": "S:af5e26c61ae0bfef73e55f53c6f1c1fa30687ea7,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
