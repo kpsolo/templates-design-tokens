@@ -6205,7 +6205,11 @@
       "contextual.header.desktop.special-menu-item.current.fill": "S:3016f4d4b8bbc460b20b33fdf1e7b9a06117dfcb,",
       "contextual.header.desktop.special-menu-item.current.border": "S:1acdab66f2f494c47f49e33a272079cf4dde7c7f,",
       "contextual.header.desktop.special-menu-item.current.icon": "S:19cb79b49275e19b17adf3c5b063843f7bf21f68,",
-      "contextual.header.desktop.special-menu-item.current.devider": "S:b1bed2fa0d7872ab2a88394bb41ac3b772edde0e,"
+      "contextual.header.desktop.special-menu-item.current.devider": "S:b1bed2fa0d7872ab2a88394bb41ac3b772edde0e,",
+      "shadow.button.static.default": "S:c9beadcd87cfe0417a0041cd1abbe0027c0eb8d6,",
+      "shadow.button.static.disabled": "S:faab91aef73fb27a4b3a9897673a32e020a440dd,",
+      "shadow.button.static.hover": "S:1f6f76273bd181c9751fed94ce8e43b8b5cf63c3,",
+      "shadow.button.static.active": "S:0dda457494f6686fa39c14db4c8ad16384cf017d,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
