@@ -5448,7 +5448,7 @@
       },
       "inner-pafe": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.white.a0}",
           "type": "color"
         }
       },
