@@ -4437,21 +4437,41 @@
     "header": {
       "desktop": {
         "special-menu-item": {
-          "fill": {
-            "value": "{core.brand-60.50}",
-            "type": "color"
+          "new": {
+            "fill": {
+              "value": "{core.brand-60.50}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{core.brand-60.300}",
+              "type": "color"
+            },
+            "devider": {
+              "value": "{core.grey.a10}",
+              "type": "color"
+            }
           },
-          "border": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          },
-          "icon": {
-            "value": "{core.brand-60.300}",
-            "type": "color"
-          },
-          "devider": {
-            "value": "{core.grey.a10}",
-            "type": "color"
+          "current": {
+            "fill": {
+              "value": "{core.grey.a25}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            },
+            "devider": {
+              "value": "{core.white.a20}",
+              "type": "color"
+            }
           }
         }
       },
