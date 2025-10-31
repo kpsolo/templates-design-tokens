@@ -925,7 +925,7 @@
           "y": "8px",
           "blur": "12px",
           "spread": "{depth.0}",
-          "color": "{core.grey.a20}",
+          "color": "{core.grey.a10}",
           "type": "dropShadow"
         },
         "type": "boxShadow"

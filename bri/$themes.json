@@ -6223,7 +6223,8 @@
       "contextual.button.static.border-color.active": "S:c55c119ccee672be59dac4e4bac785013559c314,",
       "contextual.button.static.border-color.disabled": "S:af5e26c61ae0bfef73e55f53c6f1c1fa30687ea7,",
       "contextual.header.background.fill-current": "S:665dfc6afe7924d4b7212bbc944cb3675333e78f,",
-      "shadow.header.general-current": "S:8b76e4c9ba276db6a4f3e66589c7963ca2a8a9c4,"
+      "shadow.header.general-current": "S:8b76e4c9ba276db6a4f3e66589c7963ca2a8a9c4,",
+      "contextual.header.border.current": "S:e178a0e67d65460890f978bd93bf90b765a286ff,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
