@@ -5722,10 +5722,6 @@
           "type": "color"
         }
       },
-      "overlay": {
-        "value": "{core.grey.a70}",
-        "type": "color"
-      },
       "validation": {
         "danger": {
           "value": "{semantic.text.danger.default}",
