@@ -5449,6 +5449,64 @@
       "fill": {
         "value": "{semantic.background.5}",
         "type": "color"
+      },
+      "quick-pay": {
+        "fill": {
+          "value": "{core.brand-60.50}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-10.200}",
+          "type": "color"
+        },
+        "item": {
+          "text": {
+            "primary": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{semantic.text.danger.default}",
+              "type": "color"
+            },
+            "success": {
+              "value": "{semantic.text.success.default}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            },
+            "tertiary": {
+              "value": "{semantic.text.default.tertiary}",
+              "type": "color"
+            }
+          },
+          "indicator": {
+            "error": {
+              "value": "{core.validation.danger.a10}",
+              "type": "color"
+            },
+            "success": {
+              "value": "{core.validation.success.a10}",
+              "type": "color"
+            },
+            "progress": {
+              "value": "{core.brand-10.a10}",
+              "type": "color"
+            }
+          },
+          "inform": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.brand-10.100}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "status-icon": {
