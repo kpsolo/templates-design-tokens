@@ -6234,7 +6234,8 @@
       "contextual.menu.quick-pay.item.indicator.success": "S:1408f3c1e51d13285c23b8f6709eaa26b9e5a00b,",
       "contextual.menu.quick-pay.item.indicator.progress": "S:261125a7833a147b9a80ec83bd3e0568750bf2cc,",
       "contextual.menu.quick-pay.item.inform.fill": "S:98c6dfd16aa468373170cf47a594f502a8343868,",
-      "contextual.menu.quick-pay.item.inform.border": "S:0f79e78699f171660423b9223a5518063d8f67f2,"
+      "contextual.menu.quick-pay.item.inform.border": "S:0f79e78699f171660423b9223a5518063d8f67f2,",
+      "contextual.menu.quick-pay.divider": "S:00f505d45406fe10dcbca7793610dd48a9a2bb9c,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

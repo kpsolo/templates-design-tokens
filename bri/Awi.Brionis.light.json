@@ -5455,6 +5455,10 @@
           "value": "{core.brand-60.50}",
           "type": "color"
         },
+        "divider": {
+          "value": "{core.grey.a20}",
+          "type": "color"
+        },
         "border": {
           "value": "{core.brand-10.200}",
           "type": "color"
