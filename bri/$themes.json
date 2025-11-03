@@ -6229,7 +6229,12 @@
       "contextual.menu.quick-pay.item.text.secondary": "S:8f31a4e5c5425741be5ceec2c88be302235e9615,",
       "contextual.menu.quick-pay.item.text.tertiary": "S:4b92a456b481d6ee51bbbd5ad61915e7f94b6ff3,",
       "contextual.menu.quick-pay.item.text.error": "S:3308f1eb8b94837b390a6acec409860f0b75ac5e,",
-      "contextual.menu.quick-pay.item.text.success": "S:86184aa3c09330f263f09b5f61db80d140e9e648,"
+      "contextual.menu.quick-pay.item.text.success": "S:86184aa3c09330f263f09b5f61db80d140e9e648,",
+      "contextual.menu.quick-pay.item.indicator.error": "S:cbda1c8da98f0df411ccae0c722f730a8de48792,",
+      "contextual.menu.quick-pay.item.indicator.success": "S:1408f3c1e51d13285c23b8f6709eaa26b9e5a00b,",
+      "contextual.menu.quick-pay.item.indicator.progress": "S:261125a7833a147b9a80ec83bd3e0568750bf2cc,",
+      "contextual.menu.quick-pay.item.inform.fill": "S:98c6dfd16aa468373170cf47a594f502a8343868,",
+      "contextual.menu.quick-pay.item.inform.border": "S:0f79e78699f171660423b9223a5518063d8f67f2,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
