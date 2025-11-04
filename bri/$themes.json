@@ -6239,7 +6239,10 @@
       "contextual.accordion.text.primary": "S:223dc10fbb353645f88c42355846a8e084ecd960,",
       "contextual.accordion.text.secondary": "S:34e972402488af5af6b5966fcf01e5985d377823,",
       "contextual.sticky-notifications.text.default": "S:00ffe407a20fa4f6a0387d939a77227d0900abb1,",
-      "contextual.sticky-notifications.text.accent": "S:e32d2ac8528657f1591d7fd4be6f1c2124fdcb40,"
+      "contextual.sticky-notifications.text.accent": "S:e32d2ac8528657f1591d7fd4be6f1c2124fdcb40,",
+      "contextual.label.transparent-light.fill": "S:479a22d44cdd98f62aa765e629f8c3bdcb6f3871,",
+      "contextual.label.transparent-light.text": "S:f5a30cc77e3f2cab3e3fef61de1cca203e3b0528,",
+      "contextual.label.transparent-light.icon": "S:73f846b54a3899997657daee0c3207d11652223d,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

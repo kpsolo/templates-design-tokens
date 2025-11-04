@@ -6336,7 +6336,7 @@
           "description": "badge"
         },
         "icon": {
-          "value": "{core.white.a100}",
+          "value": "{core.white.a70}",
           "type": "color",
           "description": "badge"
         }
