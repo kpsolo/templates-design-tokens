@@ -3580,7 +3580,7 @@
         "prize": {
           "item": {
             "text": {
-              "value": "{contextual.popup.text.heading}",
+              "value": "{semantic.text.default.primary}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -6133,7 +6133,7 @@
       },
       "inner-page": {
         "fill": {
-          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
+          "value": "{core.white.a100}",
           "type": "color",
           "description": "status-inactive"
         }

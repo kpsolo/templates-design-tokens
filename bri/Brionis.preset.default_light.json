@@ -962,6 +962,20 @@
         },
         "description": "replaceble.white 8%\n"
       },
+      "a10": {
+        "value": "{core.brand-preset.white}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.10",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replaceble.white 8%\n"
+      },
       "a5": {
         "value": "{core.brand-preset.white}",
         "type": "color",
