@@ -3642,6 +3642,16 @@
           "value": "{core.brand-60.a10}",
           "type": "color"
         }
+      },
+      "text": {
+        "primary": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{semantic.text.default.secondary}",
+          "type": "color"
+        }
       }
     },
     "table": {
