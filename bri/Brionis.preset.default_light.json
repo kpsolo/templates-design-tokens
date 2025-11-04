@@ -1817,6 +1817,19 @@
           }
         }
       },
+      "a50": {
+        "value": "{core.brand-30.200}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "500a60": {
         "value": "{core.brand-30.500}",
         "type": "color",
