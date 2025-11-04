@@ -1283,7 +1283,7 @@
       }
     },
     "notification": {
-      "value": "{shadow.drop.md}",
+      "value": "{shadow.drop.ml}",
       "type": "boxShadow"
     },
     "messages": {
