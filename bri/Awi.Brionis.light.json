@@ -6046,6 +6046,16 @@
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
+      },
+      "text": {
+        "default": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
       }
     },
     "error-pages": {
