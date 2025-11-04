@@ -7202,15 +7202,15 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.grey.100}",
+            "value": "{core.grey.a10}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.200}",
+            "value": "{core.grey.100}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.200}",
+            "value": "{core.grey.100}",
             "type": "color"
           },
           "disabled": {
