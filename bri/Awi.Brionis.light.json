@@ -5500,7 +5500,7 @@
       }
     },
     "divider2": {
-      "value": "{core.brand-60.a10}",
+      "value": "{core.grey.a10}",
       "type": "color"
     },
     "tabs": {
