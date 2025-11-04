@@ -6323,6 +6323,23 @@
           "type": "color",
           "description": "badge"
         }
+      },
+      "transparent-light": {
+        "fill": {
+          "value": "{core.white.a5}",
+          "type": "color",
+          "description": "badge"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        }
       }
     },
     "status": {
