@@ -6326,7 +6326,7 @@
       },
       "transparent-light": {
         "fill": {
-          "value": "{core.grey.a5}",
+          "value": "{core.grey.a8}",
           "type": "color",
           "description": "badge"
         },
