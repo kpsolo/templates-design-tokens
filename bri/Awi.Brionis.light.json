@@ -1269,7 +1269,7 @@
         }
       },
       "card": {
-        "value": "{shadow.drop.ml}",
+        "value": "{shadow.drop.sm}",
         "type": "boxShadow"
       }
     },
