@@ -6243,7 +6243,9 @@
       "contextual.label.transparent-light.fill": "S:479a22d44cdd98f62aa765e629f8c3bdcb6f3871,",
       "contextual.label.transparent-light.text": "S:f5a30cc77e3f2cab3e3fef61de1cca203e3b0528,",
       "contextual.label.transparent-light.icon": "S:73f846b54a3899997657daee0c3207d11652223d,",
-      "shadow.news.card": "S:bc7fd3cad0d758606353ef15bdcc15fe30c8b836,"
+      "shadow.news.card": "S:bc7fd3cad0d758606353ef15bdcc15fe30c8b836,",
+      "contextual.onboarding.progress-button.item.track": "S:25de667cc8e13fc4dd19212fdeca13eec12a6b0d,",
+      "contextual.onboarding.progress-button.item.container": "S:7e9ba1de10f9bd8ddcc23ce415c661bb3f75d5ec,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

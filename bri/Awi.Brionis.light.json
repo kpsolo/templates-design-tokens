@@ -6088,9 +6088,15 @@
     },
     "onboarding": {
       "progress-button": {
-        "fill": {
-          "value": "{semantic.gradients.4}",
-          "type": "color"
+        "item": {
+          "track": {
+            "value": "{contextual.progress-bar.normal.primary.track}",
+            "type": "color"
+          },
+          "container": {
+            "value": "{contextual.progress-bar.normal.primary.container}",
+            "type": "color"
+          }
         }
       }
     },
