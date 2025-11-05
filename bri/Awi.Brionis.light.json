@@ -1267,6 +1267,10 @@
           },
           "type": "boxShadow"
         }
+      },
+      "card": {
+        "value": "{shadow.drop.ml}",
+        "type": "boxShadow"
       }
     },
     "referal": {
