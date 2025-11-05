@@ -6330,7 +6330,7 @@
       },
       "transparent-light": {
         "fill": {
-          "value": "{core.grey.a8}",
+          "value": "linear-gradient(89deg, {core.brand-10.a30} 38%, {core.brand-30.a30} 100%)",
           "type": "color",
           "description": "badge"
         },
