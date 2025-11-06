@@ -6245,7 +6245,8 @@
       "contextual.label.transparent-light.icon": "S:73f846b54a3899997657daee0c3207d11652223d,",
       "shadow.news.card": "S:bc7fd3cad0d758606353ef15bdcc15fe30c8b836,",
       "contextual.onboarding.progress-button.item.track": "S:25de667cc8e13fc4dd19212fdeca13eec12a6b0d,",
-      "contextual.onboarding.progress-button.item.container": "S:7e9ba1de10f9bd8ddcc23ce415c661bb3f75d5ec,"
+      "contextual.onboarding.progress-button.item.container": "S:7e9ba1de10f9bd8ddcc23ce415c661bb3f75d5ec,",
+      "contextual.notifications.text.tertiary": "S:907b549b4b8e96361d808a616d99ba897a83375c,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
@@ -6291,6 +6292,7 @@
       "border-radius.switcher.item": "e8c721bde6e570be70c918fc40b05d310fbb6a9d",
       "border-radius.button.sm": "b100daf87b0134301791d3ed03dbffcc2e4bc2d0",
       "border-radius.button.md": "ae9a50a0998780fbe39a879f604dbf213fb2de4f",
+      "border-radius.messages": "6074f85e19bbefa95c42d1b0ab392fa24deb1a8f",
       "border-radius.button.lg": "1214489a7f945fa570995a6cf53d15c7f5233bc5",
       "border-radius.progress-button.full": "5ef0d0ff305fb578eef5292eb2c19b7702f64b55",
       "border-radius.card.general": "99df634d0e3482f59933d00874bfd20b8214cb07",
