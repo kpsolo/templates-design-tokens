@@ -6484,7 +6484,7 @@
     "type": "lineHeights"
   },
   "xxl": {
-    "value": "52px",
+    "value": "38px",
     "type": "lineHeights"
   },
   "text-decoration": {
@@ -6727,7 +6727,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-5}",
-        "lineHeight": "{md}",
+        "lineHeight": "{lg}",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
       },

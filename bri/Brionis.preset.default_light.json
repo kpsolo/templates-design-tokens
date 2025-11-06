@@ -321,7 +321,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-5}",
-        "lineHeight": "{md}",
+        "lineHeight": "24px",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
       },
