@@ -3035,7 +3035,7 @@
         }
       },
       "devider": {
-        "value": "rgba(57, 38, 2, 0.10)",
+        "value": "{core.grey.a10}",
         "type": "color"
       }
     },
