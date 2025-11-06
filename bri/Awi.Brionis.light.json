@@ -6085,20 +6085,6 @@
         }
       }
     },
-    "onboarding": {
-      "progress-button": {
-        "item": {
-          "track": {
-            "value": "{contextual.progress-bar.normal.primary.track}",
-            "type": "color"
-          },
-          "container": {
-            "value": "{contextual.progress-bar.normal.primary.container}",
-            "type": "color"
-          }
-        }
-      }
-    },
     "payment-method": {
       "fill": {
         "value": "{core.white.a100}",
