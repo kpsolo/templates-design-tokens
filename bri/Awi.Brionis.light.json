@@ -3042,7 +3042,7 @@
           "type": "color"
         }
       },
-      "divider": {
+      "devider": {
         "value": "{core.grey.a10}",
         "type": "color"
       }
@@ -6456,7 +6456,7 @@
     "type": "fontSizes"
   },
   "scale-8": {
-    "value": "{base} * 2.5",
+    "value": "{base} * 2",
     "type": "fontSizes"
   },
   "xs": {
