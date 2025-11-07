@@ -7432,6 +7432,36 @@
           }
         }
       }
+    },
+    "divider": {
+      "default": {
+        "primary": {
+          "value": "{core.grey.a10}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand-60.a20}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-60.a50}",
+          "type": "color"
+        }
+      },
+      "banner-cart": {
+        "primary": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.white.a10}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.a50}",
+          "type": "color"
+        }
+      }
     }
   },
   "spacing": {
