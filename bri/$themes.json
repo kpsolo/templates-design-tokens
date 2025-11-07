@@ -6254,7 +6254,9 @@
       "semantic.divider.banner-cart.secondary": "S:42131880b3d5215ed247804910cc5632cdf1dc9e,",
       "semantic.divider.banner-cart.accent": "S:b096445646b1cbd082625e82db2d78f6e952edf4,",
       "homepage.banner.title.mob": "S:9f54b00569ebf4347418741acd2ad0cec5a585fb,",
-      "homepage.banner.title.web": "S:f6a1195bd981e72f9e03596015c6718038479ace,"
+      "homepage.banner.title.web": "S:f6a1195bd981e72f9e03596015c6718038479ace,",
+      "error-pages.accent.mob": "S:cdc6a859dffc358ccc4e9f4df1bbefc4e826da28,",
+      "error-pages.accent.web": "S:3e698750be009bc667158cc128d2b4ca14ae309e,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

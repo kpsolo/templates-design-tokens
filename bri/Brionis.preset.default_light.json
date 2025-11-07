@@ -465,7 +465,7 @@
   },
   "error-pages": {
     "accent": {
-      "s": {
+      "mob": {
         "value": {
           "fontFamily": "{accent}",
           "fontWeight": "{Medium}",
@@ -476,7 +476,7 @@
         },
         "type": "typography"
       },
-      "l": {
+      "web": {
         "value": {
           "fontFamily": "{accent}",
           "fontWeight": "{Medium}",
