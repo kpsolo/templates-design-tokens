@@ -3034,6 +3034,25 @@
         }
       }
     },
+    "banner": {
+      "title": {
+        "mob": {
+          "value": "{heading.lg-stronger}",
+          "type": "typography"
+        },
+        "web": {
+          "value": {
+            "fontFamily": "{accent}",
+            "fontWeight": "{Bold}",
+            "lineHeight": "52 px",
+            "letterSpacing": "0%",
+            "textCase": "{text-case.none}",
+            "fontSize": "40 px"
+          },
+          "type": "typography"
+        }
+      }
+    },
     "payment-block": {
       "subtitle": {
         "value": {

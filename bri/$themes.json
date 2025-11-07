@@ -6246,7 +6246,15 @@
       "shadow.news.card": "S:bc7fd3cad0d758606353ef15bdcc15fe30c8b836,",
       "contextual.onboarding.progress-button.item.track": "S:25de667cc8e13fc4dd19212fdeca13eec12a6b0d,",
       "contextual.onboarding.progress-button.item.container": "S:7e9ba1de10f9bd8ddcc23ce415c661bb3f75d5ec,",
-      "contextual.notifications.text.tertiary": "S:907b549b4b8e96361d808a616d99ba897a83375c,"
+      "contextual.notifications.text.tertiary": "S:907b549b4b8e96361d808a616d99ba897a83375c,",
+      "semantic.divider.default.primary": "S:3d70eceb7c183516cca74fbc49761fd1b947e8f5,",
+      "semantic.divider.default.secondary": "S:7023d73443ca6f4d657b26073167222b8594d731,",
+      "semantic.divider.default.accent": "S:4704fa7a506d181079866e2b41c7255e613c2850,",
+      "semantic.divider.banner-cart.primary": "S:0e62fbe3edf56563dc0eb9f073402b8cfd598ee8,",
+      "semantic.divider.banner-cart.secondary": "S:42131880b3d5215ed247804910cc5632cdf1dc9e,",
+      "semantic.divider.banner-cart.accent": "S:b096445646b1cbd082625e82db2d78f6e952edf4,",
+      "homepage.banner.title.mob": "S:9f54b00569ebf4347418741acd2ad0cec5a585fb,",
+      "homepage.banner.title.web": "S:f6a1195bd981e72f9e03596015c6718038479ace,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
