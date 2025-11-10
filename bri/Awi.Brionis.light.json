@@ -4859,6 +4859,12 @@
             "value": "{core.grey.a8}",
             "type": "color"
           }
+        },
+        "bottom": {
+          "fill": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
         }
       }
     },
