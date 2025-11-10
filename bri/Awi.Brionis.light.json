@@ -8202,7 +8202,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{Bold}",
             "fontSize": "10px",
-            "lineHeight": "14px"
+            "lineHeight": "16px"
           },
           "type": "typography"
         }
