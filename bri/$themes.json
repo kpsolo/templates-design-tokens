@@ -6256,7 +6256,9 @@
       "homepage.banner.title.mob": "S:9f54b00569ebf4347418741acd2ad0cec5a585fb,",
       "homepage.banner.title.web": "S:f6a1195bd981e72f9e03596015c6718038479ace,",
       "error-pages.accent.mob": "S:cdc6a859dffc358ccc4e9f4df1bbefc4e826da28,",
-      "error-pages.accent.web": "S:3e698750be009bc667158cc128d2b4ca14ae309e,"
+      "error-pages.accent.web": "S:3e698750be009bc667158cc128d2b4ca14ae309e,",
+      "contextual.deals.bonus-card.bottom.fill": "S:2d71e721accffb93720d92cb57fcce0d96c15e7b,",
+      "profile.deals.label.icon": "S:161bb0bfde1492826e8833ceadc944346706e7dc,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

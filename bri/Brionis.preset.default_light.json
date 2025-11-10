@@ -408,50 +408,15 @@
   "popup": {
     "registration": {
       "banner": {
-        "subtitle": {
-          "mob": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{Bold}",
-              "fontSize": "{scale-5}",
-              "lineHeight": "{md}",
-              "textCase": "{text-case.uppercase}",
-              "letterSpacing": "0%"
-            },
-            "type": "typography"
-          },
-          "desk": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{Bold}",
-              "fontSize": "{scale-8}",
-              "lineHeight": "{xxl}",
-              "textCase": "{text-case.uppercase}",
-              "letterSpacing": "2%"
-            },
-            "type": "typography"
-          }
-        },
         "title": {
           "mob": {
             "value": {
               "fontFamily": "{accent}",
               "fontWeight": "{Bold}",
-              "fontSize": "{scale-8}",
-              "lineHeight": "{xxl}",
-              "textCase": "{text-case.uppercase}",
-              "letterSpacing": "-2%"
-            },
-            "type": "typography"
-          },
-          "desk": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{Bold}",
-              "textCase": "{text-case.uppercase}",
-              "letterSpacing": "-2%",
-              "lineHeight": "42px",
-              "fontSize": "36px"
+              "fontSize": "18px",
+              "lineHeight": "24px",
+              "textCase": "0",
+              "letterSpacing": "0"
             },
             "type": "typography"
           }
