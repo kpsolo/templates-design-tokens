@@ -8194,6 +8194,19 @@
           "type": "typography"
         }
       }
+    },
+    "deals": {
+      "label": {
+        "icon": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{Bold}",
+            "fontSize": "10px",
+            "lineHeight": "14px"
+          },
+          "type": "typography"
+        }
+      }
     }
   },
   "tooltip": {
