@@ -4798,12 +4798,12 @@
         },
         "tabs": {
           "background": {
-            "value": "{core.grey.a5}",
+            "value": "{core.grey.50a50}",
             "type": "color"
           },
           "border": {
             "active": {
-              "value": "{core.brand-60.400}",
+              "value": "{core.brand-10.500}",
               "type": "color"
             },
             "inactive": {
@@ -4813,7 +4813,11 @@
           },
           "text": {
             "default": {
-              "value": "{core.white.a80}",
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-10.500}",
               "type": "color"
             }
           }
