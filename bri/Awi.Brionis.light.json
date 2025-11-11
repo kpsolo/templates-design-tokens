@@ -2278,6 +2278,18 @@
         }
       }
     },
+    "registration": {
+      "banner": {
+        "background": {
+          "value": "linear-gradient(163deg, {core.brand-10.500} 8%, {core.brand-preset.for-gradients.3} 82%)",
+          "type": "color"
+        },
+        "background2": {
+          "value": "linear-gradient(205deg, {core.brand-10.500a0} 52%, {core.brand-10.700} 100%)",
+          "type": "color"
+        }
+      }
+    },
     "balance": {
       "item": {
         "fill": {

@@ -6271,7 +6271,10 @@
       "error-pages.text.thumbs-title": "S:912fa0714ab0324c37a5b668ca03d44935543bad,",
       "error-pages.text.web.body": "S:53aa4c5a4010ed0ff5b563e750a313c5936349b3,",
       "error-pages.text.mob.title": "S:2683d553658002b42b4985b57f72ebc955b6b601,",
-      "error-pages.text.mob.body": "S:e2efd8034c73ea5927fb79a1d64f422eb3418a9e,"
+      "error-pages.text.mob.body": "S:e2efd8034c73ea5927fb79a1d64f422eb3418a9e,",
+      "contextual.registration.banner.background": "S:42cb38baaace067d865c394026a8b2d7d0a84eb9,",
+      "contextual.registration.banner.background2": "S:37f5ebcc2f9ba505cd7e2352005b8e9aa7ea0baa,",
+      "core.brand-10.500a0": "S:93b54bc329de786a6580ff08f3d2da391b12e27f,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
