@@ -1934,14 +1934,7 @@
         "type": "boxShadow"
       },
       "card": {
-        "value": {
-          "x": "{blur.0}",
-          "y": "{blur.100}",
-          "blur": "{blur.400}",
-          "spread": "{depth.0}",
-          "color": "{core.grey.a15}",
-          "type": "dropShadow"
-        },
+        "value": "{shadow.drop.md}",
         "type": "boxShadow",
         "description": "selection-controls.controls.fill.banner."
       }
