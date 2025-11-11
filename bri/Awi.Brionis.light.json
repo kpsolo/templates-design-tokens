@@ -6063,26 +6063,21 @@
       }
     },
     "error-pages": {
-      "background-gradient-top": {
-        "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a0} 46%)",
-        "type": "color"
+      "background": {
+        "value": "{semantic.gradients.3}",
+        "type": "color",
+        "description": "Use for Error-pages fill background"
       },
-      "background-gradient-bottom": {
-        "value": "{core.white.a0}",
-        "type": "color"
-      }
-    },
-    "contextual": {
-      "error-pages": {
-        "slate": {
-          "border": {
-            "value": "{core.grey.a8}",
-            "type": "color"
-          },
-          "fill": {
-            "value": "{semantic.background.slate-on-card}",
-            "type": "color"
-          }
+      "text": {
+        "primary": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color",
+          "description": "Use for Error text_title"
+        },
+        "secondary": {
+          "value": "{semantic.text.default.secondary}",
+          "type": "color",
+          "description": "Use for Error text_body and Error-thumbs title"
         }
       }
     },
@@ -6871,28 +6866,35 @@
     }
   },
   "error-pages": {
-    "accent": {
-      "s": {
-        "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{Expanded}",
-          "fontSize": "56px",
-          "lineHeight": "56px",
-          "letterSpacing": "{letter-spacing.2}",
-          "textCase": "{text-case.uppercase}"
+    "text": {
+      "web": {
+        "title": {
+          "value": "{heading.xl-stronger}",
+          "type": "typography",
+          "description": "Use for Error text_title (Desktop)"
         },
-        "type": "typography"
+        "body": {
+          "value": "{text.lg-strong}",
+          "type": "typography",
+          "description": "Use for Error text_body (Desktop)"
+        }
       },
-      "l": {
-        "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{Expanded}",
-          "fontSize": "130px",
-          "lineHeight": "130px",
-          "letterSpacing": "{letter-spacing.2}",
-          "textCase": "{text-case.uppercase}"
+      "thumbs-title": {
+        "value": "{heading.ml}",
+        "type": "typography",
+        "description": "Use for Error-thumbsʼ section title"
+      },
+      "mob": {
+        "title": {
+          "value": "{heading.ml}",
+          "type": "typography",
+          "description": "Use for Error text_title (Mobile)"
         },
-        "type": "typography"
+        "body": {
+          "value": "{text.ml-strong}",
+          "type": "typography",
+          "description": "Use for Error text_body (Mobile)"
+        }
       }
     }
   },
