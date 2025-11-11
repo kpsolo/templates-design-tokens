@@ -4897,6 +4897,12 @@
             "description": "AWI light bg MG dark"
           }
         },
+        "border": {
+          "light": {
+            "value": "{core.grey.a5}",
+            "type": "color"
+          }
+        },
         "text": {
           "light": {
             "value": "{semantic.text.default.primary}",
@@ -4908,6 +4914,10 @@
             "description": "AWI light bg MG dark"
           }
         }
+      },
+      "dots": {
+        "value": "{core.grey.a10}",
+        "type": "color"
       }
     },
     "bonuses": {
