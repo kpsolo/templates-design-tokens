@@ -4770,7 +4770,7 @@
       "welcome-bonus-card": {
         "border": {
           "active": {
-            "value": "linear-gradient(128deg, {core.brand-10.200} 14%, {core.brand-30.400} 51%, {core.brand-30.a60} 87%)",
+            "value": "{semantic.gradients.9}",
             "type": "color"
           },
           "default": {
