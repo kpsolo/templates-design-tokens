@@ -6412,7 +6412,7 @@
       "fill": {
         "transparency": {
           "success": {
-            "value": "{core.validation.success.a20}",
+            "value": "{core.validation.success.a10}",
             "type": "color"
           },
           "default": {
@@ -6420,11 +6420,11 @@
             "type": "color"
           },
           "warning": {
-            "value": "{core.validation.warning.a20}",
+            "value": "{core.validation.warning.a10}",
             "type": "color"
           },
           "error": {
-            "value": "{core.validation.danger.a20}",
+            "value": "{core.validation.danger.a10}",
             "type": "color"
           },
           "info": {

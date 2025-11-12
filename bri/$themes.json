@@ -6274,7 +6274,12 @@
       "error-pages.text.mob.body": "S:e2efd8034c73ea5927fb79a1d64f422eb3418a9e,",
       "contextual.registration.banner.background": "S:42cb38baaace067d865c394026a8b2d7d0a84eb9,",
       "contextual.registration.banner.background2": "S:37f5ebcc2f9ba505cd7e2352005b8e9aa7ea0baa,",
-      "core.brand-10.500a0": "S:93b54bc329de786a6580ff08f3d2da391b12e27f,"
+      "core.brand-10.500a0": "S:93b54bc329de786a6580ff08f3d2da391b12e27f,",
+      "contextual.deals.welcome-bonus-card.tabs.text.active": "S:3fd97fa4098fb23219efe8893fd2ec2d47718c8b,",
+      "contextual.deals.welcome-bonus-card.tabs.fill.active": "S:0f81721cb9c2f2b9cb80c225955ceecda800e02c,",
+      "contextual.deals.welcome-bonus-card.tabs.fill.inactive": "S:857af97e265f842a24facd69387e931380f1cb55,",
+      "contextual.timer.number-cell.border.light": "S:986fb1b42ed29a0c4493fd586fe7f946a9229351,",
+      "contextual.timer.dots": "S:70165d1973997b465efe7e4a259cd3b675081acc,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
