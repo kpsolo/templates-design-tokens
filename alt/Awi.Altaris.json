@@ -6791,27 +6791,11 @@
       }
     },
     "loader": {
-      "light": {
-        "value": "{core.brand-10.400}",
-        "type": "color"
-      },
-      "dark": {
-        "value": "{core.grey.900}",
-        "type": "color"
-      },
       "default": {
         "value": "{core.brand-10.500}",
         "type": "color",
         "description": "Loader deafult color (not in buttons)"
       }
-    },
-    "skeleton1": {
-      "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a5} 50%, {core.white.a0} 100%)",
-      "type": "color"
-    },
-    "skeleton2": {
-      "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a20} 50%, {core.white.a0} 100%)",
-      "type": "color"
     },
     "skeleton": {
       "gr-1": {
