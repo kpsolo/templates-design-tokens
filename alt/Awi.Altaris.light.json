@@ -6778,12 +6778,12 @@
     },
     "skeleton": {
       "gr-1": {
-        "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.a5} 50%, {core.grey.a0} 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.a0} 0%, {core.brand-60.a10} 50%, {core.brand-60.a0} 100%)",
         "type": "color",
         "description": "Skeleton gradient stop 1"
       },
       "gr-2": {
-        "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.a20} 50%, {core.grey.a0} 100%);",
+        "value": "linear-gradient(180deg, {core.brand-60.a0} 0%, {core.brand-60.a20} 50%, {core.brand-60.a0} 100%);",
         "type": "color",
         "description": "Skeleton gradient stop 2"
       }
