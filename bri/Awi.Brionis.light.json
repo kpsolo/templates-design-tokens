@@ -4791,7 +4791,7 @@
         },
         "tabs": {
           "background": {
-            "value": "{core.grey.50a50}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           },
           "border": {
@@ -4806,11 +4806,21 @@
           },
           "text": {
             "default": {
-              "value": "{semantic.text.default.secondary}",
+              "value": "{semantic.text.default.primary}",
               "type": "color"
             },
             "active": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            }
+          },
+          "fill": {
+            "active": {
               "value": "{core.brand-10.500}",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "{core.white.a0}",
               "type": "color"
             }
           }
