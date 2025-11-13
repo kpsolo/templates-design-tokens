@@ -4902,7 +4902,7 @@
         },
         "border": {
           "light": {
-            "value": "{core.grey.a5}",
+            "value": "{core.brand-60.a25}",
             "type": "color"
           }
         },
@@ -4919,7 +4919,7 @@
         }
       },
       "dots": {
-        "value": "{core.grey.a10}",
+        "value": "{core.brand-60.a25}",
         "type": "color"
       }
     },
