@@ -6279,7 +6279,10 @@
       "contextual.deals.welcome-bonus-card.tabs.fill.active": "S:0f81721cb9c2f2b9cb80c225955ceecda800e02c,",
       "contextual.deals.welcome-bonus-card.tabs.fill.inactive": "S:857af97e265f842a24facd69387e931380f1cb55,",
       "contextual.timer.number-cell.border.light": "S:986fb1b42ed29a0c4493fd586fe7f946a9229351,",
-      "contextual.timer.dots": "S:70165d1973997b465efe7e4a259cd3b675081acc,"
+      "contextual.timer.dots": "S:70165d1973997b465efe7e4a259cd3b675081acc,",
+      "contextual.deals.welcome-bonus-card.tabs.text.disabled": "S:91b16e3a0aea86d8cb3a258b491f4c081ee3ec26,",
+      "contextual.welcome-bonus.progress.active": "S:28dcfe744d1c0ef41ea7ad018b2e49d26da79f49,",
+      "contextual.welcome-bonus.progress.inactive": "S:1607a29898714c0cc3f9ebe9189944eb2f60ae4d,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
