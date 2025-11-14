@@ -6380,7 +6380,7 @@
       "content": {
         "transparency": {
           "success": {
-            "value": "{core.validation.success.500}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
           "default": {
@@ -6388,11 +6388,11 @@
             "type": "color"
           },
           "warning": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.warning.600}",
             "type": "color"
           },
           "error": {
-            "value": "{core.validation.danger.500}",
+            "value": "{core.validation.danger.600}",
             "type": "color"
           },
           "info": {
