@@ -2593,7 +2593,7 @@
     "hall-of-fame": {
       "text": {
         "gold": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.additionals.gold}",
           "type": "color"
         },
         "silver": {
