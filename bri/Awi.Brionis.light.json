@@ -6140,13 +6140,21 @@
         "type": "color"
       },
       "progress": {
-        "active": {
-          "value": "{core.brand-30.500}",
-          "type": "color"
-        },
         "inactive": {
           "value": "{core.white.a100}",
           "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.a60}",
+          "type": "color"
+        },
+        "steps": {
+          "steps": {
+            "icon": {
+              "value": "{core.brand-10.a60}",
+              "type": "color"
+            }
+          }
         }
       }
     },
