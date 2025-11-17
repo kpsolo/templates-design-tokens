@@ -3431,7 +3431,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-30.a15}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "illustration": {
@@ -7174,7 +7174,7 @@
       },
       "success": {
         "default": {
-          "value": "{core.validation.success.500}",
+          "value": "{core.validation.success.600}",
           "type": "color"
         },
         "static": {
