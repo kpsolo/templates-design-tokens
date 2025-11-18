@@ -3384,7 +3384,7 @@
           "value": "{core.brand-30.50}",
           "type": "color"
         },
-        "bonus": {
+        "border": {
           "value": "{core.brand-30.300}",
           "type": "color"
         },

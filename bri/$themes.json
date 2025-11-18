@@ -6284,7 +6284,8 @@
       "contextual.welcome-bonus.progress.active": "S:28dcfe744d1c0ef41ea7ad018b2e49d26da79f49,",
       "contextual.welcome-bonus.progress.inactive": "S:1607a29898714c0cc3f9ebe9189944eb2f60ae4d,",
       "contextual.welcome-bonus.progress.steps.steps.icon": "S:ac155614c81916b21193886cd044f3275188d6a8,",
-      "contextual.cashbox.bonus.bonus": "S:7d272d88da150b07d69026aec150cd85c9f9c826,"
+      "contextual.cashbox.bonus.bonus": "S:7d272d88da150b07d69026aec150cd85c9f9c826,",
+      "contextual.cashbox.bonus.border": "S:21d43f9a17f02449e75d37f73853298464328d1c,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
