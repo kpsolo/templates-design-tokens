@@ -6811,7 +6811,7 @@
             "description": "Lootboxes"
           }
         },
-        "bacground": {
+        "background": {
           "value": "{core.brand-60.900}",
           "type": "color",
           "description": "Lootboxes"
