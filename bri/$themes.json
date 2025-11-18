@@ -6285,7 +6285,13 @@
       "contextual.welcome-bonus.progress.inactive": "S:1607a29898714c0cc3f9ebe9189944eb2f60ae4d,",
       "contextual.welcome-bonus.progress.steps.steps.icon": "S:ac155614c81916b21193886cd044f3275188d6a8,",
       "contextual.cashbox.bonus.bonus": "S:7d272d88da150b07d69026aec150cd85c9f9c826,",
-      "contextual.cashbox.bonus.border": "S:21d43f9a17f02449e75d37f73853298464328d1c,"
+      "contextual.cashbox.bonus.border": "S:21d43f9a17f02449e75d37f73853298464328d1c,",
+      "contextual.hall-of-fame.player-number.border.active": "S:cb006c35d0f5a111656de9f9938af24ed8b0a618,",
+      "contextual.hall-of-fame.player-number.border.default": "S:8370ff1e9ca6afc75be2d206ae6bb78beb07f062,",
+      "contextual.hall-of-fame.player-number.border.hover": "S:a2e669a7ec22590602bc4a721ffeb00cf085cf17,",
+      "contextual.hall-of-fame.player-number.fill.active": "S:df863ca1bccd207bae2a2a0ab04306e651536572,",
+      "contextual.hall-of-fame.player-number.fill.default": "S:e249552945dec38b76a4f78bb2d1a0685b0830fc,",
+      "contextual.hall-of-fame.player-number.fill.hover": "S:5805a237a6607b5e8fd89f18cd46e27a99b074d0,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

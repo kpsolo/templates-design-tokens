@@ -2605,7 +2605,7 @@
           "type": "color"
         }
       },
-      "tabs": {
+      "player-number": {
         "border": {
           "active": {
             "value": "{semantic.gradients.6}",
@@ -2626,19 +2626,13 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.background.5}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.background.5}",
             "type": "color"
           }
-        }
-      },
-      "player-number": {
-        "fill": {
-          "value": "{core.brand-60.a5}",
-          "type": "color"
         }
       }
     },
