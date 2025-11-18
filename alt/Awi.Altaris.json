@@ -3718,26 +3718,6 @@
           "value": "{core.brand-30.a8}",
           "type": "color",
           "description": "Lootboxes"
-        },
-        "favorites": {
-          "default": {
-            "border": {
-              "value": "{core.brand-30.500}",
-              "type": "color",
-              "description": "Lootboxes"
-            }
-          },
-          "bacground": {
-            "value": "{core.brand-60.900}",
-            "type": "color",
-            "description": "Lootboxes"
-          },
-          "selected": {
-            "fill": {
-              "value": "linear-gradient(167deg, {core.brand-30.50} , {core.brand-30.500} )",
-              "type": "color"
-            }
-          }
         }
       },
       "block": {
@@ -3752,6 +3732,28 @@
           "value": "{core.brand-10.600}",
           "type": "color",
           "description": "Lootboxes"
+        }
+      }
+    },
+    "label": {
+      "favorites": {
+        "default": {
+          "border": {
+            "value": "{core.brand-30.500}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "bacground": {
+          "value": "{core.brand-60.900}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "selected": {
+          "fill": {
+            "value": "linear-gradient(167deg, {core.brand-30.50} , {core.brand-30.500} )",
+            "type": "color"
+          }
         }
       }
     },
