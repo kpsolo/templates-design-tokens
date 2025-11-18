@@ -2574,8 +2574,14 @@
     },
     "top-up": {
       "banner": {
-        "value": "{semantic.gradients.2}",
-        "type": "color"
+        "fill": {
+          "value": "{core.brand-30.50}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.200}",
+          "type": "color"
+        }
       }
     },
     "email": {

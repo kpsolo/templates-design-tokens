@@ -6292,7 +6292,9 @@
       "contextual.hall-of-fame.player-number.fill.active": "S:df863ca1bccd207bae2a2a0ab04306e651536572,",
       "contextual.hall-of-fame.player-number.fill.default": "S:e249552945dec38b76a4f78bb2d1a0685b0830fc,",
       "contextual.hall-of-fame.player-number.fill.hover": "S:5805a237a6607b5e8fd89f18cd46e27a99b074d0,",
-      "core.brand-30.50a0": "S:0ec035a2cea67a2cf4d06122111051629b213878,"
+      "core.brand-30.50a0": "S:0ec035a2cea67a2cf4d06122111051629b213878,",
+      "contextual.top-up.banner.fill": "S:40ea15db585bc12517e41e36fc1fd3c0146724dd,",
+      "contextual.top-up.banner.border": "S:784a41877c646ad7b4ec713897fe551919c32bf1,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
