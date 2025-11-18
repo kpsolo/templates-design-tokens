@@ -3387,7 +3387,7 @@
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, {core.brand-60.100a0} 0%, {core.brand-60.100} 100%)",
+          "value": "linear-gradient(180deg, {core.brand-30.50a0} 0%, {core.brand-30.50} 100%)",
           "type": "color"
         },
         "text": {

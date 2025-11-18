@@ -1860,6 +1860,19 @@
           }
         }
       },
+      "50a0": {
+        "value": "{core.brand-30.50}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "a40": {
         "value": "{core.brand-30.200}",
         "type": "color",
