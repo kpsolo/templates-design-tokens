@@ -3705,6 +3705,11 @@
               "type": "color",
               "description": "Lootboxes"
             }
+          },
+          "bacground": {
+            "value": "{core.brand-30.500}",
+            "type": "color",
+            "description": "Lootboxes"
           }
         }
       },
