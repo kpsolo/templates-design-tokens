@@ -3753,6 +3753,14 @@
           "fill": {
             "value": "linear-gradient(167deg, {core.brand-30.50} , {core.brand-30.500} )",
             "type": "color"
+          },
+          "fill-start": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          },
+          "fill-end": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
           }
         }
       }
