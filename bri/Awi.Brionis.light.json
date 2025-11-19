@@ -4870,13 +4870,17 @@
             "value": "{semantic.text.default.primary}",
             "type": "color"
           }
+        },
+        "background": {
+          "value": "{core.white.a10}",
+          "type": "color"
         }
       },
-      "background": {
-        "value": "{core.white.a100}",
-        "type": "color"
-      },
       "bonus-card": {
+        "background": {
+          "value": "{core.white.a10}",
+          "type": "color"
+        },
         "border": {
           "active": {
             "value": "{semantic.border.active.element}",
