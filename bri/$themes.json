@@ -6296,7 +6296,10 @@
       "contextual.top-up.banner.fill": "S:40ea15db585bc12517e41e36fc1fd3c0146724dd,",
       "contextual.top-up.banner.border": "S:784a41877c646ad7b4ec713897fe551919c32bf1,",
       "contextual.deals.timer.background": "S:470e4678b7bbf6b8d81cf86367eb5767841c408b,",
-      "contextual.deals.bonus-card.background": "S:16385d7510d45c23832d6365001f0f67b674a3c3,"
+      "contextual.deals.bonus-card.background": "S:16385d7510d45c23832d6365001f0f67b674a3c3,",
+      "contextual.label.secondary.fill": "S:defa27c966dc493ec75290d033074410cd8cc449,",
+      "contextual.label.secondary.text": "S:b450ef9b467319a327097256c4f0606c0a8f88f3,",
+      "contextual.label.secondary.icon": "S:7a8e482ee6568bed92c25ac338bca6322559e176,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
