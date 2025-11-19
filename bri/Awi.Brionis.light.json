@@ -3817,7 +3817,7 @@
       "text": {
         "label": {
           "default": {
-            "value": "{semantic.icon.default.tertiary}",
+            "value": "{semantic.text.default.tertiary}",
             "type": "color"
           },
           "disabled": {
