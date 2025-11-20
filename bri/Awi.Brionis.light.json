@@ -4989,22 +4989,12 @@
       },
       "slider": {
         "payment-block": {
-          "text": {
-            "text-primary": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color"
-            },
-            "text-secondary": {
-              "value": "{semantic.text.default.secondary}",
-              "type": "color"
-            }
-          },
           "background": {
-            "value": "{semantic.gradients.8}",
+            "value": "{core.brand-10.a60}",
             "type": "color"
           },
-          "element": {
-            "value": "{core.white.a100}",
+          "border": {
+            "value": "{core.brand-10.200}",
             "type": "color"
           }
         },
