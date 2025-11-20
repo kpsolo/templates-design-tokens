@@ -2575,11 +2575,11 @@
     "top-up": {
       "banner": {
         "fill": {
-          "value": "{core.brand-30.50}",
+          "value": "linear-gradient(51deg, {core.brand-10.500} 7%, {core.brand-60.600} 96%)",
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-30.200}",
+          "value": "{core.brand-30.500a60}",
           "type": "color"
         }
       }
