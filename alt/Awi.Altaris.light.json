@@ -6495,6 +6495,12 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "provider-label": {
+        "default": {
+          "value": "{core.grey.a30}",
+          "type": "color"
+        }
       }
     },
     "news": {
