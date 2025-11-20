@@ -1158,7 +1158,14 @@
       },
       "slider": {
         "payment-block": {
-          "value": "{shadow.drop.sm}",
+          "value": {
+            "x": "0px",
+            "y": "0px",
+            "blur": "8px",
+            "spread": "0px",
+            "color": "{core.brand-10.a40}",
+            "type": "dropShadow"
+          },
           "type": "boxShadow"
         }
       },
