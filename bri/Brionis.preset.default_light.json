@@ -3035,10 +3035,10 @@
           "value": {
             "fontFamily": "{accent}",
             "fontWeight": "{Bold}",
-            "lineHeight": "52 px",
+            "lineHeight": "52px",
             "letterSpacing": "0%",
             "textCase": "{text-case.none}",
-            "fontSize": "40 px"
+            "fontSize": "40px"
           },
           "type": "typography"
         }
