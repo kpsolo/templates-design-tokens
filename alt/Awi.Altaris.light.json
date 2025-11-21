@@ -4167,6 +4167,20 @@
       "indicator": {
         "value": "{core.white.a20}",
         "type": "color"
+      },
+      "static": {
+        "border": {
+          "value": "{core.grey.a10}",
+          "type": "color"
+        },
+        "indicator": {
+          "value": "{core.grey.a10}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        }
       }
     },
     "filter&sort": {

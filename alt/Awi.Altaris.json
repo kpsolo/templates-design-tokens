@@ -4214,6 +4214,20 @@
       "indicator": {
         "value": "{core.white.a20}",
         "type": "color"
+      },
+      "static": {
+        "border": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "indicator": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.banner-cart.primary}",
+          "type": "color"
+        }
       }
     },
     "filter&sort": {
