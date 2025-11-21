@@ -5902,19 +5902,25 @@
         }
       },
       "cost-indicator": {
-        "text": {
-          "value": "{core.brand-10.600}",
+        "text&icon": {
+          "value": "{core.brand-10.500}",
           "type": "color"
         }
       },
       "card": {
         "border": {
           "active": {
-            "value": "{semantic.border.active.element}",
+            "value": "{semantic.gradients.9}",
             "type": "color"
           },
           "default": {
             "value": "{core.grey.a8}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "fill": {
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }

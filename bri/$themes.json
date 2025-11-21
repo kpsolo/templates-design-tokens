@@ -6300,7 +6300,9 @@
       "contextual.label.secondary.fill": "S:defa27c966dc493ec75290d033074410cd8cc449,",
       "contextual.label.secondary.text": "S:b450ef9b467319a327097256c4f0606c0a8f88f3,",
       "contextual.label.secondary.icon": "S:7a8e482ee6568bed92c25ac338bca6322559e176,",
-      "contextual.homepage.slider.payment-block.border": "S:fd95522381a977e5560a8a1c8b027f4762724ea3,"
+      "contextual.homepage.slider.payment-block.border": "S:fd95522381a977e5560a8a1c8b027f4762724ea3,",
+      "contextual.shop.card.background.fill": "S:84376ff9454774da0049fa548c73fa10a8a704f3,",
+      "contextual.shop.cost-indicator.text&icon": "S:6a30a8198bbb838e4e2b8126505ffaf35adadcd1,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
