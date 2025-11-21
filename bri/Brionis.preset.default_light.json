@@ -501,6 +501,20 @@
   },
   "core": {
     "grey": {
+      "25": {
+        "value": "{core.brand-preset.grey}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.95",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "basic.sand 1100"
+      },
       "50": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
@@ -2932,6 +2946,11 @@
       },
       "slate-on-card": {
         "value": "{core.white.a90}",
+        "type": "color",
+        "description": "should be used as a surface color for text, labels"
+      },
+      "page": {
+        "value": "{core.grey.25}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },

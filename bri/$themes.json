@@ -6302,7 +6302,8 @@
       "contextual.label.secondary.icon": "S:7a8e482ee6568bed92c25ac338bca6322559e176,",
       "contextual.homepage.slider.payment-block.border": "S:fd95522381a977e5560a8a1c8b027f4762724ea3,",
       "contextual.shop.card.background.fill": "S:84376ff9454774da0049fa548c73fa10a8a704f3,",
-      "contextual.shop.cost-indicator.text&icon": "S:6a30a8198bbb838e4e2b8126505ffaf35adadcd1,"
+      "contextual.shop.cost-indicator.text&icon": "S:6a30a8198bbb838e4e2b8126505ffaf35adadcd1,",
+      "core.grey.25": "S:e682394a33cb64c5fba1d0b1b0afc7ac933adffd,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
