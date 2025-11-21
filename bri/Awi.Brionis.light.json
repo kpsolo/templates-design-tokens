@@ -4324,7 +4324,7 @@
       "selection-block": {
         "border": {
           "active": {
-            "value": "{core.grey.a15}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "default": {
@@ -4332,13 +4332,13 @@
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.border.static.hover}",
+            "value": "{core.brand-60.200}",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "active": {
