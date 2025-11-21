@@ -5750,12 +5750,12 @@
       },
       "status-inactive": {
         "fill": {
-          "value": "{core.brand-30.a15}",
+          "value": "{core.brand-60.a5}",
           "type": "color",
           "description": "status-inactive"
         },
         "border": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.brand-60.a15}",
           "type": "color",
           "description": "status-inactive"
         }
@@ -5828,7 +5828,7 @@
       },
       "prize": {
         "fill": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.grey.100a10}",
           "type": "color",
           "description": "status-inactive"
         }
