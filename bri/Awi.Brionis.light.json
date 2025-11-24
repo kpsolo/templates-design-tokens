@@ -190,7 +190,7 @@
     },
     "card": {
       "general": {
-        "value": "{border-radius.core.300}",
+        "value": "{border-radius.core.400}",
         "type": "borderRadius"
       }
     },
