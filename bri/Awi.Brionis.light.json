@@ -1590,19 +1590,6 @@
         }
       }
     },
-    "accordion": {
-      "active": {
-        "value": {
-          "x": "0px",
-          "y": "2px",
-          "blur": "6px",
-          "spread": "0px",
-          "color": "{core.brand-60.300a60}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      }
-    },
     "achivments": {
       "status": {
         "done": {
