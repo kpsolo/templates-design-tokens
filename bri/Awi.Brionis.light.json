@@ -391,6 +391,10 @@
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
     },
+    "accordion": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
+    },
     "lootboxes": {
       "coefficient": {
         "value": "{border-radius.core.full}",
@@ -3651,9 +3655,9 @@
       }
     },
     "accordion": {
-      "fill": {
-        "1": {
-          "value": "{core.brand-60.a10}",
+      "background": {
+        "fill": {
+          "value": "{semantic.background.5}",
           "type": "color"
         }
       },
