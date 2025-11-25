@@ -2681,7 +2681,7 @@
     },
     "additionals": {
       "silver": {
-        "value": "#A7B1C9",
+        "value": "#7A89AD",
         "type": "color",
         "description": "basic.silver"
       },
@@ -2724,7 +2724,7 @@
         "description": "vip"
       },
       "gold": {
-        "value": "#FFC94B",
+        "value": "#F09C15",
         "type": "color",
         "description": "vip"
       },
