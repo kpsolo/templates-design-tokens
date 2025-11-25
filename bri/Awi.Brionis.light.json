@@ -5789,6 +5789,44 @@
           }
         }
       },
+      "tiket-number": {
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "winning": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "gold-winning": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "winning": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "fill": {
+          "gold": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
+      },
       "zero-block": {
         "fill": {
           "value": "{semantic.background.5}",
