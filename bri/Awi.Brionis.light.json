@@ -7874,9 +7874,13 @@
       "type": "sizing"
     }
   },
-  "content": {
-    "max-width": {
+  "max-width": {
+    "content": {
       "value": "1136px",
+      "type": "sizing"
+    },
+    "table": {
+      "value": "800px",
       "type": "sizing"
     }
   },
