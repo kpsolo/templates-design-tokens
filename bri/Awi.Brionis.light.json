@@ -5789,14 +5789,14 @@
           }
         }
       },
-      "tiket-number": {
+      "ticket-number": {
         "text": {
           "default": {
             "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "Tiket"
           },
-          "winning": {
+          "gold": {
             "value": "{core.additionals.gold}",
             "type": "color",
             "description": "Tiket"
@@ -5822,6 +5822,18 @@
         "fill": {
           "gold": {
             "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "winning": {
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "bage": {
+          "fill": {
+            "value": "{core.brand-30.500}",
             "type": "color",
             "description": "Tiket"
           }
