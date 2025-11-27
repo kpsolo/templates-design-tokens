@@ -6304,7 +6304,15 @@
       "contextual.shop.card.background.fill": "S:84376ff9454774da0049fa548c73fa10a8a704f3,",
       "contextual.shop.cost-indicator.text&icon": "S:6a30a8198bbb838e4e2b8126505ffaf35adadcd1,",
       "core.grey.25": "S:e682394a33cb64c5fba1d0b1b0afc7ac933adffd,",
-      "contextual.accordion.background.fill": "S:afdc1687e7cbb3cb56be1ad8ec48ce47d8f0b09e,"
+      "contextual.accordion.background.fill": "S:afdc1687e7cbb3cb56be1ad8ec48ce47d8f0b09e,",
+      "contextual.lottery-tournament.ticket-number.text.default": "S:f2ecf5b4c31fcbfa3b5fa481f6c13b481865a776,",
+      "contextual.lottery-tournament.ticket-number.text.gold": "S:d73753abd5c12389eccc0842ef3cb399c152f0a3,",
+      "contextual.lottery-tournament.ticket-number.text.gold-winning": "S:12925af1c699c141854a79626c386e8b17269c45,",
+      "contextual.lottery-tournament.ticket-number.border.default": "S:d48876a7091349b9e22c36755cb83a285f96ddd9,",
+      "contextual.lottery-tournament.ticket-number.border.winning": "S:2dca5257ff316eab3d3ab5cbd1808db8a8ea7b32,",
+      "contextual.lottery-tournament.ticket-number.fill.gold": "S:6a0a90badfeb286999375afc9af8300bd200620e,",
+      "contextual.lottery-tournament.ticket-number.fill.winning": "S:2526bca02d39ba66943609b1897d2c3e6925652b,",
+      "contextual.lottery-tournament.ticket-number.bage.fill": "S:2bcea0b5eee9794dd745a43d249b5e6dc83a3b4b,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

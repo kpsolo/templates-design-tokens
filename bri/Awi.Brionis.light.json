@@ -3493,7 +3493,7 @@
             "type": "color"
           },
           "error": {
-            "value": "{core.validation.danger.500}",
+            "value": "{core.validation.danger.600}",
             "type": "color"
           },
           "error-2": {
@@ -8284,12 +8284,7 @@
   "profile": {
     "verification": {
       "item": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "{scale-5}",
-          "lineHeight": "{lg}"
-        },
+        "value": "{text.lg-stronger}",
         "type": "typography"
       },
       "loyalty_points": {

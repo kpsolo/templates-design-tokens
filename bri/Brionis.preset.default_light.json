@@ -3153,12 +3153,7 @@
   "profile": {
     "verification": {
       "item": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "{scale-5}",
-          "lineHeight": "{lg}"
-        },
+        "value": "{text.lg-stronger}",
         "type": "typography"
       },
       "loyalty_points": {
