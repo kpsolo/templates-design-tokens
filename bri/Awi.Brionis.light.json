@@ -7137,11 +7137,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.50}",
+          "value": "{core.white.a80}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.100}",
+          "value": "{core.white.a60}",
           "type": "color"
         },
         "accent": {
@@ -7219,11 +7219,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.50}",
+          "value": "{core.white.a70}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.100}",
+          "value": "{core.white.a50}",
           "type": "color"
         },
         "accent": {
@@ -7267,11 +7267,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.50}",
+          "value": "{core.white.a80}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.100}",
+          "value": "{core.white.a60}",
           "type": "color"
         },
         "accent": {
