@@ -448,50 +448,15 @@
           "type": "boxShadow"
         },
         "hover": {
-          "value": [
-            {
-              "x": "{depth.0}",
-              "y": "{depth.50}",
-              "blur": "{blur.50}",
-              "spread": "0",
-              "color": "{core.brand-60.a10}",
-              "type": "innerShadow"
-            },
-            {
-              "x": "{depth.0}",
-              "y": "{depth.50}",
-              "blur": "{blur.150}",
-              "spread": "0",
-              "color": "{core.brand-60.a10}",
-              "type": "dropShadow"
-            }
-          ],
+          "value": "{shadow.button.tertiary.default}",
           "type": "boxShadow"
         },
         "disabled": {
-          "value": [
-            {
-              "x": "{depth.0}",
-              "y": "{depth.50}",
-              "blur": "{blur.150}",
-              "spread": "0",
-              "color": "{core.brand-60.a10}",
-              "type": "dropShadow"
-            }
-          ],
+          "value": "{shadow.button.tertiary.default}",
           "type": "boxShadow"
         },
         "active": {
-          "value": [
-            {
-              "x": "{depth.0}",
-              "y": "{depth.50}",
-              "blur": "{blur.50}",
-              "spread": "0",
-              "color": "{core.brand-60.a10}",
-              "type": "innerShadow"
-            }
-          ],
+          "value": "{shadow.button.tertiary.default}",
           "type": "boxShadow"
         }
       },
