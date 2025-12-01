@@ -5471,6 +5471,12 @@
       "border": {
         "value": "{core.white.a0}",
         "type": "color"
+      },
+      "additional-blick": {
+        "border": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        }
       }
     },
     "overlay": {
