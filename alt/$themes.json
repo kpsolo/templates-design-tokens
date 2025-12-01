@@ -4262,7 +4262,19 @@
       "contextual.sticky-notification.text.secondary": "S:7f12997d68375c920111f439e8d2d5c695e25069,",
       "contextual.sticky-notification.text.tertiary": "S:e1a8b6a528f206eed83f34165eccb6fbec45b559,",
       "contextual.sticky-notification.text.accent": "S:6964076064d173291e2f58a5fb7bb0807322e6a3,",
-      "shadow.tab-bar.general": "S:1e8dad60280e59084426a31df74830a95fcc386b,"
+      "shadow.tab-bar.general": "S:1e8dad60280e59084426a31df74830a95fcc386b,",
+      "contextual.label.favorites.default.border": "S:668d17475e015398f1074b309297e07655873cf8,",
+      "contextual.label.favorites.background": "S:6a0d8f15339850fb8a4da5bb41a6872ec360eeaf,",
+      "contextual.label.favorites.selected.fill": "S:b93b76c62ddc2c3b8d61362ecc145d6361e20420,",
+      "contextual.label.favorites.selected.fill-start": "S:d44f14ae3d0b3e697746cfd3270d6fa1efe21165,",
+      "contextual.label.favorites.selected.fill-end": "S:7b4bff5f76e474cfbe4dafd5b853a0b3ed5fb4f9,",
+      "contextual.progressbar.static.border": "S:f4124485c3ab05a1bf8e3bc435404894b260cd38,",
+      "contextual.progressbar.static.indicator": "S:1edb450a9acc5d589b577177339dddfa0ee234bb,",
+      "contextual.progressbar.static.text": "S:2f75302b614ff3b3781de534ef054537b1536f3e,",
+      "contextual.lottery-tournament.provider-label.default": "S:c9ab0a504418e1015ea0e8aabc4fb4798940b337,",
+      "contextual.loader.default": "S:e961e2b9b9934d7c7dd8276fde273833780b05d0,",
+      "contextual.skeleton.gr-1": "S:8da8b84e508f42e68f769d7d138f805b98394110,",
+      "contextual.skeleton.gr-2": "S:551d15657afa21cb070f20cee4dac0e1bfdddbd2,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

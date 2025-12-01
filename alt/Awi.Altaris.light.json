@@ -5704,7 +5704,7 @@
       },
       "status": {
         "fill": {
-          "value": "{core.brand-60.a20}",
+          "value": "{core.grey.a20}",
           "type": "color"
         },
         "progress": {
