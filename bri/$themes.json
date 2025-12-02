@@ -6312,7 +6312,9 @@
       "contextual.lottery-tournament.ticket-number.border.winning": "S:2dca5257ff316eab3d3ab5cbd1808db8a8ea7b32,",
       "contextual.lottery-tournament.ticket-number.fill.gold": "S:6a0a90badfeb286999375afc9af8300bd200620e,",
       "contextual.lottery-tournament.ticket-number.fill.winning": "S:2526bca02d39ba66943609b1897d2c3e6925652b,",
-      "contextual.lottery-tournament.ticket-number.bage.fill": "S:2bcea0b5eee9794dd745a43d249b5e6dc83a3b4b,"
+      "contextual.lottery-tournament.ticket-number.bage.fill": "S:2bcea0b5eee9794dd745a43d249b5e6dc83a3b4b,",
+      "contextual.verification.verification-status.check.text.AI-check": "S:b28d5dae2ed5ff7919d17d86f45f57f03374ace4,",
+      "contextual.popup.additional-blick.border": "S:6d623357558fef01df807dc3267afd0e10e00973,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
