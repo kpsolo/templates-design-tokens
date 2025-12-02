@@ -6314,7 +6314,13 @@
       "contextual.lottery-tournament.ticket-number.fill.winning": "S:2526bca02d39ba66943609b1897d2c3e6925652b,",
       "contextual.lottery-tournament.ticket-number.bage.fill": "S:2bcea0b5eee9794dd745a43d249b5e6dc83a3b4b,",
       "contextual.verification.verification-status.check.text.AI-check": "S:b28d5dae2ed5ff7919d17d86f45f57f03374ace4,",
-      "contextual.popup.additional-blick.border": "S:6d623357558fef01df807dc3267afd0e10e00973,"
+      "contextual.popup.additional-blick.border": "S:6d623357558fef01df807dc3267afd0e10e00973,",
+      "contextual.verification.verification-status.check.icon.AI-check": "S:ae981ca2c58b417de51dfb61965b74e5fc628080,",
+      "contextual.verification.verification-status.loading.text.default": "S:72137029c1a35cfe7ed1c4a005f8484191dae857,",
+      "contextual.verification.verification-status.check.background.fill": "S:cccdf95f382e0668ce0dbb9f26afc56641ed4743,",
+      "contextual.verification.verification-status.loading.background.fill": "S:96a29570d3b09604e0d471f7a6033407967f21f2,",
+      "contextual.verification.verification-status.time.background.fill": "S:e7c688df486eac823065f01374dc8c3ce1e6b5a8,",
+      "contextual.verification.verification-status.error.background.fill": "S:95dd27cb2b4776c84635cce5f40e879cacefa139,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
