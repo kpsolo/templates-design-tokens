@@ -2523,7 +2523,8 @@
         "text": {
           "default": {
             "value": "{semantic.text.default.tertiary}",
-            "type": "color"
+            "type": "color",
+            "description": "Use for text in drag&drop like: File format, etc."
           }
         }
       }
