@@ -381,6 +381,13 @@
         "description": "contextual.segment-control.item"
       }
     },
+    "upload-files": {
+      "drag&drop": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "Use for drag&drop-file-uploader in upload-files"
+      }
+    },
     "profile": {
       "status": {
         "value": "{border-radius.core.full}",
@@ -2495,27 +2502,29 @@
             }
           }
         }
+      }
+    },
+    "upload-files": {
+      "background": {
+        "value": "{core.white.a0}",
+        "type": "color"
       },
-      "frame": {
-        "line": {
-          "value": "{core.grey.a15}",
-          "type": "color"
+      "drag&drop": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.a5}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{contextual.lottery-tournament.tiket.background.border}",
+            "type": "color"
+          }
         },
-        "fill": {
-          "value": "{core.white.a8}",
-          "type": "color"
-        },
-        "scroll": {
-          "value": "{core.grey.800}",
-          "type": "color"
-        },
-        "uploading-line": {
-          "value": "{core.white.a60}",
-          "type": "color"
-        },
-        "divider": {
-          "value": "{core.white.a8}",
-          "type": "color"
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.tertiary}",
+            "type": "color"
+          }
         }
       }
     },

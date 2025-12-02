@@ -6320,7 +6320,12 @@
       "contextual.verification.verification-status.check.background.fill": "S:cccdf95f382e0668ce0dbb9f26afc56641ed4743,",
       "contextual.verification.verification-status.loading.background.fill": "S:96a29570d3b09604e0d471f7a6033407967f21f2,",
       "contextual.verification.verification-status.time.background.fill": "S:e7c688df486eac823065f01374dc8c3ce1e6b5a8,",
-      "contextual.verification.verification-status.error.background.fill": "S:95dd27cb2b4776c84635cce5f40e879cacefa139,"
+      "contextual.verification.verification-status.error.background.fill": "S:95dd27cb2b4776c84635cce5f40e879cacefa139,",
+      "contextual.upload-files.line": "S:f51bffb92478fe954568540d6e1aecd8df3af513,",
+      "contextual.upload-files.drag&drop.background.fill": "S:c2747dd78523bfd1b70a37ad6be01c67d5cb745a,",
+      "contextual.upload-files.drag&drop.text.default": "S:ef9d7595fb3a313086141ceb1223c46bb32b1c64,",
+      "contextual.upload-files.drag&drop.background.border": "S:4ec6793cdd166d2c18d4fbd01d78f3edb3536bc7,",
+      "contextual.upload-files.background": "S:4a5037386ff9618048591abb0c812312e64a8969,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
@@ -6405,6 +6410,7 @@
       "border-radius.menu.list-prime.small": "15b84b6ca1d3009b25a252b09e276e4e6acd0720",
       "border-radius.menu.list-prime.large": "910e30116186b6d1ce726c3035ee90cdf0f51279",
       "border-radius.segment-control.item": "a5b318e90bf9e9ac3b4bd31089c874d593d272ec",
+      "border-radius.upload-files.drag&drop": "d6abf3eca59bda795ba0ff4b98294b5dfaad7a5b",
       "border-radius.profile.status": "6702c172586d548f092bb5847fa2eaf3bec571cb",
       "border-radius.chips": "3cff41bf8fd5fd0a7ba6a7f7e72724d055fd9578",
       "border-radius.accordion": "d8b248f13e33d5a9128e540544ca7fca1bce78ee",
