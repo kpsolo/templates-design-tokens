@@ -2505,10 +2505,6 @@
       }
     },
     "upload-files": {
-      "background": {
-        "value": "{core.white.a0}",
-        "type": "color"
-      },
       "drag&drop": {
         "background": {
           "fill": {
