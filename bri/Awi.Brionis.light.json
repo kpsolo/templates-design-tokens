@@ -7899,7 +7899,7 @@
       "value": "1136px",
       "type": "sizing"
     },
-    "table": {
+    "inner-content": {
       "value": "800px",
       "type": "sizing"
     }
