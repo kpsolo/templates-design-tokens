@@ -3452,14 +3452,28 @@
         },
         "points": {
           "slate-1": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "contextual.profile.loyalty_points.fill"
+            "fill": {
+              "value": "{core.brand-60.50}",
+              "type": "color",
+              "description": "contextual.profile.loyalty_points.fill"
+            },
+            "border": {
+              "value": "{core.brand-10.a30}",
+              "type": "color",
+              "description": "contextual.profile.loyalty_points.fill"
+            }
           },
           "slate-2": {
-            "value": "{core.brand-60.a15}",
-            "type": "color",
-            "description": "contextual.profile.loyalty_points.fill"
+            "fill": {
+              "value": "{core.white.a100}",
+              "type": "color",
+              "description": "contextual.profile.loyalty_points.fill"
+            },
+            "border": {
+              "value": "{core.brand-10.a30}",
+              "type": "color",
+              "description": "contextual.profile.loyalty_points.fill"
+            }
           }
         }
       },

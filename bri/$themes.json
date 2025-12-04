@@ -6325,7 +6325,11 @@
       "contextual.upload-files.drag&drop.background.fill": "S:c2747dd78523bfd1b70a37ad6be01c67d5cb745a,",
       "contextual.upload-files.drag&drop.text.default": "S:ef9d7595fb3a313086141ceb1223c46bb32b1c64,",
       "contextual.upload-files.drag&drop.background.border": "S:4ec6793cdd166d2c18d4fbd01d78f3edb3536bc7,",
-      "contextual.upload-files.background": "S:4a5037386ff9618048591abb0c812312e64a8969,"
+      "contextual.upload-files.background": "S:4a5037386ff9618048591abb0c812312e64a8969,",
+      "contextual.profile.loyalty_points.points.slate-1.fill": "S:740be9620427f881e525ff2e078485cd2fb434c9,",
+      "contextual.profile.loyalty_points.points.slate-1.border": "S:d8550407ba357e8af25144896066f2f5a1cf266c,",
+      "contextual.profile.loyalty_points.points.slate-2.fill": "S:348fd34b9c8167671d8e72f37b2f0c20ae5ab4ad,",
+      "contextual.profile.loyalty_points.points.slate-2.border": "S:ee16e10820c60387af3cdb755e940e06d0d89d6d,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
@@ -6512,7 +6516,7 @@
       "size.600": "90406739e64a847e717b7e9d9768f2f60cf80bfe",
       "size.800": "5501bdbfb38d4528ce7bed46500ed2b2bb28a54b",
       "max-width.content": "081d26e7887e63d158e0916a79c97b04377077f0",
-      "max-width.table": "da52d80bd1fa49ce5ea0134327486e95b5ef9f6b",
+      "max-width.inner-content": "da52d80bd1fa49ce5ea0134327486e95b5ef9f6b",
       "input.height.sm": "9d427ec677d171b4e98f816759114a9b9a2b5f99",
       "input.height.xs": "80f6433f202b9097d4a2f2995fa94f0e84c78660",
       "input.height.md": "f8a0513e05e1bfe5c708fa76528571a61b0ec53a",
