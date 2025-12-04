@@ -3590,7 +3590,7 @@
       "points": {
         "default": {
           "border": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           }
         },
@@ -3601,10 +3601,14 @@
           }
         }
       },
-      "level": {
+      "points-indicator": {
         "text": {
           "accent": {
             "value": "{core.brand-30.600}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.text.brand.on-brand-secondary}",
             "type": "color"
           }
         }
@@ -3612,21 +3616,21 @@
       "route": {
         "line": {
           "filled": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           },
           "direction": {
             "fill1": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.brand-60.500}",
               "type": "color"
             },
             "fill2": {
-              "value": "{core.brand-30.200}",
+              "value": "{core.brand-60.200}",
               "type": "color"
             }
           },
           "not-filled": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.brand-60.a30}",
             "type": "color"
           }
         }

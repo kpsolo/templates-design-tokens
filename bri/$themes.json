@@ -6329,7 +6329,10 @@
       "contextual.profile.loyalty_points.points.slate-1.fill": "S:740be9620427f881e525ff2e078485cd2fb434c9,",
       "contextual.profile.loyalty_points.points.slate-1.border": "S:d8550407ba357e8af25144896066f2f5a1cf266c,",
       "contextual.profile.loyalty_points.points.slate-2.fill": "S:348fd34b9c8167671d8e72f37b2f0c20ae5ab4ad,",
-      "contextual.profile.loyalty_points.points.slate-2.border": "S:ee16e10820c60387af3cdb755e940e06d0d89d6d,"
+      "contextual.profile.loyalty_points.points.slate-2.border": "S:ee16e10820c60387af3cdb755e940e06d0d89d6d,",
+      "contextual.loyalty.level.text.default": "S:4de7856a01f5a4f42da9d8a349d14672344c316e,",
+      "contextual.loyalty.points-indicator.text.accent": "S:fdc1cb5321bec0ef08912a285e90eb38c2fcae66,",
+      "contextual.loyalty.points-indicator.text.default": "S:5c3a49fc0f5ae25e07147b717cd96f82ddfb681e,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
