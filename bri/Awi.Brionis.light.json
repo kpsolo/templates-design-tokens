@@ -3575,12 +3575,6 @@
       }
     },
     "loyalty": {
-      "chip": {
-        "border": {
-          "value": "{core.brand-60.a50}",
-          "type": "color"
-        }
-      },
       "pop-up": {
         "background": {
           "value": "{core.white.a100}",
