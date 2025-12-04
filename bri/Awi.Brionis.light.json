@@ -3628,6 +3628,12 @@
             "type": "color"
           }
         }
+      },
+      "chip": {
+        "border": {
+          "value": "{core.brand-60.a50}",
+          "type": "color"
+        }
       }
     },
     "accordion": {
