@@ -6332,7 +6332,9 @@
       "contextual.profile.loyalty_points.points.slate-2.border": "S:ee16e10820c60387af3cdb755e940e06d0d89d6d,",
       "contextual.loyalty.level.text.default": "S:4de7856a01f5a4f42da9d8a349d14672344c316e,",
       "contextual.loyalty.points-indicator.text.accent": "S:fdc1cb5321bec0ef08912a285e90eb38c2fcae66,",
-      "contextual.loyalty.points-indicator.text.default": "S:5c3a49fc0f5ae25e07147b717cd96f82ddfb681e,"
+      "contextual.loyalty.points-indicator.text.default": "S:5c3a49fc0f5ae25e07147b717cd96f82ddfb681e,",
+      "contextual.loyalty.chip.fill": "S:47c54b1e1e95cc07a93b354ea4b0a6801fb47495,",
+      "contextual.loyalty.chip.text": "S:a081a7899821c72d4386aed8e90474a718115299,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

@@ -3631,7 +3631,11 @@
       },
       "chip": {
         "border": {
-          "value": "{core.brand-60.a50}",
+          "value": "{contextual.chips.normal.border.active}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "{core.brand-10.a5}",
           "type": "color"
         }
       }
