@@ -7915,11 +7915,13 @@
   "max-width": {
     "content": {
       "value": "1136px",
-      "type": "sizing"
+      "type": "sizing",
+      "description": "Use for Content on page"
     },
     "inner-content": {
       "value": "800px",
-      "type": "sizing"
+      "type": "sizing",
+      "description": "Use for Inner-content on page"
     }
   },
   "input": {
