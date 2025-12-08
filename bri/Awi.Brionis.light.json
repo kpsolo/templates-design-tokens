@@ -2883,7 +2883,7 @@
       "points": {
         "default": {
           "border": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           }
         },
