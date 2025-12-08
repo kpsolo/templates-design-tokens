@@ -2871,11 +2871,11 @@
       "route": {
         "line": {
           "filled": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           },
           "not-filled": {
-            "value": "{core.grey.a25}",
+            "value": "{core.brand-60.a30}",
             "type": "color"
           }
         }
