@@ -419,6 +419,12 @@
       "value": "{border-radius.core.full}",
       "type": "borderRadius",
       "description": "Banners: mobile aplication APP page"
+    },
+    "mobile-application": {
+      "card": {
+        "value": "{border-radius.core.400}",
+        "type": "borderRadius"
+      }
     }
   },
   "shadow": {
