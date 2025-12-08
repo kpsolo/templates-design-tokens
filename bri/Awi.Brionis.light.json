@@ -5776,7 +5776,7 @@
         },
         "results": {
           "fill": {
-            "value": "{core.grey.a20}",
+            "value": "{core.white.a15}",
             "type": "color"
           },
           "border": {
