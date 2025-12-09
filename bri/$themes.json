@@ -6334,7 +6334,16 @@
       "contextual.loyalty.points-indicator.text.accent": "S:fdc1cb5321bec0ef08912a285e90eb38c2fcae66,",
       "contextual.loyalty.points-indicator.text.default": "S:5c3a49fc0f5ae25e07147b717cd96f82ddfb681e,",
       "contextual.loyalty.chip.fill": "S:47c54b1e1e95cc07a93b354ea4b0a6801fb47495,",
-      "contextual.loyalty.chip.text": "S:a081a7899821c72d4386aed8e90474a718115299,"
+      "contextual.loyalty.chip.text": "S:a081a7899821c72d4386aed8e90474a718115299,",
+      "contextual.mobile-application.switcher.fill": "S:675103f268aa71b767d741486d93fd34b8093cd0,",
+      "contextual.mobile-application.switcher.border": "S:f8c780a2cc7c7c399a62d41400bdc9585c00899a,",
+      "contextual.mobile-application.image-overlay": "S:6a567b2b2df31da16819eb089ad70565df690bcf,",
+      "contextual.mobile-application.switcher.switcher-button.active.fill": "S:eeed36dcc607bf2f6f6855115b5b41078c36b46f,",
+      "contextual.mobile-application.switcher.switcher-button.active.text": "S:62d9989c77034b30d0ef06c641861bc6317a87fb,",
+      "contextual.mobile-application.switcher.switcher-button.active.icon": "S:f4a3847c19b2220764bca6f43231b33ff27f2cfa,",
+      "contextual.mobile-application.switcher.switcher-button.inactive.fill": "S:73cc873462cbe8eeacc9e952dbd75a088b608b1f,",
+      "contextual.mobile-application.switcher.switcher-button.inactive.text": "S:a4884dd54fc4aca6447eba8f27d6ec421dbae125,",
+      "contextual.mobile-application.switcher.switcher-button.inactive.icon": "S:0c10af25410fd3b5032b35ab203fdaeabc38085d,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

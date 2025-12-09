@@ -2806,7 +2806,47 @@
           "type": "color"
         }
       },
-      "image-averlay": {
+      "switcher": {
+        "fill": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.grey.a8}",
+          "type": "color"
+        },
+        "switcher-button": {
+          "active": {
+            "fill": {
+              "value": "{contextual.button.primary.fill.default}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{semantic.text.banner-cart.primary}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.icon.banner-cart.primary}",
+              "type": "color"
+            }
+          },
+          "inactive": {
+            "fill": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.icon.brand.static}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "image-overlay": {
         "value": "{core.white.a70}",
         "type": "color"
       },
