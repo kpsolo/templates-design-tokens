@@ -2874,32 +2874,34 @@
       },
       "stepper": {
         "bubble": {
-          "default": {
-            "value": "{core.grey.500}",
-            "type": "color"
-          },
           "active": {
-            "value": "{core.grey.50}",
-            "type": "color"
-          },
-          "text": {
-            "active": {
-              "value": "{semantic.text.default.heading}",
+            "text": {
+              "value": "{semantic.text.banner-cart.primary}",
               "type": "color"
             },
-            "default": {
-              "value": "{semantic.text.brand.on-brand}",
+            "fill": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          },
+          "inactive": {
+            "text": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{core.grey.50}",
               "type": "color"
             }
           }
         },
         "line": {
           "active": {
-            "value": "{core.grey.50}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "default": {
-            "value": "{core.grey.500}",
+            "value": "{core.grey.50}",
             "type": "color"
           }
         }

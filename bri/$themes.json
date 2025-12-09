@@ -6343,7 +6343,11 @@
       "contextual.mobile-application.switcher.switcher-button.active.icon": "S:f4a3847c19b2220764bca6f43231b33ff27f2cfa,",
       "contextual.mobile-application.switcher.switcher-button.inactive.fill": "S:73cc873462cbe8eeacc9e952dbd75a088b608b1f,",
       "contextual.mobile-application.switcher.switcher-button.inactive.text": "S:a4884dd54fc4aca6447eba8f27d6ec421dbae125,",
-      "contextual.mobile-application.switcher.switcher-button.inactive.icon": "S:0c10af25410fd3b5032b35ab203fdaeabc38085d,"
+      "contextual.mobile-application.switcher.switcher-button.inactive.icon": "S:0c10af25410fd3b5032b35ab203fdaeabc38085d,",
+      "contextual.mobile-application.stepper.bubble.active.text": "S:69245ff8f92fb8ea9eab94bf0beab04c1cfb0068,",
+      "contextual.mobile-application.stepper.bubble.active.fill": "S:b64e00e0445b001659b1797a184eabcc9c13afee,",
+      "contextual.mobile-application.stepper.bubble.inactive.text": "S:8cc1b22aa355d97be93a847e9606eb2c22776570,",
+      "contextual.mobile-application.stepper.bubble.inactive.fill": "S:f4aca5f7dde7d9b753c45cfc4590a3a47e250a5a,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
