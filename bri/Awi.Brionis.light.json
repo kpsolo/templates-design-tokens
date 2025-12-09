@@ -1583,7 +1583,7 @@
               "y": "0px",
               "blur": "2px",
               "spread": "0px",
-              "color": "{core.brand-30.600}",
+              "color": "{semantic.text.warning.default}",
               "type": "dropShadow"
             },
             {
@@ -1591,7 +1591,7 @@
               "y": "0",
               "blur": "4",
               "spread": "0",
-              "color": "{core.brand-30.600}",
+              "color": "{semantic.text.warning.default}",
               "type": "dropShadow"
             }
           ],
@@ -2633,7 +2633,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{core.brand-30.600}",
+            "value": "{semantic.text.warning.default}",
             "type": "color"
           },
           "done": {
@@ -2651,7 +2651,7 @@
         },
         "text": {
           "progress": {
-            "value": "{core.brand-30.600}",
+            "value": "{semantic.text.warning.default}",
             "type": "color"
           },
           "done": {
@@ -7270,7 +7270,7 @@
       },
       "warning": {
         "default": {
-          "value": "{core.validation.warning.500}",
+          "value": "{core.validation.warning.600}",
           "type": "color"
         },
         "static": {
