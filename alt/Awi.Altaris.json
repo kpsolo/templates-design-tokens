@@ -1031,7 +1031,7 @@
             "y": "{depth.0}",
             "blur": "{blur.100}",
             "spread": "{depth.0}",
-            "color": "{core.brand-30.600}",
+            "color": "{core.brand-30.200}",
             "type": "innerShadow"
           },
           "type": "boxShadow"
@@ -4153,7 +4153,7 @@
           "type": "color"
         },
         "progress": {
-          "value": "{core.white.a1}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "text": {
