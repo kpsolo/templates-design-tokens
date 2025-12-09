@@ -2663,7 +2663,7 @@
             "type": "color"
           },
           "received": {
-            "value": "{core.validation.success.500}",
+            "value": "{semantic.text.success.default}",
             "type": "color"
           }
         },
