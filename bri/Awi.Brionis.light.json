@@ -2908,11 +2908,7 @@
       },
       "banner": {
         "fill": {
-          "value": "{semantic.gradients.8}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.grey.a5}",
+          "value": "{semantic.gradients.7}",
           "type": "color"
         }
       },
