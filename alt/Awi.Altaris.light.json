@@ -4106,7 +4106,7 @@
           "type": "color"
         },
         "progress": {
-          "value": "{core.white.a1}",
+          "value": "{core.brand-30.400}",
           "type": "color"
         },
         "text": {
