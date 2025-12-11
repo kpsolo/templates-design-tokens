@@ -2758,7 +2758,7 @@
       },
       "banner": {
         "fill": {
-          "value": "{semantic.gradients.2}",
+          "value": "linear-gradient(51deg, {core.brand-10.500} 7%, {core.brand-60.600} 96%)",
           "type": "color"
         }
       },
