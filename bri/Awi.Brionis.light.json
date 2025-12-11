@@ -2775,7 +2775,7 @@
       "first-block": {
         "fill": {
           "primary": {
-            "value": "{core.brand-30.a10}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           },
           "secondary": {
