@@ -6898,8 +6898,8 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "fontSize": "18px",
-        "lineHeight": "{md}",
+        "fontSize": "{scale-4}",
+        "lineHeight": "20px",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
       },
