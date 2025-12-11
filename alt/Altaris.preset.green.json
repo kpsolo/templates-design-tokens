@@ -1286,7 +1286,7 @@
         "fontSize": "24px",
         "lineHeight": "{xxl}",
         "textCase": "{text-case.none}",
-        "letterSpacing": "-2%"
+        "letterSpacing": "-0.56px"
       },
       "type": "typography"
     }
