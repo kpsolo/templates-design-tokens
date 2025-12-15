@@ -3058,19 +3058,19 @@
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{core.brand-60.700}",
+              "value": "{core.brand-60.500}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border": {
             "normal": {
-              "value": "{core.grey.a20}",
+              "value": "{core.brand-60.a40}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{core.brand-30.800a50}",
+              "value": "{core.brand-60.a70}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -3116,17 +3116,17 @@
           },
           "text": {
             "normal": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{core.brand-60.500}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{core.brand-60.500}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{semantic.text.brand.on-brand}",
+              "value": "{semantic.text.banner-cart.primary}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -3145,7 +3145,7 @@
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{core.brand-60.700}",
+              "value": "{core.brand-60.500}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -3157,7 +3157,7 @@
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{core.brand-30.800a50}",
+              "value": "{core.brand-60.a70}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -3203,17 +3203,17 @@
           },
           "text": {
             "normal": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{core.brand-60.500}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{core.brand-60.500}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{semantic.text.brand.on-brand}",
+              "value": "{semantic.text.banner-cart.primary}",
               "type": "color",
               "description": "Lootboxes"
             }
