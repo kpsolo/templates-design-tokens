@@ -3616,6 +3616,10 @@
           "value": "{semantic.background.brand.emphasizing.default.primary}",
           "type": "color"
         },
+        "gold": {
+          "value": "{core.additionals.gold}",
+          "type": "color"
+        },
         "small": {
           "value": "{semantic.icon.default.primary}",
           "type": "color"
@@ -5815,6 +5819,23 @@
           "value": "{core.grey.100a10}",
           "type": "color",
           "description": "status-inactive"
+        },
+        "gold-winning": {
+          "border": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "status-inactive"
+          },
+          "fill": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "status-inactive"
+          },
+          "text": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "status-inactive"
+          }
         }
       },
       "inner-page": {

@@ -6350,7 +6350,11 @@
       "contextual.mobile-application.stepper.bubble.inactive.fill": "S:f4aca5f7dde7d9b753c45cfc4590a3a47e250a5a,",
       "heading.small": "S:1b8c09efeecc70de6d0c192b10cbbcff005c3798,",
       "contextual.lottery-tournament.card.border": "S:e03d01348fad742d7099e3fef02029d02d3d9b5a,",
-      "contextual.news.card.border": "S:9903690ca8347750f94e913fac077f86e2fd245a,"
+      "contextual.news.card.border": "S:9903690ca8347750f94e913fac077f86e2fd245a,",
+      "contextual.bullet.fill.gold": "S:f364d2cb62adb1fbcbab7df9b79be952e661efbb,",
+      "contextual.lottery-tournament.prize.gold-winning.border": "S:ebba197aea974515dff05240c4d731a5e334a952,",
+      "contextual.lottery-tournament.prize.gold-winning.text": "S:ccf4babf89d41201579f977579cd2fafa01d3043,",
+      "contextual.lottery-tournament.prize.gold-winning.fill": "S:1d62d054cca890cfad008a5a9cd58a02fe9b45d9,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
