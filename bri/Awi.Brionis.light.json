@@ -5915,6 +5915,13 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "card": {
+        "border": {
+          "value": "{core.grey.a10}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "news": {
@@ -5935,6 +5942,11 @@
       "card": {
         "fill": {
           "value": "{core.white.a100}",
+          "type": "color",
+          "description": "status-inactive"
+        },
+        "border": {
+          "value": "{core.grey.a10}",
           "type": "color",
           "description": "status-inactive"
         }
@@ -5976,7 +5988,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.grey.a8}",
+            "value": "{core.grey.a10}",
             "type": "color"
           }
         },
