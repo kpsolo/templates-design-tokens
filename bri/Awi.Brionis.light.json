@@ -2370,31 +2370,31 @@
         "multiplier": {
           "fill": {
             "normal": {
-              "value": "{core.white.a100}",
+              "value": "{contextual.button.secondary.fill.default}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.500}",
+              "value": "{contextual.button.secondary.fill.active}",
               "type": "color"
             }
           },
           "border": {
             "normal": {
-              "value": "{core.brand-60.a50}",
+              "value": "{contextual.button.secondary.border-color.default}",
               "type": "color"
             },
             "active": {
-              "value": "{core.white.a0}",
+              "value": "{contextual.lootboxes.coefficient.card.border.active}",
               "type": "color"
             }
           },
           "text": {
             "normal": {
-              "value": "{core.brand-60.500}",
+              "value": "{contextual.button.secondary.text.default}",
               "type": "color"
             },
             "active": {
-              "value": "{core.white.a100}",
+              "value": "{contextual.button.secondary.text.active}",
               "type": "color"
             }
           }
