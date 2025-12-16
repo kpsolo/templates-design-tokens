@@ -3167,7 +3167,7 @@
       },
       "price": {
         "text": {
-          "value": "{core.brand-10.600}",
+          "value": "{semantic.text.default.heading}",
           "type": "color",
           "description": "Lootboxes"
         }
