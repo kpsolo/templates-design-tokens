@@ -3303,12 +3303,12 @@
         },
         "fill": {
           "default": {
-            "value": "{core.white.a5}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Lootboxes"
           },
           "hover": {
-            "value": "{core.white.a5}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Lootboxes"
           }
