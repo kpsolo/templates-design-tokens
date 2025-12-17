@@ -6736,36 +6736,6 @@
       },
       "type": "typography"
     },
-    "link-sm": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-2}",
-        "lineHeight": "{xs}",
-        "textDecoration": "{text-decoration.underline}"
-      },
-      "type": "typography"
-    },
-    "link-md": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{ml}",
-        "textDecoration": "{text-decoration.underline}"
-      },
-      "type": "typography"
-    },
-    "link-md-stronger": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{ml}",
-        "textDecoration": "{text-decoration.underline}"
-      },
-      "type": "typography"
-    },
     "normal": {
       "value": "{Regular}",
       "type": "fontWeights"
