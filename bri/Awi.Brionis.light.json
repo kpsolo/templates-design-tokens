@@ -4068,6 +4068,44 @@
           "value": "linear-gradient(80deg, {core.brand-10.500} 70%, {core.brand-30.500} 120%)",
           "type": "color"
         }
+      },
+      "item": {
+        "text": {
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white.a50}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white.a50}",
+            "type": "color"
+          }
+        }
       }
     },
     "tag": {
