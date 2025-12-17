@@ -6482,6 +6482,24 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "border": {
+        "default": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        }
       }
     }
   },

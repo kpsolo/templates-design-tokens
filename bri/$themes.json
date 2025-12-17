@@ -6354,7 +6354,11 @@
       "contextual.bullet.fill.gold": "S:f364d2cb62adb1fbcbab7df9b79be952e661efbb,",
       "contextual.lottery-tournament.prize.gold-winning.border": "S:ebba197aea974515dff05240c4d731a5e334a952,",
       "contextual.lottery-tournament.prize.gold-winning.text": "S:ccf4babf89d41201579f977579cd2fafa01d3043,",
-      "contextual.lottery-tournament.prize.gold-winning.fill": "S:1d62d054cca890cfad008a5a9cd58a02fe9b45d9,"
+      "contextual.lottery-tournament.prize.gold-winning.fill": "S:1d62d054cca890cfad008a5a9cd58a02fe9b45d9,",
+      "contextual.menu-item.border.default": "S:6af2ec2840183bc33e8f5e84dc5d97c3120a21ac,",
+      "contextual.menu-item.border.hover": "S:0ed97b6a47d7c48894870e0351f1f9586cdc2153,",
+      "contextual.menu-item.border.active": "S:35d8e7861293c397c6a0a2be38b4ea1ed81e9639,",
+      "contextual.menu-item.border.disabled": "S:45b17e62c2e80379490fef64b1354b97c51efb42,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
