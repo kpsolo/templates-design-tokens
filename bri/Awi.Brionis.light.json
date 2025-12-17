@@ -5440,7 +5440,7 @@
         "banner": {
           "text": {
             "default": {
-              "value": "{semantic.text.static.tertiary}",
+              "value": "{core.grey.300}",
               "type": "color"
             },
             "active": {
