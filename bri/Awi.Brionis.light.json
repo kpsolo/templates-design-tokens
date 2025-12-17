@@ -5361,7 +5361,7 @@
         }
       },
       "border": {
-        "value": "{core.white.a0}",
+        "value": "{semantic.divider.default.primary}",
         "type": "color"
       }
     },
