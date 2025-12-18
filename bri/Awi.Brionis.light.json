@@ -228,6 +228,12 @@
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
     },
+    "filter&sort": {
+      "button": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
+      }
+    },
     "popover": {
       "value": "{border-radius.core.400}",
       "type": "borderRadius",
