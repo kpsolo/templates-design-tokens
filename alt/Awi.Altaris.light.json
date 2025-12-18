@@ -9411,7 +9411,8 @@
         "fontWeight": "{Medium}",
         "fontSize": "9px",
         "lineHeight": "9px",
-        "letterSpacing": "3%"
+        "letterSpacing": "0.6px",
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     }
