@@ -220,6 +220,10 @@
       "value": "{border-radius.core.100}",
       "type": "borderRadius"
     },
+    "toggle": {
+      "value": "{border-radius.core.400}",
+      "type": "borderRadius"
+    },
     "dropdown-menu": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
