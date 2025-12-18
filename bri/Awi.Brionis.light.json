@@ -216,6 +216,10 @@
       "value": "{border-radius.core.full}",
       "type": "borderRadius"
     },
+    "badge": {
+      "value": "{border-radius.core.full}",
+      "type": "borderRadius"
+    },
     "checkbox": {
       "value": "{border-radius.core.100}",
       "type": "borderRadius"
