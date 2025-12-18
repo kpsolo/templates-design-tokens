@@ -5490,7 +5490,7 @@
         "banner": {
           "text": {
             "default": {
-              "value": "{core.grey.300}",
+              "value": "{core.grey.200}",
               "type": "color"
             },
             "active": {
@@ -5526,7 +5526,7 @@
           },
           "icon": {
             "default": {
-              "value": "{semantic.icon.default.secondary}",
+              "value": "{core.grey.200}",
               "type": "color"
             },
             "active": {
