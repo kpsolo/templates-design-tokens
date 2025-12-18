@@ -6117,6 +6117,10 @@
             "icon": {
               "value": "{core.brand-10.a60}",
               "type": "color"
+            },
+            "fill": {
+              "value": "{core.white.a100}",
+              "type": "color"
             }
           }
         }
