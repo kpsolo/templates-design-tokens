@@ -6461,7 +6461,17 @@
       "default": {
         "value": "{core.brand-10.500}",
         "type": "color",
-        "description": "Loader default color (not in buttons)"
+        "description": "Loader default color"
+      },
+      "button": {
+        "value": "{core.grey.800}",
+        "type": "color",
+        "description": "Loader button color"
+      },
+      "dark": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "description": "Loader dark color"
       }
     },
     "skeleton": {
