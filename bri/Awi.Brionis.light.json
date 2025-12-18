@@ -182,11 +182,9 @@
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
     },
-    "progress-button": {
-      "full": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
-      }
+    "progress": {
+      "value": "{border-radius.core.full}",
+      "type": "borderRadius"
     },
     "card": {
       "general": {
