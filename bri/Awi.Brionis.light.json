@@ -8304,6 +8304,19 @@
       "type": "typography"
     }
   },
+  "strip": {
+    "progress": {
+      "score": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.normal}",
+          "fontSize": "10px",
+          "lineHeight": "12px"
+        },
+        "type": "typography"
+      }
+    }
+  },
   "lottery-tournament": {
     "tiket": {
       "old-price": {

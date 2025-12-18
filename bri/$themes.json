@@ -6366,7 +6366,8 @@
       "contextual.header.item.icon.default": "S:a78a660feb11097398a5363f6c57b4d31eef17c8,",
       "contextual.header.item.icon.hover": "S:50249def0a6e59ede6f3bc6098ced26683c7fb09,",
       "contextual.header.item.icon.active": "S:2cc9fcd3740b915c851b57801d5ea1c4e63af2b0,",
-      "contextual.header.item.icon.disabled": "S:8398c2459b0d038af1cbcd259bf70ad0fdcde8f4,"
+      "contextual.header.item.icon.disabled": "S:8398c2459b0d038af1cbcd259bf70ad0fdcde8f4,",
+      "strip.progress.score": "S:74ef23624e9ded082a15aadbbd0a03d75fd8a45e,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
