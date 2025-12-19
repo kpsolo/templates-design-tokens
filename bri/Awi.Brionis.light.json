@@ -3249,7 +3249,7 @@
         },
         "stroke": {
           "default": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.brand-60.a20}",
             "type": "color",
             "description": "Lootboxes"
           },
@@ -3276,6 +3276,18 @@
             "value": "{core.brand-60.a20}",
             "type": "color"
           }
+        }
+      },
+      "model-overview": {
+        "border": {
+          "value": "{core.brand-60.a20}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "background": {
+          "value": "{core.brand-60.50}",
+          "type": "color",
+          "description": "Lootboxes"
         }
       }
     },
