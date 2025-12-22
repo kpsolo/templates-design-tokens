@@ -2609,10 +2609,6 @@
           "default": {
             "value": "{core.white.a0}",
             "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.gradients.6}",
-            "type": "color"
           }
         },
         "fill": {
@@ -2621,10 +2617,6 @@
             "type": "color"
           },
           "default": {
-            "value": "{semantic.background.5}",
-            "type": "color"
-          },
-          "hover": {
             "value": "{semantic.background.5}",
             "type": "color"
           }
