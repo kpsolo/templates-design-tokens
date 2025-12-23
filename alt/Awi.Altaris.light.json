@@ -6844,7 +6844,7 @@
     },
     "smart-banner": {
       "fill": {
-        "value": "{semantic.background.6}",
+        "value": "{core.brand-60.50}",
         "type": "color"
       },
       "border": {
