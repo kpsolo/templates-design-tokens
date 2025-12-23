@@ -2643,6 +2643,12 @@
         }
       }
     },
+    "smart-banner": {
+      "fill": {
+        "value": "{semantic.background.5}",
+        "type": "color"
+      }
+    },
     "welcome-bonus": {
       "progress": {
         "fill": {

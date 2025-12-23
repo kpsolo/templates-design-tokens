@@ -6855,6 +6855,12 @@
           "description": "Lootboxes"
         }
       }
+    },
+    "smart-banner": {
+      "fill": {
+        "value": "{semantic.background.6}",
+        "type": "color"
+      }
     }
   },
   "scale-1": {
