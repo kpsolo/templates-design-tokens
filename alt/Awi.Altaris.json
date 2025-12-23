@@ -6660,20 +6660,6 @@
             "value": "{core.brand-30.500}",
             "type": "color"
           }
-        },
-        "smaller": {
-          "fill": {
-            "value": "{core.white.a8}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.white.a50}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{core.brand-30.50}",
-            "type": "color"
-          }
         }
       },
       "text": {
