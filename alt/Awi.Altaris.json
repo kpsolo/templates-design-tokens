@@ -2653,6 +2653,10 @@
       "fill": {
         "value": "{semantic.background.5}",
         "type": "color"
+      },
+      "border": {
+        "value": "{core.grey.a10}",
+        "type": "color"
       }
     },
     "welcome-bonus": {

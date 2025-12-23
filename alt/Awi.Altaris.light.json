@@ -6846,6 +6846,10 @@
       "fill": {
         "value": "{semantic.background.6}",
         "type": "color"
+      },
+      "border": {
+        "value": "{core.grey.a10}",
+        "type": "color"
       }
     }
   },
