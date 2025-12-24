@@ -1749,6 +1749,19 @@
           }
         }
       },
+      "700a70": {
+        "value": "{core.brand-30.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "800a0": {
         "value": "{core.brand-30.800}",
         "type": "color",
