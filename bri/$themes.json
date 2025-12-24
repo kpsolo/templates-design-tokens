@@ -6372,7 +6372,16 @@
       "contextual.loader.dark": "S:285d8999304a54319126a4b14f64f604df63d0c9,",
       "contextual.strip.model-overview.border": "S:ff1f6d760227abfdd4cf896c0763587c2f9e3699,",
       "contextual.strip.model-overview.background": "S:5d2510ee12933c88942f4ebccdc73c47ea9aaf1b,",
-      "contextual.welcome-bonus.progress.steps.steps.fill": "S:81167e6e467ec51779b40606758ba05428e28a6e,"
+      "contextual.welcome-bonus.progress.steps.steps.fill": "S:81167e6e467ec51779b40606758ba05428e28a6e,",
+      "contextual.label.third.fill": "S:11184bc4c20702a56d09c5b95e8cdf547eda817f,",
+      "contextual.label.third.text": "S:e2e2ec5ad7cd409e3a67fa84a5fb166c633fa1d7,",
+      "contextual.label.third.icon": "S:e004a2306c525f13f1aec342a4d2c83bf9b61e6c,",
+      "contextual.label.fifth.fill": "S:492bc1fc9b0c886927a55098c01696f24af6779b,",
+      "contextual.label.fifth.text": "S:678d47f02f94b0ce54200269c4d760828ed01def,",
+      "contextual.label.fifth.icon": "S:d89ad7f7fc3c78f766aff48b1fbff675776b12ab,",
+      "contextual.label.fourth.fill": "S:cc3d7f07056e765895ad4d5f4d7f01682e1274ab,",
+      "contextual.label.fourth.text": "S:5c413af0d55e95cd3c768d1360013cde612fabee,",
+      "contextual.label.fourth.icon": "S:ef0f6788ad443926463048819dfaa2a592739ced,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

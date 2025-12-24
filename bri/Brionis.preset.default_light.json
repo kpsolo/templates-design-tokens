@@ -2765,6 +2765,22 @@
         "3": {
           "value": "#AA98EC",
           "type": "color"
+        },
+        "4": {
+          "value": "#22516B",
+          "type": "color"
+        },
+        "5": {
+          "value": "#78EDC2",
+          "type": "color"
+        },
+        "6": {
+          "value": "#C51EBD",
+          "type": "color"
+        },
+        "7": {
+          "value": "#FFA4C8",
+          "type": "color"
         }
       },
       "secondary": {

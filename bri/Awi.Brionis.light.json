@@ -6371,6 +6371,57 @@
           "type": "color",
           "description": "badge"
         }
+      },
+      "third": {
+        "fill": {
+          "value": "linear-gradient(225deg, {core.brand-preset.for-gradients.5} 0%, {core.brand-preset.for-gradients.4} 100%)",
+          "type": "color",
+          "description": "badge"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        }
+      },
+      "fifth": {
+        "fill": {
+          "value": "linear-gradient(225deg, {core.brand-preset.for-gradients.7} 0%, {core.brand-preset.for-gradients.6} 100%)",
+          "type": "color",
+          "description": "badge"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        }
+      },
+      "fourth": {
+        "fill": {
+          "value": "linear-gradient(225deg, {core.brand-30.500} 0%, {core.brand-10.500} 100%)",
+          "type": "color",
+          "description": "badge"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        }
       }
     },
     "status": {
