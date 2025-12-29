@@ -6520,11 +6520,11 @@
         "item": {
           "fill": {
             "default": {
-              "value": "{core.brand-60.800}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.900}",
+              "value": "{core.brand-60.800}",
               "type": "color"
             }
           },
