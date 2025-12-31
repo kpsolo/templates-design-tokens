@@ -2951,7 +2951,7 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.grey.50a60}",
+        "value": "{core.grey.25}",
         "type": "color",
         "description": "The slate second level on main(white) background"
       },
