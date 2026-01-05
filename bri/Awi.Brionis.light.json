@@ -3394,7 +3394,7 @@
       },
       "header": {
         "fill": {
-          "value": "{core.brand-60.a10}",
+          "value": "{semantic.background.slate-2}",
           "type": "color"
         }
       },
