@@ -6982,7 +6982,7 @@
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
         "textCase": "{text-case.none}",
-        "letterSpacing": "-2%"
+        "letterSpacing": "0%"
       },
       "type": "typography"
     }
