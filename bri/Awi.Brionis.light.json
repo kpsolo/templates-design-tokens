@@ -3400,7 +3400,7 @@
       },
       "loyalty_points": {
         "fill": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-preset.sport.5}",
           "type": "color",
           "description": "contextual.profile.loyalty_points.fill"
         },
