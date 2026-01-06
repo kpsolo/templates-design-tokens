@@ -6321,6 +6321,12 @@
             }
           }
         }
+      },
+      "deals": {
+        "background": {
+          "value": "{core.grey.700}",
+          "type": "color"
+        }
       }
     },
     "lottery-tournament": {
