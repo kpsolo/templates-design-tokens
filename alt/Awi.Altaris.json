@@ -5118,10 +5118,6 @@
           }
         },
         "tabs": {
-          "background": {
-            "value": "{core.grey.700}",
-            "type": "color"
-          },
           "border": {
             "active": {
               "value": "{core.brand-30.100}",

@@ -5068,10 +5068,6 @@
           }
         },
         "tabs": {
-          "background": {
-            "value": "{core.grey.a5}",
-            "type": "color"
-          },
           "border": {
             "active": {
               "value": "{core.brand-60.400}",
