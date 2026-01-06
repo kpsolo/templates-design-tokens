@@ -6320,7 +6320,7 @@
       },
       "deals": {
         "background": {
-          "value": "{core.grey.700}",
+          "value": "rgba(26, 26, 32, 0.05)",
           "type": "color"
         }
       }
