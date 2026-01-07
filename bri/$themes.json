@@ -6643,5 +6643,15 @@
       "base": "80a16c046a5866203b5ad8f125230da41fecc84f"
     },
     "group": "Brionis"
+  },
+  {
+    "id": "a5e2c7fa4f15516e6a26b4f030895eb6456ee254",
+    "name": "Brionis.light_orange",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Brionis.light": "enabled",
+      "Brionis.preset.default_light_orange": "enabled"
+    },
+    "group": "Brionis"
   }
 ]
