@@ -2750,20 +2750,20 @@
     },
     "brand-preset": {
       "primary": {
-        "value": "#F56536",
+        "value": "#FA4567",
         "type": "color"
       },
       "for-gradients": {
         "1": {
-          "value": "#6304D2",
+          "value": "#d50262",
           "type": "color"
         },
         "2": {
-          "value": "#01FFEE",
+          "value": "#f9e086",
           "type": "color"
         },
         "3": {
-          "value": "#AA98EC",
+          "value": "#ffd45e",
           "type": "color"
         },
         "4": {
@@ -2784,11 +2784,11 @@
         }
       },
       "secondary": {
-        "value": "#F1A619",
+        "value": "#FFC250",
         "type": "color"
       },
       "tertiary": {
-        "value": "#49A5FD",
+        "value": "#E48023",
         "type": "color",
         "description": "tertiary.    "
       },
