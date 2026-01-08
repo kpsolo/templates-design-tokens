@@ -2763,7 +2763,7 @@
         "type": "color"
       },
       "tertiary": {
-        "value": "#49A5FD",
+        "value": "#401ecc",
         "type": "color",
         "description": "tertiary.    "
       },
@@ -2951,7 +2951,7 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.grey.25}",
+        "value": "{core.grey.700}",
         "type": "color",
         "description": "The slate second level on main(white) background"
       },
