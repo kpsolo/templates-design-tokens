@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "Awi.Brionis.light",
-    "Brionis.preset.default_light"
+    "nv.light",
+    "nv.preset.default_light"
   ]
 }
