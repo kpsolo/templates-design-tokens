@@ -2750,7 +2750,7 @@
     },
     "brand-preset": {
       "primary": {
-        "value": "#3A6EFE",
+        "value": "#c63bff",
         "type": "color"
       },
       "for-gradients": {
