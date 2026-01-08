@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "Awi.Brionis.light",
-    "Awi.Brionis.light.dark",
+    "Awi.Brionis.dark",
     "Brionis.preset.default_light",
     "Brionis.preset.default_dark",
     "Brionis.preset.default_light_orange"
