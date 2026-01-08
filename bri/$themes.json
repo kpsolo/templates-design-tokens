@@ -6675,5 +6675,15 @@
       "Brionis.preset.default_light_orange": "enabled"
     },
     "group": "Brionis"
+  },
+  {
+    "id": "a48ee75a359859a41bba75a8a0774c47ffd675b8",
+    "name": "Brionis.dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Brionis.light": "enabled",
+      "Brionis.preset.default_dark": "enabled"
+    },
+    "group": "Brionis"
   }
 ]
