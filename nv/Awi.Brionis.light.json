@@ -226,6 +226,10 @@
       "value": "{border-radius.core.400}",
       "type": "borderRadius"
     },
+    "toggle-button": {
+      "value": "{border-radius.core.full}",
+      "type": "borderRadius"
+    },
     "dropdown-menu": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
@@ -2385,6 +2389,10 @@
               "value": "{contextual.button.secondary.fill.default}",
               "type": "color"
             },
+            "hover": {
+              "value": "{contextual.toggle-button.card.fill.hover}",
+              "type": "color"
+            },
             "active": {
               "value": "{contextual.button.secondary.fill.active}",
               "type": "color"
@@ -2395,6 +2403,10 @@
               "value": "{contextual.button.secondary.border-color.default}",
               "type": "color"
             },
+            "hover": {
+              "value": "{contextual.toggle-button.card.border.hover}",
+              "type": "color"
+            },
             "active": {
               "value": "{contextual.lootboxes.coefficient.card.border.active}",
               "type": "color"
@@ -2403,6 +2415,10 @@
           "text": {
             "normal": {
               "value": "{contextual.button.secondary.text.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{contextual.toggle-button.card.text.hover}",
               "type": "color"
             },
             "active": {
@@ -3042,51 +3058,51 @@
         "card": {
           "fill": {
             "normal": {
-              "value": "{contextual.button.secondary.fill.default}",
+              "value": "{contextual.toggle-button.card.fill.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.button.secondary.fill.hover}",
+              "value": "{contextual.toggle-button.card.fill.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.button.secondary.fill.active}",
+              "value": "{contextual.toggle-button.card.fill.active}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border": {
             "normal": {
-              "value": "{contextual.button.secondary.border-color.default}",
+              "value": "{contextual.toggle-button.card.border.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.button.secondary.border-color.hover}",
+              "value": "{contextual.toggle-button.card.border.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{core.brand-10.600}",
+              "value": "{contextual.toggle-button.card.border.active}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "text": {
             "normal": {
-              "value": "{contextual.button.secondary.text.default}",
+              "value": "{contextual.toggle-button.card.text.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.button.secondary.text.hover}",
+              "value": "{contextual.toggle-button.card.text.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.button.secondary.text.active}",
+              "value": "{contextual.toggle-button.card.text.active}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -3095,51 +3111,51 @@
         "popup": {
           "fill": {
             "normal": {
-              "value": "{contextual.button.secondary.fill.default}",
+              "value": "{contextual.toggle-button.popup.fill.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.button.secondary.fill.hover}",
+              "value": "{contextual.toggle-button.popup.fill.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.button.secondary.fill.active}",
+              "value": "{contextual.toggle-button.popup.fill.active}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border": {
             "normal": {
-              "value": "{contextual.button.secondary.border-color.default}",
+              "value": "{contextual.toggle-button.popup.border.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.button.secondary.border-color.hover}",
+              "value": "{contextual.toggle-button.popup.border.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{core.brand-10.600}",
+              "value": "{contextual.toggle-button.popup.border.active}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "text": {
             "normal": {
-              "value": "{contextual.button.secondary.text.default}",
+              "value": "{contextual.toggle-button.popup.text.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.button.secondary.text.hover}",
+              "value": "{contextual.toggle-button.popup.text.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.button.secondary.text.active}",
+              "value": "{contextual.toggle-button.popup.text.active}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -6618,6 +6634,114 @@
         "disabled": {
           "value": "{core.white.a0}",
           "type": "color"
+        }
+      }
+    },
+    "toggle-button": {
+      "card": {
+        "fill": {
+          "normal": {
+            "value": "{contextual.button.secondary.fill.default}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "hover": {
+            "value": "{contextual.button.secondary.fill.hover}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "active": {
+            "value": "{contextual.button.secondary.fill.active}",
+            "type": "color",
+            "description": "Toggle-button"
+          }
+        },
+        "border": {
+          "normal": {
+            "value": "{contextual.button.secondary.border-color.default}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "hover": {
+            "value": "{contextual.button.secondary.border-color.hover}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "active": {
+            "value": "{core.brand-10.600}",
+            "type": "color",
+            "description": "Toggle-button"
+          }
+        },
+        "text": {
+          "normal": {
+            "value": "{contextual.button.secondary.text.default}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "hover": {
+            "value": "{contextual.button.secondary.text.hover}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "active": {
+            "value": "{contextual.button.secondary.text.active}",
+            "type": "color",
+            "description": "Toggle-button"
+          }
+        }
+      },
+      "popup": {
+        "fill": {
+          "normal": {
+            "value": "{contextual.button.secondary.fill.default}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "hover": {
+            "value": "{contextual.button.secondary.fill.hover}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "active": {
+            "value": "{contextual.button.secondary.fill.active}",
+            "type": "color",
+            "description": "Toggle-button"
+          }
+        },
+        "border": {
+          "normal": {
+            "value": "{contextual.button.secondary.border-color.default}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "hover": {
+            "value": "{contextual.button.secondary.border-color.hover}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "active": {
+            "value": "{core.brand-10.600}",
+            "type": "color",
+            "description": "Toggle-button"
+          }
+        },
+        "text": {
+          "normal": {
+            "value": "{contextual.button.secondary.text.default}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "hover": {
+            "value": "{contextual.button.secondary.text.hover}",
+            "type": "color",
+            "description": "Toggle-button"
+          },
+          "active": {
+            "value": "{contextual.button.secondary.text.active}",
+            "type": "color",
+            "description": "Toggle-button"
+          }
         }
       }
     }
