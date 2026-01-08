@@ -6399,7 +6399,10 @@
       "contextual.toggle-button.popup.border.active": "S:7c5065e658d15ee48b2f9ce8267d9dce54499bdc,",
       "contextual.toggle-button.popup.text.normal": "S:6b26f1aa6166b5cc6323bc51a4fc3c892875609c,",
       "contextual.toggle-button.popup.text.hover": "S:d883398924190279db4c48a35edc7b432fc84cb3,",
-      "contextual.toggle-button.popup.text.active": "S:f701fa04d9241735b7fb20895b45b600aa09ece2,"
+      "contextual.toggle-button.popup.text.active": "S:f701fa04d9241735b7fb20895b45b600aa09ece2,",
+      "contextual.wheel.popup.multiplier.fill.hover": "S:80af715c3678038667b120828eae864d17aadb07,",
+      "contextual.wheel.popup.multiplier.border.hover": "S:75c69dc863e13472e99a32950692a786ba8bf651,",
+      "contextual.wheel.popup.multiplier.text.hover": "S:a0dab9fd1ed323064524bcdce828d18bacefab78,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
