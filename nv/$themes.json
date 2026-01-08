@@ -6671,8 +6671,7 @@
     "name": "Brionis.light_orange",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Awi.Brionis.light": "enabled",
-      "Brionis.preset.default_light_orange": "enabled"
+      "Awi.Brionis.light": "enabled"
     },
     "group": "Brionis"
   }
