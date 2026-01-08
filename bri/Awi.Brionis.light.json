@@ -2389,6 +2389,10 @@
               "value": "{contextual.button.secondary.fill.default}",
               "type": "color"
             },
+            "hover": {
+              "value": "{contextual.toggle-button.card.fill.hover}",
+              "type": "color"
+            },
             "active": {
               "value": "{contextual.button.secondary.fill.active}",
               "type": "color"
@@ -2399,6 +2403,10 @@
               "value": "{contextual.button.secondary.border-color.default}",
               "type": "color"
             },
+            "hover": {
+              "value": "{contextual.toggle-button.card.border.hover}",
+              "type": "color"
+            },
             "active": {
               "value": "{contextual.lootboxes.coefficient.card.border.active}",
               "type": "color"
@@ -2407,6 +2415,10 @@
           "text": {
             "normal": {
               "value": "{contextual.button.secondary.text.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{contextual.toggle-button.card.text.hover}",
               "type": "color"
             },
             "active": {
