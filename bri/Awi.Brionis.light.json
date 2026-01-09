@@ -2386,43 +2386,43 @@
         "multiplier": {
           "fill": {
             "normal": {
-              "value": "{contextual.button.secondary.fill.default}",
+              "value": "{contextual.toggle-button.popup.fill.normal}",
               "type": "color"
             },
             "hover": {
-              "value": "{contextual.toggle-button.card.fill.hover}",
+              "value": "{contextual.toggle-button.popup.fill.hover}",
               "type": "color"
             },
             "active": {
-              "value": "{contextual.button.secondary.fill.active}",
+              "value": "{contextual.toggle-button.popup.fill.active}",
               "type": "color"
             }
           },
           "border": {
             "normal": {
-              "value": "{contextual.button.secondary.border-color.default}",
+              "value": "{contextual.toggle-button.popup.border.normal}",
               "type": "color"
             },
             "hover": {
-              "value": "{contextual.toggle-button.card.border.hover}",
+              "value": "{contextual.toggle-button.popup.border.hover}",
               "type": "color"
             },
             "active": {
-              "value": "{contextual.lootboxes.coefficient.card.border.active}",
+              "value": "{contextual.toggle-button.popup.border.active}",
               "type": "color"
             }
           },
           "text": {
             "normal": {
-              "value": "{contextual.button.secondary.text.default}",
+              "value": "{contextual.toggle-button.popup.text.normal}",
               "type": "color"
             },
             "hover": {
-              "value": "{contextual.toggle-button.card.text.hover}",
+              "value": "{contextual.toggle-button.popup.text.hover}",
               "type": "color"
             },
             "active": {
-              "value": "{contextual.button.secondary.text.active}",
+              "value": "{contextual.toggle-button.popup.text.active}",
               "type": "color"
             }
           }
