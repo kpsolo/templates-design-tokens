@@ -8622,25 +8622,6 @@
       }
     }
   },
-  "lootboxes": {
-    "coefficient": {
-      "normal": {
-        "value": "{text.md}",
-        "type": "typography",
-        "description": "contextual.lootboxes.coefficient"
-      },
-      "hover": {
-        "value": "{text.md-stronger}",
-        "type": "typography",
-        "description": "contextual.lootboxes.coefficient"
-      },
-      "active": {
-        "value": "{text.md-stronger}",
-        "type": "typography",
-        "description": "contextual.lootboxes.coefficient"
-      }
-    }
-  },
   "wheel": {
     "sector": {
       "xs": {
