@@ -5421,7 +5421,7 @@
     },
     "footer": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.600}",
         "type": "color"
       },
       "block": {
@@ -7321,7 +7321,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.500}",
+          "value": "{core.grey.50}",
           "type": "color"
         },
         "tertiary": {
