@@ -3843,7 +3843,7 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "disabled": {
@@ -4850,7 +4850,7 @@
     "homepage": {
       "nav-menu": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.500}",
           "type": "color"
         }
       },
@@ -6574,7 +6574,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-10.300}",
           "type": "color"
         },
         "disabled": {
@@ -6592,7 +6592,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-10.300}",
           "type": "color"
         },
         "disabled": {
@@ -6602,19 +6602,19 @@
       },
       "fill": {
         "default": {
-          "value": "{core.grey.25}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "hover": {
-          "value": "{core.grey.25}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "active": {
-          "value": "{core.grey.25}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.grey.25}",
+          "value": "{core.grey.700}",
           "type": "color"
         }
       },
@@ -7257,7 +7257,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.200}",
+          "value": "{core.grey.100}",
           "type": "color"
         },
         "disabled": {
@@ -7313,11 +7313,11 @@
     "text": {
       "default": {
         "heading": {
-          "value": "{core.grey.900}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "primary": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.25}",
           "type": "color"
         },
         "secondary": {
