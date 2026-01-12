@@ -2069,11 +2069,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.700}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.400}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "disabled": {
@@ -2083,7 +2083,7 @@
         },
         "border-color": {
           "default": {
-            "value": "{semantic.border.brand.tertiary.default}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
