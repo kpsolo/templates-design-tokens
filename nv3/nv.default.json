@@ -1186,6 +1186,21 @@
         ],
         "type": "boxShadow"
       },
+      "why-we": {
+        "card-inner": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "1px",
+              "blur": "1px",
+              "spread": "{depth.0}",
+              "color": "{core.white.a40}",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      },
       "sport": {
         "item": {
           "value": {
