@@ -2749,8 +2749,26 @@
       }
     },
     "brand-preset": {
+      "grey": {
+        "value": "#2c2b5b",
+        "type": "color",
+        "description": "500"
+      },
+      "secondary": {
+        "value": "#492da6",
+        "type": "color"
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#401ecc",
+        "type": "color",
+        "description": "tertiary.    "
+      },
       "primary": {
-        "value": "#c63bff",
+        "value": "#C30054",
         "type": "color"
       },
       "for-gradients": {
@@ -2782,24 +2800,6 @@
           "value": "#FFA4C8",
           "type": "color"
         }
-      },
-      "secondary": {
-        "value": "#4FDEFC",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "#49A5FD",
-        "type": "color",
-        "description": "tertiary.    "
-      },
-      "white": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "grey": {
-        "value": "#6A667D",
-        "type": "color",
-        "description": "500"
       },
       "validation": {
         "danger": {
@@ -2966,7 +2966,7 @@
         "description": "should be used as a surface color for text, labels"
       },
       "page": {
-        "value": "{core.grey.25}",
+        "value": "{core.grey.800}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },
