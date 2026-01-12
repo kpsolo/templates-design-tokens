@@ -2773,11 +2773,11 @@
       },
       "for-gradients": {
         "1": {
-          "value": "#6304D2",
+          "value": "{core.brand-10.500}",
           "type": "color"
         },
         "2": {
-          "value": "#01FFEE",
+          "value": "{core.brand-30.600}",
           "type": "color"
         },
         "3": {
