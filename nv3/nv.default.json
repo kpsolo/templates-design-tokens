@@ -2047,7 +2047,7 @@
       "tertiary": {
         "fill": {
           "default": {
-            "value": "{semantic.background.brand.tertiary.default}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "hover": {
@@ -2065,7 +2065,7 @@
         },
         "text": {
           "default": {
-            "value": "{core.grey.700}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "hover": {
