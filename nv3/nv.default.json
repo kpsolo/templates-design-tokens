@@ -3681,11 +3681,11 @@
       "normal": {
         "primary": {
           "track": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.white.a70}",
             "type": "color"
           },
           "container": {
-            "value": "{core.brand-30.a15}",
+            "value": "{core.white.a15}",
             "type": "color"
           }
         },
