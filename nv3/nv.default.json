@@ -2948,11 +2948,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a80}",
+            "value": "{core.grey.300}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.400}",
             "type": "color"
           }
         },
@@ -2986,7 +2986,7 @@
         }
       },
       "fill": {
-        "value": "{core.grey.50}",
+        "value": "{core.grey.600}",
         "type": "color"
       }
     },
@@ -5376,7 +5376,7 @@
     },
     "popup": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.700}",
         "type": "color"
       },
       "overlay": {
