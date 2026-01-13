@@ -4981,11 +4981,11 @@
         "item": {
           "background": {
             "default": {
-              "value": "{core.white.a100}",
+              "value": "linear-gradient(264deg, {core.brand-60.700} , {core.brand-30.600} 100%)",
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-10.700}",
+              "value": "{core.grey.600}",
               "type": "color"
             }
           }
