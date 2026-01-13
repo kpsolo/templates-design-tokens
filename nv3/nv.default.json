@@ -4791,6 +4791,10 @@
           "value": "{core.white.a10}",
           "type": "color"
         },
+        "overlay": {
+          "value": "linear-gradient(90deg, {core.brand-30.500} 0%, {core.brand-60.a0} 100%)",
+          "type": "color"
+        },
         "border": {
           "active": {
             "value": "{semantic.border.active.element}",
