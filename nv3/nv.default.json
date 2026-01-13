@@ -5981,7 +5981,7 @@
       },
       "mobile": {
         "fill": {
-          "value": "{semantic.background.5}",
+          "value": "{core.grey.600}",
           "type": "color"
         }
       }
