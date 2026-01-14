@@ -2966,7 +2966,7 @@
         "description": "should be used as a surface color for text, labels"
       },
       "page": {
-        "value": "{core.grey.800}",
+        "value": "{core.grey.900}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },
