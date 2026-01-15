@@ -6629,7 +6629,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.500}",
           "type": "color"
         },
         "disabled": {
