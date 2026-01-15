@@ -6621,7 +6621,7 @@
       },
       "fill": {
         "default": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.500}",
           "type": "color"
         },
         "hover": {
@@ -6629,7 +6629,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.grey.500}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "disabled": {
