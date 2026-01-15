@@ -5992,16 +5992,16 @@
     },
     "tab-bar": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "radial-gradient(50% 100% at 50% 0%, {core.grey.500} 0%, {core.grey.700} 100%)",
         "type": "color"
       },
       "text": {
         "default": {
-          "value": "{semantic.icon.default.secondary}",
+          "value": "{semantic.icon.default.tertiary}",
           "type": "color"
         },
         "active": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "special": {
@@ -6011,11 +6011,11 @@
       },
       "icon": {
         "default": {
-          "value": "{semantic.icon.default.tertiary}",
+          "value": "{core.white.a50}",
           "type": "color"
         },
         "active": {
-          "value": "{semantic.icon.brand.primary}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "special": {
@@ -6033,7 +6033,7 @@
               "type": "color"
             },
             "special": {
-              "value": "{semantic.gradients.8}",
+              "value": "{core.brand-10.500}",
               "type": "color"
             }
           },
@@ -6059,7 +6059,7 @@
           "type": "color"
         },
         "active": {
-          "value": "linear-gradient(90deg, {core.brand-10.a10} 0%, {core.brand-10.500} 25%, {core.brand-10.500}  50%,{core.brand-10.500}  75%, {core.brand-10.a10} 100%)",
+          "value": "{core.brand-10.400}",
           "type": "color"
         },
         "special": {
