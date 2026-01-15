@@ -3895,7 +3895,7 @@
       },
       "border-color": {
         "default": {
-          "value": "{core.white.a10}",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         },
         "hover": {
@@ -4869,7 +4869,7 @@
     "homepage": {
       "nav-menu": {
         "fill": {
-          "value": "{core.grey.500}",
+          "value": "{core.grey.600}",
           "type": "color"
         }
       },
