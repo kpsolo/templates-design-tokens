@@ -8284,7 +8284,7 @@
     },
     "date": {
       "size": {
-        "value": "{size.400}",
+        "value": "{size.500}",
         "type": "sizing"
       }
     },
