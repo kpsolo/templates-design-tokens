@@ -3691,7 +3691,7 @@
         },
         "secondary": {
           "track": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-preset.for-gradients.8}",
             "type": "color"
           },
           "container": {

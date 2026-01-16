@@ -2799,6 +2799,11 @@
         "7": {
           "value": "#FFA4C8",
           "type": "color"
+        },
+        "8": {
+          "value": "#FAC25B",
+          "type": "color",
+          "description": "new for bonus brogress"
         }
       },
       "validation": {
