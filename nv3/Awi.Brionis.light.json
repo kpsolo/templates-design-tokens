@@ -7485,15 +7485,15 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.100}",
+            "value": "{core.grey.a0}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.100}",
+            "value": "{core.grey.a0}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.50}",
+            "value": "{core.grey.a0}",
             "type": "color"
           }
         },
