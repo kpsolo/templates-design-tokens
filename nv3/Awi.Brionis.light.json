@@ -2543,7 +2543,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{contextual.lottery-tournament.tiket.background.border}",
+            "value": "{contextual.lottery-tournament.ticket.background.border}",
             "type": "color"
           }
         },

@@ -2557,7 +2557,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{contextual.lottery-tournament.tiket.background.border}",
+            "value": "{contextual.lottery-tournament.ticket.background.border}",
             "type": "color"
           }
         },
@@ -5713,15 +5713,15 @@
           }
         }
       },
-      "tiket": {
+      "ticket": {
         "background": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.500}",
             "type": "color",
             "description": "Tiket"
           },
           "border": {
-            "value": "{core.brand-10.100}",
+            "value": "{core.grey.400}",
             "type": "color",
             "description": "Tiket"
           }
