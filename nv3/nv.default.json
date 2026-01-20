@@ -4896,7 +4896,7 @@
             "type": "color"
           },
           "glow": {
-            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-60.500} 0%, rgba(64, 30, 204, 0.00) 100%)",
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.500} 0%, rgba(64, 30, 204, 0.00) 100%)",
             "type": "color"
           }
         }
