@@ -1117,7 +1117,7 @@
       "shadow.icon-graphic2": "S:7d377f114d017a841a4cc9f9a53e06a8fb487930,"
     },
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled"
+      "Awi.Altaris2": "enabled"
     },
     "$figmaVariableReferences": {
       "main": "f59c4e103c5600277a5509805a6780f4525a2d94",
@@ -1356,18 +1356,18 @@
     },
     "$figmaCollectionId": "VariableCollectionId:40539:1566",
     "$figmaModeId": "40539:0",
-    "group": "ALT"
+    "group": "ALT2"
   },
   {
     "id": "37faf7d4b172f2111f50c9cf6f8026a77c8cf642",
     "name": "Altaris.green",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.green": "enabled"
+      "Altaris.preset.green": "enabled",
+      "Awi.Altaris2": "enabled"
     },
     "$figmaVariableReferences": {},
-    "group": "ALT"
+    "group": "ALT2"
   },
   {
     "id": "1f335a04ee38f359e1aa518df3f36847b6a66896",
@@ -2718,8 +2718,8 @@
       "core.brand-30.700a70": "S:aa5ddbc5e00152275cd0243746e3a85421c08048,"
     },
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.default": "enabled"
+      "Altaris.preset.default": "enabled",
+      "Awi.Altaris2": "enabled"
     },
     "$figmaVariableReferences": {
       "main": "f59c4e103c5600277a5509805a6780f4525a2d94",
@@ -2965,18 +2965,18 @@
     },
     "$figmaCollectionId": "VariableCollectionId:40539:1566",
     "$figmaModeId": "45276:0",
-    "group": "ALT"
+    "group": "ALT2"
   },
   {
     "id": "05813ffe2859770efee486bd751e4c3dcdca83fd",
     "name": "Altaris.preset.green2",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.green2": "enabled"
+      "Altaris.preset.green2": "enabled",
+      "Awi.Altaris2": "enabled"
     },
     "$figmaVariableReferences": {},
-    "group": "ALT"
+    "group": "ALT2"
   },
   {
     "id": "e22e53727044a4811884a288fe0858c1cc146ad6",
@@ -4582,7 +4582,7 @@
       "wheel.popup.vip-bet-amount.width": "24fd20a435c0448e5cbff4e97994164e0027e35a",
       "base": "a5c532527eaae94ec674c0336a49f003b5175d90"
     },
-    "group": "ALT"
+    "group": "ALT2"
   },
   {
     "id": "c5961ee3862628a78e1a3db69b66797ac5498b0d",
@@ -4593,6 +4593,6 @@
       "Altaris.preset.green_light": "enabled"
     },
     "$figmaVariableReferences": {},
-    "group": "ALT"
+    "group": "ALT2"
   }
 ]

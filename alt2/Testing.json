@@ -1,0 +1,15 @@
+{
+  "delete": {
+    "value": "#000000",
+    "type": "color",
+    "$extensions": {
+      "studio.tokens": {
+        "modify": {
+          "type": "lighten",
+          "value": "0.5",
+          "space": "lch"
+        }
+      }
+    }
+  }
+}
