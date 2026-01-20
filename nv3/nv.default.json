@@ -5623,7 +5623,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{semantic.background.slate-1}",
+              "value": "{core.grey.700}",
               "type": "color"
             },
             "hover": {
@@ -5791,7 +5791,7 @@
       },
       "tabs": {
         "fill": {
-          "value": "{semantic.background.slate-1}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "state-2": {
