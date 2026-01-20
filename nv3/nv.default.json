@@ -4885,6 +4885,22 @@
           }
         }
       },
+      "status-widget": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-30.800}",
+            "type": "color"
+          },
+          "slate": {
+            "value": "{semantic.background.slate-for-cards}",
+            "type": "color"
+          },
+          "glow": {
+            "value": "radial-gradient(72.69% 65.03% at 0% 50.36%, {core.brand-60.500} 0%, {core.brand-30.a0} 100%)",
+            "type": "color"
+          }
+        }
+      },
       "collection": {
         "background": {
           "background-card": {
@@ -7268,15 +7284,15 @@
       },
       "default": {
         "primary": {
-          "value": "{core.grey.600}",
+          "value": "{core.grey.50}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.400}",
+          "value": "{core.grey.100}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.100}",
+          "value": "{core.grey.300}",
           "type": "color"
         },
         "disabled": {
