@@ -5932,7 +5932,7 @@
       "show-more": {
         "normal": {
           "fill": {
-            "value": "{core.brand-60.100}",
+            "value": "{semantic.gradients.7}",
             "type": "color"
           },
           "border": {
