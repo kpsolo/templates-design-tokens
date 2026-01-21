@@ -5250,7 +5250,7 @@
         }
       },
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.600}",
         "type": "color"
       },
       "bottom-fill": {
@@ -5260,7 +5260,7 @@
     },
     "tooltip": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.500}",
         "type": "color"
       },
       "text": {
@@ -8319,7 +8319,7 @@
     },
     "date": {
       "size": {
-        "value": "{size.400}",
+        "value": "{size.500}",
         "type": "sizing"
       }
     },
