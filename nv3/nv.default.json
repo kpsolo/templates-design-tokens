@@ -3628,7 +3628,7 @@
     "accordion": {
       "background": {
         "fill": {
-          "value": "{semantic.background.5}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         }
       },
@@ -7742,7 +7742,7 @@
     "divider": {
       "default": {
         "primary": {
-          "value": "{core.grey.a10}",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "secondary": {

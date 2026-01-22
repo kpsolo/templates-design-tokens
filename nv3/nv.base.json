@@ -2956,12 +2956,12 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.grey.25}",
+        "value": "{core.grey.700}",
         "type": "color",
         "description": "The slate second level on main(white) background"
       },
       "slate-2": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.600}",
         "type": "color",
         "description": "The slate third level on main(white) background"
       },
