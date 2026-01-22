@@ -6100,7 +6100,7 @@
     },
     "sticky-notifications": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{semantic.background.2}",
         "type": "color"
       },
       "text": {
