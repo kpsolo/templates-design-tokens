@@ -4640,7 +4640,7 @@
           "type": "color"
         },
         "transparent": {
-          "value": "{core.grey.a10}",
+          "value": "{core.white.a20}",
           "type": "color"
         }
       }
@@ -7302,7 +7302,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.400}",
+          "value": "{core.brand-10.300}",
           "type": "color"
         },
         "secondary": {

@@ -4626,7 +4626,7 @@
           "type": "color"
         },
         "transparent": {
-          "value": "{core.grey.a10}",
+          "value": "{core.white.a30}",
           "type": "color"
         }
       }
