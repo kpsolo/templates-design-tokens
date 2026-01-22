@@ -2808,7 +2808,7 @@
       },
       "validation": {
         "danger": {
-          "value": "#FA1D1D",
+          "value": "#f82648",
           "type": "color",
           "description": ".  "
         },

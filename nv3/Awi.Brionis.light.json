@@ -4534,7 +4534,7 @@
         "icon": {
           "left": {
             "default": {
-              "value": "{semantic.icon.default.tertiary}",
+              "value": "{semantic.icon.default.secondary}",
               "type": "color"
             },
             "selected": {
@@ -7250,11 +7250,11 @@
       },
       "default": {
         "primary": {
-          "value": "{core.grey.600}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.400}",
+          "value": "{core.grey.100}",
           "type": "color"
         },
         "tertiary": {

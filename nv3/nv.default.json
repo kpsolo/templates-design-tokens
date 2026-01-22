@@ -4548,7 +4548,7 @@
         "icon": {
           "left": {
             "default": {
-              "value": "{semantic.icon.default.tertiary}",
+              "value": "{semantic.icon.default.secondary}",
               "type": "color"
             },
             "selected": {
