@@ -1117,7 +1117,8 @@
       "shadow.icon-graphic2": "S:7d377f114d017a841a4cc9f9a53e06a8fb487930,"
     },
     "selectedTokenSets": {
-      "Awi.Altaris2": "enabled"
+      "Awi.Altaris2": "enabled",
+      "Altaris.preset.default": "enabled"
     },
     "$figmaVariableReferences": {
       "main": "f59c4e103c5600277a5509805a6780f4525a2d94",
