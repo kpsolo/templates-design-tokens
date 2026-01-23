@@ -6402,7 +6402,19 @@
       "contextual.toggle-button.popup.text.active": "S:f701fa04d9241735b7fb20895b45b600aa09ece2,",
       "contextual.wheel.popup.multiplier.fill.hover": "S:80af715c3678038667b120828eae864d17aadb07,",
       "contextual.wheel.popup.multiplier.border.hover": "S:75c69dc863e13472e99a32950692a786ba8bf651,",
-      "contextual.wheel.popup.multiplier.text.hover": "S:a0dab9fd1ed323064524bcdce828d18bacefab78,"
+      "contextual.wheel.popup.multiplier.text.hover": "S:a0dab9fd1ed323064524bcdce828d18bacefab78,",
+      "contextual.selection-controls.controls.checkbox.border.selected.validation": "S:89ec20c883644fc8749b1fc477b92a603902c82b,",
+      "contextual.selection-controls.controls.checkbox.border.unselected.validation": "S:7ca5ad3e4d327b5bbc71562346acfa58e2e91f05,",
+      "contextual.selection-controls.controls.checkbox.check.selected.validation": "S:7707a308cb69c90230b98c461bc97489a48169cc,",
+      "contextual.selection-controls.controls.checkbox.check.unselected.validation": "S:3ac5390597a4c94b061ecbc91dec36723ec87e4c,",
+      "contextual.selection-controls.controls.checkbox.fill.selected.validation": "S:e0b6450898acfe11ba451e19a25e9476e5d31b86,",
+      "contextual.selection-controls.controls.checkbox.fill.unselected.validation": "S:06db41c8aadb50534e7e0432c17dbe0c98a64bfb,",
+      "contextual.selection-controls.controls.radio-button.border.selected.validation": "S:2e29d91f9e92ecc65ce3c78e49fd43d6e1fb43a9,",
+      "contextual.selection-controls.controls.radio-button.border.unselected.validation": "S:4fd62cf92750e049258bac608b9e633efe4bf3dd,",
+      "contextual.selection-controls.controls.radio-button.bullet.selected.validation": "S:c27670e6224c952ed326d971d649cec30015f83a,",
+      "contextual.selection-controls.controls.radio-button.bullet.unselected.validation": "S:3e777525a4bcbf14df6b92575737f6280e04622d,",
+      "contextual.selection-controls.controls.radio-button.fill.selected.validation": "S:1d0bfeef09f69c5d5221c49de7ad662610c0c3bc,",
+      "contextual.selection-controls.controls.radio-button.fill.unselected.validation": "S:0ac49d74fd5447601e92734d73ee9497c3ace47d,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
