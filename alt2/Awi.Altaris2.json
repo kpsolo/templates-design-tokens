@@ -7373,51 +7373,51 @@
   "core": {
     "grey": {
       "50": {
-        "value": "#E7E6E9",
+        "value": "#e9eaea",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "100": {
-        "value": "#CFCED3",
+        "value": "#babebf",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "200": {
-        "value": "#B6B5BD",
+        "value": "#999ea0",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "300": {
-        "value": "#9E9DA7",
+        "value": "#6a7275",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "400": {
-        "value": "#868491",
+        "value": "#4d565a",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "500": {
-        "value": "#6E6C7B",
+        "value": "#212c31",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "600": {
-        "value": "#565465",
+        "value": "#1e282d",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "700": {
-        "value": "#3D3B4F",
+        "value": "#171f23",
         "type": "color"
       },
       "800": {
-        "value": "#2A2A30",
+        "value": "#12181b",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "900": {
-        "value": "#1A1A20",
+        "value": "#0e1215",
         "type": "color",
         "description": "basic.sand 1000 ( возможно поменять)"
       },
@@ -7515,44 +7515,44 @@
     },
     "brand-60": {
       "50": {
-        "value": "#E3E3ED",
+        "value": "#eff2f4",
         "type": "color"
       },
       "100": {
-        "value": "#C7C7DC",
+        "value": "#ccd6dd",
         "type": "color"
       },
       "200": {
-        "value": "#AAAACA",
+        "value": "#b3c3cc",
         "type": "color"
       },
       "300": {
-        "value": "#8E8EB9",
+        "value": "#90a7b5",
         "type": "color"
       },
       "400": {
-        "value": "#7272A7",
+        "value": "#7b96a6",
         "type": "color"
       },
       "500": {
-        "value": "#5A5A91",
+        "value": "#5a7c90",
         "type": "color"
       },
       "600": {
-        "value": "#494975",
+        "value": "#527183",
         "type": "color"
       },
       "700": {
-        "value": "#373758",
+        "value": "#405866",
         "type": "color"
       },
       "800": {
-        "value": "#26263C",
+        "value": "#405866",
         "type": "color",
         "description": "basic.sand 900"
       },
       "900": {
-        "value": "#141420",
+        "value": "#26343c",
         "type": "color",
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
@@ -7601,48 +7601,48 @@
     },
     "brand-30": {
       "50": {
-        "value": "#FFFBE5",
+        "value": "#fbfcfc",
         "type": "color",
         "description": "basic.sand 50"
       },
       "100": {
-        "value": "#FFF2B2",
+        "value": "#f3f5f7",
         "type": "color",
         "description": "basic.sand 100"
       },
       "200": {
-        "value": "#FFEA7F",
+        "value": "#edf0f3",
         "type": "color",
         "description": "basic.sand 200"
       },
       "300": {
-        "value": "#FFE14C",
+        "value": "#e4e9ee",
         "type": "color",
         "description": "basic.sand 300"
       },
       "400": {
-        "value": "#FFE771",
+        "value": "#dfe5ea",
         "type": "color"
       },
       "500": {
-        "value": "#FED400",
+        "value": "#d7dee5",
         "type": "color"
       },
       "600": {
-        "value": "#E5BF00",
+        "value": "#c4cad0",
         "type": "color",
         "description": "basic.sand 400"
       },
       "700": {
-        "value": "#B29400",
+        "value": "#999ea3",
         "type": "color"
       },
       "800": {
-        "value": "#7F6A00",
+        "value": "#767a7e",
         "type": "color"
       },
       "900": {
-        "value": "#4C4000",
+        "value": "#5a5d60",
         "type": "color"
       },
       "a15": {
@@ -7848,51 +7848,51 @@
     },
     "brand-10": {
       "50": {
-        "value": "#FFEBEB",
+        "value": "#fdffe6",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "100": {
-        "value": "#FEC4C4",
+        "value": "#f9feb0",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "200": {
-        "value": "#FD9D9D",
+        "value": "#f6fe8a",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "300": {
-        "value": "#FC7676",
+        "value": "#f2fe54",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "400": {
-        "value": "#FB3C3C",
+        "value": "#f0fd33",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "500": {
-        "value": "#FA1D1D",
+        "value": "#ecfd00",
         "type": "color",
         "description": "Primary.amber 500, Primary.amber 700"
       },
       "600": {
-        "value": "#D50505",
+        "value": "#d7e600",
         "type": "color",
         "description": "Primary.amber 600"
       },
       "700": {
-        "value": "#980303",
+        "value": "#9CB400",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "800": {
-        "value": "#5B0202",
+        "value": "#728B00",
         "type": "color"
       },
       "900": {
-        "value": "#1E0101",
+        "value": "#516A00",
         "type": "color",
         "description": "Primary.Amber 800"
       },
