@@ -5497,7 +5497,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-30.700}",
+              "value": "{core.brand-30.300}",
               "type": "color"
             },
             "disabled": {
@@ -5511,7 +5511,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.600}",
+              "value": "{core.brand-30.200}",
               "type": "color"
             },
             "hover": {
@@ -5533,7 +5533,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-30.700}",
+              "value": "{core.brand-30.300}",
               "type": "color"
             },
             "disabled": {
@@ -7274,7 +7274,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.brand-30.200}",
           "type": "color"
         },
         "accent": {
@@ -7370,7 +7370,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.brand-30.200}",
           "type": "color"
         },
         "on-brand": {
