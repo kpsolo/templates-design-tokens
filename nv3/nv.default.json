@@ -6013,7 +6013,7 @@
       },
       "text": {
         "default": {
-          "value": "{semantic.icon.default.tertiary}",
+          "value": "{core.white.a50}",
           "type": "color"
         },
         "active": {
