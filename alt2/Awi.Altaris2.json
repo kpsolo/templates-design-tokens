@@ -307,7 +307,7 @@
       },
       "list-prime": {
         "small": {
-          "value": "{border-radius.core.full}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius"
         },
         "large": {
@@ -4719,7 +4719,7 @@
             }
           },
           "border-v2": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a8}",
             "type": "color"
           },
           "devider": {
@@ -4730,11 +4730,11 @@
         "welcome-bonus": {
           "timer": {
             "text": {
-              "value": "{core.white.a100}",
+              "value": "{core.grey.800}",
               "type": "color"
             },
             "fill": {
-              "value": "linear-gradient(0deg, {core.brand-10.500} 0%,  {core.brand-10.700} 100%)",
+              "value": "{core.brand-10.600}",
               "type": "color"
             }
           }
@@ -5812,20 +5812,20 @@
         "prime": {
           "border": {
             "default": {
-              "value": "linear-gradient(90deg, {core.brand-30.800a50} 0%, {core.brand-30.a20} 100%)",
+              "value": "{core.white.a8}",
               "type": "color"
             },
             "active": {
-              "value": "linear-gradient(131deg, {core.brand-30.100} 3%, {core.brand-30.800a50} 49%, {core.brand-30.800} 93%)",
+              "value": "{core.white.a0}",
               "type": "color"
             }
           },
           "divider": {
-            "value": "linear-gradient(90deg, {core.brand-30.800a50} 13%, {core.brand-30.a50} 49%, {core.brand-30.800a50} 90%)",
+            "value": "{core.white.a8}",
             "type": "color"
           },
           "elipse": {
-            "value": "linear-gradient(90deg, {core.brand-30.800a50} 35%, {core.brand-30.800a0} 81%)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },
@@ -5839,7 +5839,7 @@
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(90deg, {core.brand-30.a10} 35%, {core.brand-30.a0} 81%)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },
@@ -5853,7 +5853,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a5}",
             "type": "color"
           }
         }
@@ -8238,7 +8238,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.300}",
+          "value": "{core.grey.100}",
           "type": "color"
         },
         "disabled": {

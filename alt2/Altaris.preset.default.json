@@ -2580,17 +2580,8 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.grey.700}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "lch"
-            }
-          }
-        },
         "description": "+ "
       },
       "10": {
