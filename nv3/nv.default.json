@@ -5659,7 +5659,7 @@
     "lottery-tournament": {
       "players-prizes": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "border": {
