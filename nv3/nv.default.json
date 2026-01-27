@@ -5947,7 +5947,7 @@
       },
       "empty": {
         "fill": {
-          "value": "{core.brand-10.50}",
+          "value": "{core.grey.50}",
           "type": "color"
         },
         "content": {
