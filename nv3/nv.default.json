@@ -5956,7 +5956,7 @@
         }
       },
       "overlay": {
-        "value": "{core.white.a80}",
+        "value": "{core.grey.a60}",
         "type": "color"
       },
       "icon": {
