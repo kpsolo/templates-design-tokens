@@ -5951,7 +5951,7 @@
           "type": "color"
         },
         "content": {
-          "value": "{core.brand-10.100}",
+          "value": "{semantic.icon.default.primary}",
           "type": "color"
         }
       },
@@ -5996,6 +5996,10 @@
       "text": {
         "primary": {
           "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "providers": {
+          "value": "{semantic.text.default.tertiary}",
           "type": "color"
         }
       },
