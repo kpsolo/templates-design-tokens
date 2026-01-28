@@ -2356,35 +2356,11 @@
         "button": {
           "value": [
             {
-              "x": "{depth.0}",
-              "y": "{depth.0}",
-              "blur": "17",
-              "spread": "{depth.0}",
-              "color": "{core.white.a30}",
-              "type": "innerShadow"
-            },
-            {
-              "x": "-4",
-              "y": "-4",
-              "blur": "20",
-              "spread": "0",
-              "color": "{core.brand-10.a10}",
-              "type": "dropShadow"
-            },
-            {
               "x": "0",
               "y": "4",
               "blur": "20",
               "spread": "0",
-              "color": "{core.brand-10.a10}",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "4",
-              "blur": "20",
-              "spread": "0",
-              "color": "{core.brand-10.a25}",
+              "color": "{core.grey.a0}",
               "type": "dropShadow"
             }
           ],
@@ -3422,11 +3398,11 @@
       },
       "button": {
         "fill": {
-          "value": "radial-gradient(238% 44% at 97% 31%, {core.white.a25} 0%, {core.white.a0} 100%), radial-gradient(183% 55% at 6% 100%, {core.brand-10.a50} 0%, {core.brand-10.300a0} 100%), radial-gradient(352% 78% at -10% 36%, {core.brand-10.800} 21%, {core.brand-10.a40} 100%), radial-gradient(180% 184% at 97% -91%, {core.brand-10.800} 55%, {core.brand-10.a40} 100%), {core.brand-10.600}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "text": {
-          "value": "{core.white.a100}",
+          "value": "{contextual.button.secondary.text.default}",
           "type": "color"
         }
       },
