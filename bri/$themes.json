@@ -6414,7 +6414,8 @@
       "contextual.selection-controls.controls.radio-button.bullet.selected.validation": "S:c27670e6224c952ed326d971d649cec30015f83a,",
       "contextual.selection-controls.controls.radio-button.bullet.unselected.validation": "S:3e777525a4bcbf14df6b92575737f6280e04622d,",
       "contextual.selection-controls.controls.radio-button.fill.selected.validation": "S:1d0bfeef09f69c5d5221c49de7ad662610c0c3bc,",
-      "contextual.selection-controls.controls.radio-button.fill.unselected.validation": "S:0ac49d74fd5447601e92734d73ee9497c3ace47d,"
+      "contextual.selection-controls.controls.radio-button.fill.unselected.validation": "S:0ac49d74fd5447601e92734d73ee9497c3ace47d,",
+      "contextual.datepicker.border": "S:8aeb02a0308057878b92ef43eb649311420d5b3c,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

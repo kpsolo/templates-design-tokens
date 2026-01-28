@@ -5266,6 +5266,10 @@
         "value": "{core.white.a100}",
         "type": "color"
       },
+      "border": {
+        "value": "{core.grey.a10}",
+        "type": "color"
+      },
       "bottom-fill": {
         "value": "{core.white.a8}",
         "type": "color"
