@@ -5616,7 +5616,7 @@
       },
       "winning-now": {
         "background": {
-          "value": "{core.brand-60.900}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "card": {
@@ -5626,7 +5626,7 @@
           },
           "background": {
             "fill": {
-              "value": "{core.brand-10.a45}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             },
             "border": {
@@ -5635,7 +5635,7 @@
             }
           },
           "text-body": {
-            "value": "{core.brand-10.100}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           }
         }
@@ -5683,7 +5683,7 @@
       "banner": {
         "text-accent": {
           "fill": {
-            "value": "{core.grey.a30}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "border": {
@@ -6482,11 +6482,11 @@
         "item": {
           "fill": {
             "default": {
-              "value": "{core.brand-60.700}",
+              "value": "{core.grey.700}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.800}",
+              "value": "{core.grey.800}",
               "type": "color"
             }
           },
@@ -6500,7 +6500,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.brand-10.400}",
               "type": "color"
             }
           }
@@ -8284,7 +8284,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         },
         "secondary": {
