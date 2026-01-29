@@ -3395,7 +3395,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.grey.500}",
+          "value": "{semantic.background.slate-4}",
           "type": "color"
         },
         "illustration": {
@@ -3431,31 +3431,31 @@
       },
       "loyalty_points": {
         "fill": {
-          "value": "{core.brand-preset.sport.5}",
+          "value": "{semantic.gradients.7}",
           "type": "color",
           "description": "contextual.profile.loyalty_points.fill"
         },
         "points": {
           "slate-1": {
             "fill": {
-              "value": "{core.brand-60.50}",
+              "value": "{core.white.a8}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             },
             "border": {
-              "value": "{core.brand-10.a30}",
+              "value": "{core.white.a15}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             }
           },
           "slate-2": {
             "fill": {
-              "value": "{core.white.a100}",
+              "value": "{core.white.a10}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             },
             "border": {
-              "value": "{core.brand-10.a30}",
+              "value": "{core.white.a25}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             }
@@ -5911,7 +5911,7 @@
       },
       "cost-indicator": {
         "text&icon": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-10.400}",
           "type": "color"
         }
       },
@@ -5928,7 +5928,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.700a40}",
             "type": "color"
           }
         }
