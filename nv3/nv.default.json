@@ -4851,7 +4851,7 @@
     },
     "bonuses": {
       "fill": {
-        "value": "{semantic.gradients.7}",
+        "value": "{semantic.gradients.6}",
         "type": "color"
       },
       "border": {
@@ -4860,7 +4860,7 @@
           "type": "color"
         },
         "active": {
-          "value": "linear-gradient(319deg, {core.brand-30.500} 50%, {core.brand-10.100} 97%)",
+          "value": "linear-gradient(319deg, {core.brand-30.300} 50%, {core.brand-10.300} 97%)",
           "type": "color",
           "description": "linear-gradient(319deg, {core.brand-10.400} 50%, {core.brand-10.200} 97%)"
         }
@@ -5928,7 +5928,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.brand-60.700a40}",
+            "value": "{core.brand-60.300a60}",
             "type": "color"
           }
         }
