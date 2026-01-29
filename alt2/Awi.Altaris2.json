@@ -3277,7 +3277,7 @@
       "card": {
         "background": {
           "fill": {
-            "value": "linear-gradient(317deg, {core.brand-60.800} 0%, {core.brand-60.800} 35%, {core.brand-30.800} 100%)",
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "border": {
@@ -3303,7 +3303,7 @@
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(180deg, {core.white.a100} 0%, {core.brand-30.800} 100%)",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "text": {
@@ -4139,7 +4139,7 @@
           "type": "color"
         },
         "progress": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-10.600}",
           "type": "color"
         },
         "text": {
@@ -5367,7 +5367,7 @@
     },
     "bonuses": {
       "fill": {
-        "value": "linear-gradient(259deg, {core.brand-60.600} 8%, {core.brand-60.700} 63%)",
+        "value": "{core.brand-60.700}",
         "type": "color"
       },
       "progressbar": {
@@ -8246,7 +8246,7 @@
       },
       "banner-cart": {
         "primary": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.800}",
           "type": "color"
         },
         "secondary": {
