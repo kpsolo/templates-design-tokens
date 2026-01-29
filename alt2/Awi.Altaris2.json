@@ -5248,7 +5248,7 @@
           },
           "line": {
             "active": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-10.400}",
               "type": "color"
             }
           },
@@ -6092,7 +6092,7 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{core.grey.700}",
+            "value": "{core.grey.600}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -6130,7 +6130,7 @@
                 "description": "Segment Control"
               },
               "active": {
-                "value": "{core.grey.700}",
+                "value": "{core.grey.600}",
                 "type": "color",
                 "description": "Segment Control"
               }
@@ -8470,7 +8470,7 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(311deg, {core.brand-60.900} , {core.white.a40} , {core.brand-30.500} 93%)",
+          "value": "{core.brand-10.200}",
           "type": "color"
         }
       },
