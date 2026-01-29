@@ -5029,11 +5029,11 @@
       "promo-code-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.700} 33%, {core.brand-60.800} 100%)",
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(180deg, {core.brand-60.500} 0%, {core.brand-60.600} 33%, {core.brand-60.700} 100%)",
+            "value": "{core.brand-60.600}",
             "type": "color"
           }
         },
