@@ -5493,7 +5493,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{semantic.text.brand.secondary}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "hover": {
@@ -5511,7 +5511,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.200}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "hover": {
@@ -5549,7 +5549,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.600}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "hover": {
@@ -5567,7 +5567,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.600}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "hover": {
