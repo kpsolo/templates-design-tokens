@@ -5529,7 +5529,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{semantic.icon.static.disabled}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "hover": {
