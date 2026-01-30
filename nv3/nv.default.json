@@ -1506,7 +1506,7 @@
             "y": "0px",
             "blur": "16px",
             "spread": "0px",
-            "color": "{core.grey.a20}",
+            "color": "{core.white.a15}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -1556,7 +1556,7 @@
             "y": "-5px",
             "blur": "20px",
             "spread": "0",
-            "color": "{core.brand-10.a40}",
+            "color": "{core.brand-30.500a30}",
             "type": "dropShadow"
           },
           {
@@ -1564,7 +1564,7 @@
             "y": "5px",
             "blur": "20px",
             "spread": "0",
-            "color": "{core.brand-10.a40}",
+            "color": "{core.brand-30.500a60}",
             "type": "dropShadow"
           }
         ],
@@ -2316,7 +2316,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-60.300}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "active-vip": {
@@ -2334,7 +2334,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "active-vip": {
@@ -2359,15 +2359,15 @@
       },
       "button": {
         "fill": {
-          "value": "linear-gradient(154deg, {core.brand-10.400} 14%, {core.brand-10.600} 85%)",
+          "value": "linear-gradient(154deg, {core.brand-30.800} 14%, {core.brand-30.900} 85%)",
           "type": "color"
         },
         "border": {
-          "value": "{core.grey.a20}",
+          "value": "{core.brand-30.800a50}",
           "type": "color"
         },
         "icon": {
-          "value": "{semantic.icon.default.primary}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       },
@@ -2391,7 +2391,7 @@
       },
       "popup": {
         "fill": {
-          "value": "{core.brand-60.800}",
+          "value": "linear-gradient(180deg, {core.brand-preset.white} 0%, {core.brand-preset.white} 51.44%, {core.brand-60.50} 100%)",
           "type": "color"
         },
         "divider": {
@@ -2401,21 +2401,21 @@
         "multiplier": {
           "fill": {
             "normal": {
-              "value": "{core.brand-60.700}",
+              "value": "{contextual.button.secondary.fill.default}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-60.600}",
+              "value": "{contextual.toggle-button.card.fill.hover}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.500}",
+              "value": "{contextual.button.secondary.fill.active}",
               "type": "color"
             }
           },
           "border": {
             "normal": {
-              "value": "{core.white.a8}",
+              "value": "{contextual.button.secondary.border-color.default}",
               "type": "color"
             },
             "hover": {
@@ -2423,7 +2423,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.white.a10}",
+              "value": "{contextual.lootboxes.coefficient.card.border.active}",
               "type": "color"
             }
           },
@@ -3341,7 +3341,7 @@
     "cashbox": {
       "bonus": {
         "fill": {
-          "value": "{core.brand-30.50}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "border": {
@@ -4861,7 +4861,7 @@
         }
       },
       "dots": {
-        "value": "{core.brand-60.a30}",
+        "value": "{core.white.a70}",
         "type": "color"
       }
     },
@@ -6754,7 +6754,7 @@
             "description": "Toggle-button"
           },
           "hover": {
-            "value": "{core.brand-60.600}",
+            "value": "{contextual.button.secondary.fill.hover}",
             "type": "color",
             "description": "Toggle-button"
           },
@@ -6766,17 +6766,17 @@
         },
         "border": {
           "normal": {
-            "value": "{core.white.a10}",
+            "value": "{contextual.button.secondary.border-color.default}",
             "type": "color",
             "description": "Toggle-button"
           },
           "hover": {
-            "value": "{core.white.a10}",
+            "value": "{contextual.button.secondary.border-color.hover}",
             "type": "color",
             "description": "Toggle-button"
           },
           "active": {
-            "value": "{core.white.a10}",
+            "value": "{core.brand-10.600}",
             "type": "color",
             "description": "Toggle-button"
           }
@@ -7490,7 +7490,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-10.200}",
           "type": "color"
         }
       }
