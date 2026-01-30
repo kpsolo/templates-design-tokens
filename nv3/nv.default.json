@@ -3353,7 +3353,7 @@
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, {core.brand-30.50a0} 0%, {core.brand-30.50} 100%)",
+          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.700} 100%)",
           "type": "color"
         },
         "text": {
@@ -4833,7 +4833,7 @@
       "number-cell": {
         "fill": {
           "light": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.600}",
             "type": "color"
           },
           "popup": {
