@@ -3557,6 +3557,22 @@
             "type": "color"
           }
         }
+      },
+      "tabs-balance": {
+        "fill": {
+          "value": "{core.brand-60.a15}",
+          "type": "color"
+        },
+        "icon": {
+          "fill": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          },
+          "bg": {
+            "value": "{core.brand-30.a30}",
+            "type": "color"
+          }
+        }
       }
     },
     "loyalty": {

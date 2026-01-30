@@ -2966,7 +2966,7 @@
         "description": "The slate third level on main(white) background"
       },
       "slate-on-card": {
-        "value": "{core.white.a90}",
+        "value": "{core.brand-60.300a60}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },
