@@ -6766,7 +6766,7 @@
         },
         "border": {
           "normal": {
-            "value": "{contextual.button.secondary.border-color.default}",
+            "value": "{core.white.a10}",
             "type": "color",
             "description": "Toggle-button"
           },
@@ -6776,7 +6776,7 @@
             "description": "Toggle-button"
           },
           "active": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.white.a10}",
             "type": "color",
             "description": "Toggle-button"
           }
