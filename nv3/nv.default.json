@@ -5944,7 +5944,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.brand-60.300a60}",
+            "value": "{core.brand-30.500a60}",
             "type": "color"
           }
         }
