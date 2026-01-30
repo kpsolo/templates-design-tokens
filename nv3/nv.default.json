@@ -2405,11 +2405,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{contextual.toggle-button.card.fill.hover}",
+              "value": "{core.brand-60.600}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.300}",
+              "value": "{core.brand-60.500}",
               "type": "color"
             }
           },
