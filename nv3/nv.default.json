@@ -6754,7 +6754,7 @@
             "description": "Toggle-button"
           },
           "hover": {
-            "value": "{contextual.button.secondary.fill.hover}",
+            "value": "{core.brand-60.600}",
             "type": "color",
             "description": "Toggle-button"
           },
