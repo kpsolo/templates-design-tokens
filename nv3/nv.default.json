@@ -2714,7 +2714,7 @@
       "card": {
         "fiill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "inactive": {
@@ -2724,7 +2724,7 @@
         },
         "border": {
           "default": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.white.a15}",
             "type": "color"
           }
         },
@@ -4867,7 +4867,7 @@
     },
     "bonuses": {
       "fill": {
-        "value": "{semantic.gradients.6}",
+        "value": "{semantic.gradients.7}",
         "type": "color"
       },
       "border": {
@@ -4876,7 +4876,7 @@
           "type": "color"
         },
         "active": {
-          "value": "linear-gradient(319deg, {core.brand-30.300} 50%, {core.brand-10.300} 97%)",
+          "value": "linear-gradient(319deg, {core.brand-30.200} 50%, {core.brand-10.300} 97%)",
           "type": "color",
           "description": "linear-gradient(319deg, {core.brand-10.400} 50%, {core.brand-10.200} 97%)"
         }
@@ -7448,7 +7448,7 @@
       },
       "danger": {
         "default": {
-          "value": "{core.validation.danger.600}",
+          "value": "{core.validation.danger.500}",
           "type": "color"
         },
         "static": {
@@ -7458,7 +7458,7 @@
       },
       "success": {
         "default": {
-          "value": "{core.validation.success.600}",
+          "value": "{core.validation.success.500}",
           "type": "color"
         },
         "static": {
@@ -7468,7 +7468,7 @@
       },
       "warning": {
         "default": {
-          "value": "{core.validation.warning.600}",
+          "value": "{core.validation.warning.500}",
           "type": "color"
         },
         "static": {
