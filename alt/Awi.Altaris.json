@@ -4017,7 +4017,7 @@
         },
         "menu": {
           "fill": {
-            "value": "{core.brand-60.700}",
+            "value": "{core.grey.800}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }
@@ -7386,6 +7386,11 @@
   },
   "core": {
     "grey": {
+      "25": {
+        "value": "#F2F0F6",
+        "type": "color",
+        "description": "basic.sand 1100"
+      },
       "50": {
         "value": "#E7E6E9",
         "type": "color",
