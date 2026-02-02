@@ -7643,6 +7643,15 @@
       "300a8": {
         "value": "{core.brand-60.300}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.08",
+              "space": "lch"
+            }
+          }
+        },
         "description": "replacement.sand 300 (15%)\n"
       },
       "a20": {
