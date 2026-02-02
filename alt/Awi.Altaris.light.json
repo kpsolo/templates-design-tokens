@@ -2636,15 +2636,15 @@
       "text": {
         "primary": {
           "default": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.500}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           }
         }
@@ -2652,21 +2652,21 @@
       "icon": {
         "primary": {
           "default": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.icon.static.tertiary}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.icon.static.accent}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.icon.static.tertiary}",
             "type": "color"
           }
         },
         "secondary": {
           "hover": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.icon.static.tertiary}",
             "type": "color"
           }
         }

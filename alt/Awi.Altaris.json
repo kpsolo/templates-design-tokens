@@ -6880,15 +6880,15 @@
       "text": {
         "primary": {
           "default": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         }
@@ -6896,21 +6896,21 @@
       "icon": {
         "primary": {
           "default": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.icon.default.tertiary}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.icon.default.secondary}",
             "type": "color"
           }
         },
         "secondary": {
           "hover": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.icon.default.tertiary}",
             "type": "color"
           }
         }
