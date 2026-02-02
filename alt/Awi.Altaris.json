@@ -9445,6 +9445,19 @@
           "type": "typography"
         }
       }
+    },
+    "balance-card": {
+      "balance": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{scale-5}",
+          "lineHeight": "20px",
+          "textCase": "{text-case.none}",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      }
     }
   },
   "tooltip": {

@@ -2636,11 +2636,11 @@
       "text": {
         "primary": {
           "default": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "active": {
@@ -8048,7 +8048,7 @@
   "semantic": {
     "gradients": {
       "1": {
-        "value": "{core.brand-60.a30}",
+        "value": "{core.brand-60.a10}",
         "type": "color",
         "description": "gradients.yellow 50"
       },
@@ -8978,6 +8978,43 @@
       }
     }
   },
+  "profile": {
+    "balance-card": {
+      "balance": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{scale-5}",
+          "lineHeight": "20px",
+          "textCase": "{text-case.none}",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      }
+    },
+    "verification": {
+      "item": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "{scale-5}",
+          "lineHeight": "{lg}"
+        },
+        "type": "typography"
+      },
+      "loyalty_points": {
+        "sum": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "20px",
+            "lineHeight": "26px"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
   "letter-spacing": {
     "2": {
       "value": "2%",
@@ -9413,30 +9450,6 @@
       },
       "type": "typography",
       "description": "Story"
-    }
-  },
-  "profile": {
-    "verification": {
-      "item": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "{scale-5}",
-          "lineHeight": "{lg}"
-        },
-        "type": "typography"
-      },
-      "loyalty_points": {
-        "sum": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "20px",
-            "lineHeight": "26px"
-          },
-          "type": "typography"
-        }
-      }
     }
   },
   "tooltip": {
