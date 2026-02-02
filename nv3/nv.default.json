@@ -3073,7 +3073,7 @@
         "card": {
           "fill": {
             "normal": {
-              "value": "{contextual.toggle-button.card.fill.normal}",
+              "value": "{core.brand-60.300a60}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -3083,7 +3083,7 @@
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.toggle-button.card.fill.active}",
+              "value": "{core.brand-60.600}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -6723,7 +6723,7 @@
             "description": "Toggle-button"
           },
           "active": {
-            "value": "{core.white.a20}",
+            "value": "{core.white.a10}",
             "type": "color",
             "description": "Toggle-button"
           }
