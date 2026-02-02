@@ -1482,6 +1482,21 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "card": {
+        "balance": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "2px",
+              "blur": "6px",
+              "spread": "0px",
+              "color": "{core.brand-60.a15}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
       }
     },
     "segment-control": {
@@ -4116,6 +4131,15 @@
           "hover": {
             "value": "{semantic.text.default.heading}",
             "type": "color"
+          }
+        }
+      },
+      "balance-card": {
+        "icon": {
+          "background": {
+            "value": "{core.grey.25}",
+            "type": "color",
+            "description": "gradients.yellow 50"
           }
         }
       }
@@ -9453,6 +9477,17 @@
           "fontWeight": "{Bold}",
           "fontSize": "{scale-5}",
           "lineHeight": "20px",
+          "textCase": "{text-case.none}",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "10th": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{md}",
           "textCase": "{text-case.none}",
           "letterSpacing": "0%"
         },

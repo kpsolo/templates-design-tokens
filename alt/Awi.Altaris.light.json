@@ -1511,6 +1511,21 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "card": {
+        "balance": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "2px",
+              "blur": "6px",
+              "spread": "0px",
+              "color": "{core.brand-60.a15}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
       }
     },
     "segment-control": {
@@ -4095,6 +4110,15 @@
             "description": "contextual.profile.loyalty_points.fill"
           }
         }
+      },
+      "balance-card": {
+        "icon": {
+          "background": {
+            "value": "{core.grey.25}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        }
       }
     },
     "loyalty": {
@@ -6030,7 +6054,7 @@
       },
       "slate": {
         "1": {
-          "value": "{core.brand-60.a5}",
+          "value": "{core.brand-60.300a8}",
           "type": "color"
         },
         "2": {
@@ -7616,6 +7640,11 @@
         "type": "color",
         "description": "replacement.sand 300 (15%)\n"
       },
+      "300a8": {
+        "value": "{core.brand-60.300}",
+        "type": "color",
+        "description": "replacement.sand 300 (15%)\n"
+      },
       "a20": {
         "value": "rgba(142, 142, 185, 0.20)",
         "type": "color"
@@ -8048,7 +8077,7 @@
   "semantic": {
     "gradients": {
       "1": {
-        "value": "{core.brand-60.a10}",
+        "value": "{core.white.a100}",
         "type": "color",
         "description": "gradients.yellow 50"
       },
@@ -8980,6 +9009,17 @@
   },
   "profile": {
     "balance-card": {
+      "10th": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{md}",
+          "textCase": "{text-case.none}",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
       "balance": {
         "value": {
           "fontFamily": "{accent}",
