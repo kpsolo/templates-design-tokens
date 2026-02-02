@@ -6723,7 +6723,7 @@
             "description": "Toggle-button"
           },
           "active": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.white.a20}",
             "type": "color",
             "description": "Toggle-button"
           }
@@ -6766,17 +6766,17 @@
         },
         "border": {
           "normal": {
-            "value": "{contextual.button.secondary.border-color.default}",
+            "value": "{core.white.a10}",
             "type": "color",
             "description": "Toggle-button"
           },
           "hover": {
-            "value": "{contextual.button.secondary.border-color.hover}",
+            "value": "{core.white.a20}",
             "type": "color",
             "description": "Toggle-button"
           },
           "active": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.white.a20}",
             "type": "color",
             "description": "Toggle-button"
           }
