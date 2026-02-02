@@ -2745,19 +2745,19 @@
         "nornal": {
           "fiill": {
             "default": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             },
             "received": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             },
             "progress": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             },
             "get": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             }
           },
@@ -2767,7 +2767,7 @@
               "type": "color"
             },
             "progress": {
-              "value": "{core.brand-10.a25}",
+              "value": "{core.validation.info.a20}",
               "type": "color"
             },
             "received": {
