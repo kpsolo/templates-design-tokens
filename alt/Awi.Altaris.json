@@ -6875,6 +6875,46 @@
         "type": "color",
         "description": "Skeleton gradient stop 2"
       }
+    },
+    "list-item": {
+      "text": {
+        "primary": {
+          "default": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.grey.500}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.grey.500}",
+            "type": "color"
+          }
+        }
+      },
+      "icon": {
+        "primary": {
+          "default": {
+            "value": "{core.grey.500}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.grey.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.grey.500}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "hover": {
+            "value": "{core.grey.500}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {
