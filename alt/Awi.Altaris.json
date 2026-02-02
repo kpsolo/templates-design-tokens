@@ -9709,5 +9709,11 @@
         "type": "typography"
       }
     }
+  },
+  "card": {
+    "balance": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
+    }
   }
 }

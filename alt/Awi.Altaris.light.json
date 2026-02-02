@@ -374,6 +374,12 @@
       "description": "Banners: mobile aplication APP page"
     }
   },
+  "card": {
+    "balance": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
+    }
+  },
   "border": {
     "button": {
       "primary": {
