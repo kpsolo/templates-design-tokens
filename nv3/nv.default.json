@@ -1506,7 +1506,7 @@
             "y": "0px",
             "blur": "16px",
             "spread": "0px",
-            "color": "{core.white.a15}",
+            "color": "{core.grey.a20}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -6754,12 +6754,12 @@
             "description": "Toggle-button"
           },
           "hover": {
-            "value": "{contextual.button.secondary.fill.hover}",
+            "value": "{core.brand-60.600}",
             "type": "color",
             "description": "Toggle-button"
           },
           "active": {
-            "value": "{contextual.button.secondary.fill.active}",
+            "value": "{core.brand-60.500}",
             "type": "color",
             "description": "Toggle-button"
           }
