@@ -4041,6 +4041,20 @@
             "type": "color"
           }
         }
+      },
+      "background": {
+        "fill": {
+          "value": "{contextual.popup.fill}",
+          "type": "color",
+          "description": "contextual.profile.loyalty_points.fill"
+        },
+        "menu": {
+          "fill": {
+            "value": "{core.brand-60.700}",
+            "type": "color",
+            "description": "contextual.profile.loyalty_points.fill"
+          }
+        }
       }
     },
     "loyalty": {
