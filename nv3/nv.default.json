@@ -3599,7 +3599,7 @@
       "points-indicator": {
         "text": {
           "accent": {
-            "value": "{core.brand-30.600}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "default": {
@@ -7398,7 +7398,7 @@
           "type": "color"
         },
         "on-brand-secondary": {
-          "value": "{core.brand-60.700}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "on-brand-tertiary": {
