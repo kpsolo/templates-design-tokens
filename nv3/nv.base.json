@@ -2361,6 +2361,160 @@
           },
           "description": "Secondary.yellow 300"
         }
+      },
+      "info": {
+        "50": {
+          "value": "{core.brand-preset.validation.info}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.94",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "100": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Secondary.yellow 300"
+        },
+        "200": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Secondary.yellow 300"
+        },
+        "300": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Secondary.yellow 300"
+        },
+        "400": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Secondary.yellow 300"
+        },
+        "500": {
+          "value": "{core.brand-preset.validation.info}",
+          "type": "color",
+          "description": "Secondary.yellow 300"
+        },
+        "600": {
+          "value": "{core.brand-preset.validation.info}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "700": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Secondary.yellow 300"
+        },
+        "800": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Secondary.yellow 300"
+        },
+        "900": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Secondary.yellow 300"
+        },
+        "a30": {
+          "value": "{core.brand-preset.validation.info}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "a20": {
+          "value": "{core.brand-preset.validation.info}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "a10": {
+          "value": "{core.brand-preset.validation.info}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "a5": {
+          "value": "{core.brand-preset.validation.info}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.05",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "a0": {
+          "value": "{core.brand-preset.validation.info}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "600a30": {
+          "value": "{core.validation.info.600}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        }
       }
     },
     "brand-10": {

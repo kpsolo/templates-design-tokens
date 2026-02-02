@@ -6561,7 +6561,7 @@
             "type": "color"
           },
           "info": {
-            "value": "{core.brand-10.a10}",
+            "value": "{core.validation.info.a10}",
             "type": "color"
           }
         },
