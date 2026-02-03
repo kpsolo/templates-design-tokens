@@ -6289,7 +6289,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.grey.200}",
+            "value": "{core.grey.300}",
             "type": "color"
           },
           "hover": {
