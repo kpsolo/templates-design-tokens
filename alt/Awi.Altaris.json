@@ -1488,10 +1488,10 @@
           "value": [
             {
               "x": "0px",
-              "y": "2px",
-              "blur": "6px",
+              "y": "0px",
+              "blur": "0px",
               "spread": "0px",
-              "color": "{core.brand-60.a15}",
+              "color": "{core.white.a0}",
               "type": "dropShadow"
             }
           ],
@@ -4137,7 +4137,7 @@
       "balance-card": {
         "icon": {
           "background": {
-            "value": "{core.grey.25}",
+            "value": "{core.grey.50}",
             "type": "color",
             "description": "gradients.yellow 50"
           }
@@ -8080,7 +8080,7 @@
   "semantic": {
     "gradients": {
       "1": {
-        "value": "{core.brand-60.a30}",
+        "value": "{core.white.a8}",
         "type": "color",
         "description": "gradients.yellow 50"
       },

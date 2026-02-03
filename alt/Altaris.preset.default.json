@@ -2531,7 +2531,7 @@
   "semantic": {
     "gradients": {
       "1": {
-        "value": "{core.brand-60.a30}",
+        "value": "{core.white.a8}",
         "type": "color",
         "description": "gradients.yellow 50"
       },
