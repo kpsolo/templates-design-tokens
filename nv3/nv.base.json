@@ -3030,7 +3030,7 @@
         "description": "gradients.yellow 200"
       },
       "3": {
-        "value": "linear-gradient(180deg, {core.white.a100} 0%, {core.brand-preset.white} 51.44%, {core.brand-60.50} 100%)",
+        "value": "{core.brand-30.600}",
         "type": "color",
         "description": "gradient popup"
       },
