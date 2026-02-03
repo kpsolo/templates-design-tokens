@@ -3190,12 +3190,12 @@
       },
       "label": {
         "text": {
-          "value": "{core.brand-30.300}",
+          "value": "{white}",
           "type": "color",
           "description": "Lootboxes"
         },
         "fill": {
-          "value": "{core.brand-30.a10}",
+          "value": "{core.white.a15}",
           "type": "color",
           "description": "Lootboxes"
         }
@@ -6800,6 +6800,11 @@
         }
       }
     }
+  },
+  "white": {
+    "value": "{core.white.a100}",
+    "type": "color",
+    "description": "Lootboxes"
   },
   "scale-1": {
     "value": "{base} * 0.6875",
