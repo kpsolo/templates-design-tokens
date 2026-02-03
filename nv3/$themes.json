@@ -1451,7 +1451,8 @@
       "core.validation.info.a5": "S:e37bf184d500f40a4a05086dd22e9e9e965348d0,",
       "core.validation.info.a0": "S:1613f1155dab4dd2a9d00008b204f176ae251e62,",
       "core.validation.info.600a30": "S:fe689d54e79a0ecb7c8066e89ed86274fbdc9e89,",
-      "white": "S:bbd566e70d56801b5f3098e36dbf8a9126b6bf17,"
+      "white": "S:bbd566e70d56801b5f3098e36dbf8a9126b6bf17,",
+      "contextual.welcome-bonus.progress.steps.steps.icone-done": "S:aee61574a69ddab4e25c86c3a7a20565e6c49286,"
     },
     "selectedTokenSets": {
       "nv.default": "enabled",
