@@ -5812,7 +5812,7 @@
         },
         "state-2": {
           "fill": {
-            "value": "{semantic.background.slate-2}",
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "border": {
