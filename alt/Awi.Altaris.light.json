@@ -1523,10 +1523,10 @@
           "value": [
             {
               "x": "0px",
-              "y": "2px",
-              "blur": "6px",
+              "y": "0px",
+              "blur": "0px",
               "spread": "0px",
-              "color": "{core.brand-60.a15}",
+              "color": "{core.white.a0}",
               "type": "dropShadow"
             }
           ],
@@ -2665,7 +2665,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           }
         }
@@ -2677,7 +2677,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{semantic.icon.static.accent}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "hover": {
@@ -4120,7 +4120,7 @@
       "balance-card": {
         "icon": {
           "background": {
-            "value": "{core.grey.25}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "gradients.yellow 50"
           }
@@ -6017,26 +6017,26 @@
                 "description": "Segment Control"
               },
               "active": {
-                "value": "{core.grey.100}",
+                "value": "{contextual.segment-control.item.fill.active}",
                 "type": "color",
                 "description": "Segment Control"
               }
             },
             "text": {
               "default": {
-                "value": "{semantic.text.brand.on-brand-secondary}",
+                "value": "{contextual.segment-control.item.text.default}",
                 "type": "color",
                 "description": "Segment Control"
               },
               "active": {
-                "value": "{semantic.text.default.heading}",
+                "value": "{contextual.segment-control.item.text.active}",
                 "type": "color",
                 "description": "Segment Control"
               }
             }
           },
           "fill": {
-            "value": "{core.grey.50}",
+            "value": "{contextual.segment-control.fill}",
             "type": "color",
             "description": "Segment Control"
           }
