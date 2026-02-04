@@ -3101,7 +3101,7 @@
         "description": "not used\ngradient.Black 600\nold #060423\n"
       },
       "5": {
-        "value": "{core.white.a10}",
+        "value": "{core.grey.a30}",
         "type": "color"
       },
       "6": {

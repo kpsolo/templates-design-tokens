@@ -6803,11 +6803,6 @@
       }
     }
   },
-  "white": {
-    "value": "{core.white.a100}",
-    "type": "color",
-    "description": "Lootboxes"
-  },
   "scale-1": {
     "value": "{base} * 0.6875",
     "type": "fontSizes"
