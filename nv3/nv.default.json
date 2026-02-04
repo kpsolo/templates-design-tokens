@@ -6161,11 +6161,11 @@
       "thumb-providers": {
         "background": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{contextual.thumb-games.empty.fill}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-60.100}",
+            "value": "{core.white.a10}",
             "type": "color"
           }
         }
