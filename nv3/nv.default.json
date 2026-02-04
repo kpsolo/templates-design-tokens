@@ -8692,12 +8692,22 @@
         "description": "contextual.lootboxes.coefficient"
       },
       "hover": {
-        "value": "{text.md-stronger}",
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{md}"
+        },
         "type": "typography",
         "description": "contextual.lootboxes.coefficient"
       },
       "active": {
-        "value": "{text.md-stronger}",
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{md}"
+        },
         "type": "typography",
         "description": "contextual.lootboxes.coefficient"
       }
