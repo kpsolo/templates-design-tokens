@@ -4821,11 +4821,9 @@
             "type": "color"
           }
         },
-        "bottom": {
-          "fill": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
+        "text": {
+          "value": "{core.brand-preset.validation.warning}",
+          "type": "color"
         }
       }
     },
