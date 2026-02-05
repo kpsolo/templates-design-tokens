@@ -4594,5 +4594,15 @@
     },
     "$figmaVariableReferences": {},
     "group": "ALT"
+  },
+  {
+    "id": "5ea5ea650e76558d390b06a9ffce2404d2a4a5cc",
+    "name": "Altaris.yellow",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Altaris": "enabled",
+      "Altaris.preset.yellow": "enabled"
+    },
+    "group": "ALT"
   }
 ]
