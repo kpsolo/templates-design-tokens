@@ -3190,7 +3190,7 @@
       },
       "label": {
         "text": {
-          "value": "{white}",
+          "value": "{core.white.a100}",
           "type": "color",
           "description": "Lootboxes"
         },
