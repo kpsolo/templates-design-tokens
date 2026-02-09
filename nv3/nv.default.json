@@ -4693,7 +4693,7 @@
       "welcome-bonus-card": {
         "border": {
           "active": {
-            "value": "{semantic.gradients.9}",
+            "value": "linear-gradient(124deg, {core.white.a100} 0%, {core.brand-60.a50} , {core.white.a30} 100.77%)",
             "type": "color"
           },
           "default": {
