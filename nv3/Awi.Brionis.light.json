@@ -5894,7 +5894,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "linear-gradient(180deg, {core.brand-10.400} , {core.brand-60.500} 100%)",
             "type": "color"
           }
         }
