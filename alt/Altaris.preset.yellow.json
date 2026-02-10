@@ -1827,7 +1827,7 @@
           }
         }
       },
-      "500a60-copy": {
+      "500a60": {
         "value": "{core.brand-30.500}",
         "type": "color",
         "$extensions": {
