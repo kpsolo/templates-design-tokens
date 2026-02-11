@@ -4295,6 +4295,10 @@
               "disabled": {
                 "value": "{core.brand-30.a20}",
                 "type": "color"
+              },
+              "error": {
+                "value": "{core.validation.danger.500}",
+                "type": "color"
               }
             }
           },
@@ -4355,6 +4359,10 @@
               "disabled": {
                 "value": "{contextual.selection-controls.controls.checkbox.fill.unselected.hover}",
                 "type": "color"
+              },
+              "error": {
+                "value": "{contextual.selection-controls.controls.checkbox.fill.unselected.hover}",
+                "type": "color"
               }
             }
           }
@@ -4386,6 +4394,10 @@
               },
               "disabled": {
                 "value": "{core.brand-60.a25}",
+                "type": "color"
+              },
+              "error": {
+                "value": "{core.validation.danger.500}",
                 "type": "color"
               }
             }
@@ -4433,6 +4445,10 @@
               "disabled": {
                 "value": "{core.grey.700}",
                 "type": "color"
+              },
+              "error": {
+                "value": "{core.grey.700}",
+                "type": "color"
               }
             },
             "unselected": {
@@ -4445,6 +4461,10 @@
                 "type": "color"
               },
               "disabled": {
+                "value": "{core.grey.700}",
+                "type": "color"
+              },
+              "error": {
                 "value": "{core.grey.700}",
                 "type": "color"
               }

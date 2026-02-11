@@ -4265,6 +4265,10 @@
               "disabled": {
                 "value": "{core.grey.100}",
                 "type": "color"
+              },
+              "error": {
+                "value": "{core.brand-30.a20}",
+                "type": "color"
               }
             }
           },
@@ -4325,6 +4329,10 @@
               "disabled": {
                 "value": "{contextual.selection-controls.controls.checkbox.fill.unselected.hover}",
                 "type": "color"
+              },
+              "error": {
+                "value": "{contextual.selection-controls.controls.checkbox.fill.unselected.hover}",
+                "type": "color"
               }
             }
           }
@@ -4356,6 +4364,10 @@
               },
               "disabled": {
                 "value": "{core.grey.100}",
+                "type": "color"
+              },
+              "error": {
+                "value": "{core.brand-60.a25}",
                 "type": "color"
               }
             }
@@ -4403,6 +4415,10 @@
               "disabled": {
                 "value": "{core.white.a100}",
                 "type": "color"
+              },
+              "error": {
+                "value": "{core.grey.700}",
+                "type": "color"
               }
             },
             "unselected": {
@@ -4416,6 +4432,10 @@
               },
               "disabled": {
                 "value": "{core.white.a100}",
+                "type": "color"
+              },
+              "error": {
+                "value": "{core.grey.700}",
                 "type": "color"
               }
             }
