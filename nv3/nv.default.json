@@ -4224,7 +4224,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.grey.100}",
+          "value": "{core.white.a25}",
           "type": "color"
         }
       }
@@ -7430,7 +7430,7 @@
       },
       "disabled": {
         "primary": {
-          "value": "{core.white.a20}",
+          "value": "{core.white.a25}",
           "type": "color"
         },
         "brand": {
