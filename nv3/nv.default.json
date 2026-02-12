@@ -4224,7 +4224,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.white.a25}",
+          "value": "{core.white.a15}",
           "type": "color"
         }
       }
