@@ -7430,7 +7430,7 @@
       },
       "disabled": {
         "primary": {
-          "value": "{core.grey.a30}",
+          "value": "{core.white.a20}",
           "type": "color"
         },
         "brand": {
