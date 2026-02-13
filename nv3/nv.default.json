@@ -6238,7 +6238,7 @@
       },
       "primary": {
         "fill": {
-          "value": "{semantic.gradients.7}",
+          "value": "{contextual.badge.warning.fill}",
           "type": "color",
           "description": "badge"
         },
