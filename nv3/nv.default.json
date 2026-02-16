@@ -6718,7 +6718,7 @@
       "card": {
         "fill": {
           "normal": {
-            "value": "{contextual.button.secondary.fill.default}",
+            "value": "{core.brand-30.500a60}",
             "type": "color",
             "description": "Toggle-button"
           },
@@ -6728,7 +6728,7 @@
             "description": "Toggle-button"
           },
           "active": {
-            "value": "{core.brand-30.500a60}",
+            "value": "{core.brand-60.600}",
             "type": "color",
             "description": "Toggle-button"
           }
