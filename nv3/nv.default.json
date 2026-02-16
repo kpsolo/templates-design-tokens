@@ -2634,7 +2634,7 @@
       "player-number": {
         "border": {
           "active": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "default": {
@@ -2644,7 +2644,7 @@
         },
         "fill": {
           "active": {
-            "value": "{semantic.gradients.3}",
+            "value": "{core.brand-30.700}",
             "type": "color"
           },
           "default": {
