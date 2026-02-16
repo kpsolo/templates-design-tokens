@@ -6723,7 +6723,7 @@
             "description": "Toggle-button"
           },
           "hover": {
-            "value": "{core.brand-30.400}",
+            "value": "{core.brand-60.500}",
             "type": "color",
             "description": "Toggle-button"
           },
