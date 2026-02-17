@@ -2308,11 +2308,11 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "{core.brand-30.50}",
+            "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-10.400} 100%)",
             "type": "color"
           },
           "dark": {
-            "value": "{core.brand-30.800}",
+            "value": "linear-gradient(180deg, {core.brand-60.100} 0%, {core.brand-60.50} 100%)",
             "type": "color"
           },
           "active": {
@@ -2359,7 +2359,7 @@
       },
       "button": {
         "fill": {
-          "value": "linear-gradient(154deg, {core.brand-10.400} 14%, {core.brand-10.600} 85%)",
+          "value": "linear-gradient(154deg, {core.brand-10.300} 14%, {core.brand-10.400} 85%)",
           "type": "color"
         },
         "border": {
@@ -2373,7 +2373,7 @@
       },
       "border": {
         "outer": {
-          "value": "linear-gradient(225deg, {core.brand-30.400} 0%, {core.brand-30.600} 100%)",
+          "value": "linear-gradient(225deg, {core.brand-30.100} 0%, {core.white.a100} 100%)",
           "type": "color"
         },
         "inner": {
