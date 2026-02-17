@@ -6771,7 +6771,7 @@
       "popup": {
         "fill": {
           "normal": {
-            "value": "{contextual.button.secondary.fill.default}",
+            "value": "{core.brand-60.a30}",
             "type": "color",
             "description": "Toggle-button"
           },
