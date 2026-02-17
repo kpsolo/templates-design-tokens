@@ -5531,7 +5531,7 @@
         "banner": {
           "text": {
             "default": {
-              "value": "{core.grey.200}",
+              "value": "{core.grey.100}",
               "type": "color"
             },
             "active": {
