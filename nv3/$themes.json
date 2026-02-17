@@ -1458,7 +1458,9 @@
       "contextual.selection-controls.controls.checkbox.fill.unselected.error": "S:073155c32534b54e72e954b90d0e5e1c4fd1c8b9,",
       "contextual.selection-controls.controls.radio-button.border.unselected.error": "S:ae698b04df4ca463a7b1774da86293d484e8a646,",
       "contextual.selection-controls.controls.radio-button.fill.selected.error": "S:dbb0d08732eaf4f9696f61851033eeba195d7a78,",
-      "contextual.selection-controls.controls.radio-button.fill.unselected.error": "S:ba40b5f4c815f70a454621c1b2183cd499624fa7,"
+      "contextual.selection-controls.controls.radio-button.fill.unselected.error": "S:ba40b5f4c815f70a454621c1b2183cd499624fa7,",
+      "contextual.homepage.sport.item.fill.default": "S:2ff071f10aacac9fbcb65aac4484d1f4fc44456c,",
+      "contextual.homepage.sport.item.fill.hover": "S:9a98a99066b95213d3bad149396a5bf124dca2f6,"
     },
     "selectedTokenSets": {
       "nv.default": "enabled",
