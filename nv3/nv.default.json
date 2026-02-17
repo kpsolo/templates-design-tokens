@@ -5019,6 +5019,14 @@
             "8": {
               "value": "{core.brand-preset.sport.8}",
               "type": "color"
+            },
+            "default": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.400} 100%)",
+              "type": "color"
             }
           },
           "ellipse": {

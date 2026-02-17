@@ -4971,6 +4971,14 @@
             "8": {
               "value": "{core.brand-preset.sport.8}",
               "type": "color"
+            },
+            "default": {
+              "value": "{core.brand-preset.sport.1}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.brand-preset.sport.1}",
+              "type": "color"
             }
           },
           "ellipse": {
