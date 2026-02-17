@@ -6069,7 +6069,7 @@
         }
       },
       "overlay": {
-        "value": "{core.grey.a70}",
+        "value": "{core.white.a60}",
         "type": "color"
       },
       "text": {
