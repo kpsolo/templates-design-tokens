@@ -2106,7 +2106,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{semantic.border.brand.tertiary.active}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "disabled": {
@@ -7569,7 +7569,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.100}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "active": {
