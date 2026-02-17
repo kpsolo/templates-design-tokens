@@ -2308,11 +2308,11 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-10.400} 100%)",
+            "value": "linear-gradient(180deg, {core.brand-60.100} 0%, {core.brand-60.50} 100%)",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(180deg, {core.brand-60.100} 0%, {core.brand-60.50} 100%)",
+            "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-10.400} 100%)",
             "type": "color"
           },
           "active": {
@@ -2372,21 +2372,41 @@
         }
       },
       "border": {
-        "outer": {
-          "value": "linear-gradient(225deg, {core.brand-30.100} 0%, {core.white.a100} 100%)",
-          "type": "color"
+        "default": {
+          "outer": {
+            "value": "linear-gradient(225deg, {core.brand-30.100} 0%, {core.white.a100} 100%)",
+            "type": "color"
+          },
+          "inner": {
+            "value": "{core.brand-30.800}",
+            "type": "color"
+          },
+          "inner-2": {
+            "value": "{core.brand-30.500a30}",
+            "type": "color"
+          },
+          "middle": {
+            "value": "linear-gradient(146deg, {core.grey.800} 14%, {core.white.a100} 42%, {core.grey.800} 67%, {core.white.a100} 90%)",
+            "type": "color"
+          }
         },
-        "inner": {
-          "value": "{core.brand-30.800}",
-          "type": "color"
-        },
-        "inner-2": {
-          "value": "{core.brand-30.500a30}",
-          "type": "color"
-        },
-        "middle": {
-          "value": "linear-gradient(146deg, {core.grey.800} 14%, {core.white.a100} 42%, {core.grey.800} 67%, {core.white.a100} 90%)",
-          "type": "color"
+        "gold": {
+          "outer": {
+            "value": "linear-gradient(225deg, {core.additionals.gold} 0%, {core.white.a100} 100%)",
+            "type": "color"
+          },
+          "inner": {
+            "value": "{core.brand-30.800}",
+            "type": "color"
+          },
+          "inner-2": {
+            "value": "{core.brand-30.500a30}",
+            "type": "color"
+          },
+          "middle": {
+            "value": "linear-gradient(146deg, {core.grey.800} 14%, {core.white.a100} 42%, {core.grey.800} 67%, {core.white.a100} 90%)",
+            "type": "color"
+          }
         }
       },
       "popup": {
