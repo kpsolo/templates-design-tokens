@@ -3427,7 +3427,7 @@
       }
     }
   },
-  "lootboxes": {
+  "Toggle-button": {
     "coefficient": {
       "normal": {
         "value": "{text.md}",
