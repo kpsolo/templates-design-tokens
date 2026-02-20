@@ -3274,18 +3274,18 @@
           "description": "Lootboxes"
         },
         "status": {
-          "value": "{core.grey.25}",
+          "value": "{core.brand-30.600}",
           "type": "color",
           "description": "Lootboxes"
         },
         "fill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.700}",
             "type": "color",
             "description": "Lootboxes"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.600}",
             "type": "color",
             "description": "Lootboxes"
           }
@@ -3328,7 +3328,7 @@
           "description": "Lootboxes"
         },
         "background": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.grey.700}",
           "type": "color",
           "description": "Lootboxes"
         }
