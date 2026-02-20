@@ -1288,11 +1288,11 @@
         "background": {
           "value": {
             "x": "0px",
-            "y": "2px",
-            "blur": "6px",
+            "y": "0px",
+            "blur": "10px",
             "spread": "0px",
-            "color": "{core.brand-10.a30}",
-            "type": "dropShadow"
+            "color": "{core.brand-30.300}",
+            "type": "innerShadow"
           },
           "type": "boxShadow"
         }
@@ -5923,7 +5923,7 @@
     "news": {
       "inner-page": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.800}",
           "type": "color",
           "description": "status-inactive"
         }
@@ -5937,7 +5937,7 @@
       },
       "card": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.700}",
           "type": "color",
           "description": "status-inactive"
         },
@@ -5949,7 +5949,7 @@
       },
       "welcome-bonus": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "text": {
