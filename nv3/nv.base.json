@@ -3060,7 +3060,7 @@
         "description": "+ tab bar special button "
       },
       "9": {
-        "value": "linear-gradient(90deg, {core.brand-preset.for-gradients.3} 0%, {core.brand-preset.for-gradients.3} 18%, {core.brand-60.500} 46%, {core.brand-60.500} 60%, {core.brand-30.500} 74%)",
+        "value": "linear-gradient(90deg, {core.brand-10.500} 0%, {core.brand-10.500} 18%, {core.brand-60.500} 46%, {core.brand-60.500} 60%, {core.brand-30.500} 74%)",
         "type": "color"
       },
       "10": {
