@@ -3994,11 +3994,11 @@
       "mob": {
         "menu-btn": {
           "fill": {
-            "value": "{core.grey.50}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
           "icon": {
-            "value": "{core.grey.400}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
@@ -4028,7 +4028,7 @@
         },
         "navmenu": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "close": {
