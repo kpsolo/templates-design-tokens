@@ -6249,6 +6249,16 @@
             }
           }
         }
+      },
+      "stories": {
+        "fill": {
+          "value": "linear-gradient(120deg, {core.brand-10.800} 12.67%, {core.brand-10.900}  86.96%)",
+          "type": "color"
+        },
+        "border": {
+          "value": "linear-gradient(120deg, {core.brand-10.500} 12.67%, {core.brand-10.600}  86.96%)",
+          "type": "color"
+        }
       }
     },
     "badge": {
