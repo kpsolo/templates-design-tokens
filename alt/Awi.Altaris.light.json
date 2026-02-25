@@ -496,6 +496,44 @@
               "type": "border"
             }
           }
+        },
+        "sticky-notification": {
+          "outlined-accent": {
+            "hover": {
+              "default": {
+                "value": {
+                  "color": "{contextual.button.secondary.border-color.default}",
+                  "width": "{border-width.025}",
+                  "style": "solid"
+                },
+                "type": "border"
+              },
+              "disabled": {
+                "value": {
+                  "color": "{contextual.button.secondary.border-color.disabled}",
+                  "width": "{border-width.025}",
+                  "style": "solid"
+                },
+                "type": "border"
+              },
+              "hover": {
+                "value": {
+                  "color": "{contextual.button.secondary.border-color.hover}",
+                  "width": "{border-width.025}",
+                  "style": "solid"
+                },
+                "type": "border"
+              },
+              "active": {
+                "value": {
+                  "color": "{contextual.button.secondary.border-color.active}",
+                  "width": "{border-width.025}",
+                  "style": "solid"
+                },
+                "type": "border"
+              }
+            }
+          }
         }
       }
     },
@@ -2630,6 +2668,62 @@
           },
           "disabled": {
             "value": "{core.grey.200}",
+            "type": "color"
+          }
+        },
+        "border-color": {
+          "default": {
+            "value": "{semantic.border.brand.ghost-popup.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.border.brand.ghost-popup.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.border.brand.ghost-popup.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.border.brand.ghost-popup.disabled}",
+            "type": "color"
+          }
+        }
+      },
+      "outlined-accent": {
+        "fill": {
+          "default": {
+            "value": "{semantic.background.brand.ghost-popup.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.background.brand.ghost-popup.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.ghost-popup.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.background.brand.ghost-popup.disabled}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{core.brand-60.50}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white.a50}",
             "type": "color"
           }
         },
@@ -8303,6 +8397,24 @@
             "value": "{semantic.background.brand.tertiary.disabled}",
             "type": "color"
           }
+        },
+        "outlined-accent": {
+          "default": {
+            "value": "{semantic.background.brand.tertiary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.background.brand.tertiary.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.tertiary.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.background.brand.tertiary.disabled}",
+            "type": "color"
+          }
         }
       },
       "slate-4": {
@@ -8585,6 +8697,24 @@
           }
         },
         "ghost-popup": {
+          "default": {
+            "value": "{semantic.border.brand.tertiary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.border.brand.tertiary.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.border.brand.tertiary.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.border.brand.tertiary.disabled}",
+            "type": "color"
+          }
+        },
+        "outlined-accent": {
           "default": {
             "value": "{semantic.border.brand.tertiary.default}",
             "type": "color"
