@@ -2734,7 +2734,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a50}",
+            "value": "{core.brand-60.300}",
             "type": "color"
           }
         },
@@ -2752,7 +2752,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.border.brand.ghost-popup.disabled}",
+            "value": "{semantic.border.brand.outlined-accent.disabled}",
             "type": "color"
           }
         }
