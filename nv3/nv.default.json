@@ -5118,7 +5118,7 @@
           "slider-dots": {
             "inactive": {
               "fill": {
-                "value": "{core.white.a8}",
+                "value": "{core.grey.500}",
                 "type": "color"
               },
               "active": {
