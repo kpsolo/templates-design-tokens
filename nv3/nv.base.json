@@ -212,7 +212,7 @@
     "ml-strong": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-4}",
         "lineHeight": "{ml}"
       },
