@@ -3692,7 +3692,7 @@
     "bullet": {
       "fill": {
         "default": {
-          "value": "{core.brand-60.500a12}",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "active": {
@@ -5105,6 +5105,14 @@
         "background": {
           "fill": {
             "value": "{semantic.background.1}",
+            "type": "color"
+          }
+        }
+      },
+      "bullets": {
+        "background": {
+          "fill": {
+            "value": "{core.white.a8}",
             "type": "color"
           }
         }
