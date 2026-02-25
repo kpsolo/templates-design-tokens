@@ -1478,7 +1478,8 @@
       "contextual.vip-club.card.glow.completed": "S:7d258dc78f8ead79d615ac6a567b84b5ab231e72,",
       "Toggle-button.normal": "S:40811a5d6f3e0eb9c05f7159b40a9674707bc548,",
       "Toggle-button.hover": "S:aca4701802614d2b1489fcdef7286f1624ac2c09,",
-      "Toggle-button.active": "S:a32c0b31bc207ed95e841c97d18506af711a5df5,"
+      "Toggle-button.active": "S:a32c0b31bc207ed95e841c97d18506af711a5df5,",
+      "contextual.vip-club.bullets.background.slider-dots.inactive.fill": "S:b0826741d596cf962c335cc1466eabd7141aa131,"
     },
     "selectedTokenSets": {
       "nv.default": "enabled",
