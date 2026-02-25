@@ -5101,6 +5101,12 @@
             "value": "radial-gradient(50% 50% at 50% 50%, {core.validation.success.500} 0%, {core.validation.success.a0} 100%)",
             "type": "color"
           }
+        },
+        "background": {
+          "fill": {
+            "value": "{semantic.background.1}",
+            "type": "color"
+          }
         }
       }
     },

@@ -3083,7 +3083,7 @@
       "1": {
         "value": "{core.brand-60.800}",
         "type": "color",
-        "description": "not used\nold #1C1548\n"
+        "description": "uses for cards bg"
       },
       "2": {
         "value": "{core.brand-60.700}",
