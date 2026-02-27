@@ -2853,7 +2853,7 @@
       },
       "switcher": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.600}",
           "type": "color"
         },
         "border": {
@@ -2881,7 +2881,7 @@
               "type": "color"
             },
             "text": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{semantic.text.default.secondary}",
               "type": "color"
             },
             "icon": {
@@ -2898,7 +2898,7 @@
       "card": {
         "background": {
           "fill": {
-            "value": "{semantic.gradients.3}",
+            "value": "{semantic.gradients.1}",
             "type": "color"
           },
           "border": {
@@ -2909,11 +2909,11 @@
       },
       "overlay": {
         "upper": {
-          "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a100} 100%)",
+          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.700} 100%)",
           "type": "color"
         },
         "bottom": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.700}",
           "type": "color"
         }
       },
