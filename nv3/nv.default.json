@@ -3707,7 +3707,7 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.a30}",
             "type": "color"
           },
           "hover": {
@@ -3735,7 +3735,7 @@
         },
         "border": {
           "default": {
-            "value": "{core.grey.100}",
+            "value": "{core.brand-60.a50}",
             "type": "color"
           },
           "active": {
