@@ -2864,7 +2864,7 @@
       "card": {
         "background": {
           "fill": {
-            "value": "{semantic.gradients.3}",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "border": {
