@@ -5690,6 +5690,14 @@
             }
           }
         }
+      },
+      "general": {
+        "fill": {
+          "active": {
+            "value": "{core.grey.a10}",
+            "type": "color"
+          }
+        }
       }
     },
     "lottery-tournament": {

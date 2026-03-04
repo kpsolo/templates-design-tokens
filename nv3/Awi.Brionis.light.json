@@ -5479,6 +5479,14 @@
           "type": "color"
         }
       },
+      "general": {
+        "fill": {
+          "active": {
+            "value": "{core.grey.500}",
+            "type": "color"
+          }
+        }
+      },
       "item": {
         "normal": {
           "text": {
