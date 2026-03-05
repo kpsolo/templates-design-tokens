@@ -5972,7 +5972,11 @@
         },
         "background": {
           "fill": {
-            "value": "linear-gradient(110deg, {core.brand-30.500} 0%, {core.brand-10.400} 100%)",
+            "value": "linear-gradient(180deg, {core.brand-60.400} 0%, {core.brand-60.700} 100%)",
+            "type": "color"
+          },
+          "fill2": {
+            "value": "{core.grey.800a40}",
             "type": "color"
           }
         }
