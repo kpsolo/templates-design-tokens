@@ -2825,6 +2825,24 @@
           }
         }
       },
+      "badge": {
+        "fill": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "glow": {
+          "value": "linear-gradient(166deg, {core.grey.600} 48%, {core.grey.700} 93%)",
+          "type": "color"
+        },
+        "light": {
+          "value": "linear-gradient(166deg, {core.grey.600} 48%, {core.grey.700} 93%)",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
+        }
+      },
       "popup": {
         "fill": {
           "value": "{semantic.gradients.8}",

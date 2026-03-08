@@ -2942,6 +2942,24 @@
             }
           }
         }
+      },
+      "badge": {
+        "fill": {
+          "value": "linear-gradient(166deg, {core.grey.600} 48%, {core.grey.700} 93%)",
+          "type": "color"
+        },
+        "border": {
+          "value": "linear-gradient(166deg, {core.grey.600} 48%, {core.grey.700} 93%)",
+          "type": "color"
+        },
+        "glow": {
+          "value": "linear-gradient(166deg, {core.grey.600} 48%, {core.grey.700} 93%)",
+          "type": "color"
+        },
+        "light": {
+          "value": "linear-gradient(166deg, {core.grey.600} 48%, {core.grey.700} 93%)",
+          "type": "color"
+        }
       }
     },
     "verification": {
