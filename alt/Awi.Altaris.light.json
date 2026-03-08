@@ -2953,7 +2953,7 @@
           "type": "color"
         },
         "glow": {
-          "value": "linear-gradient(166deg, {core.grey.600} 48%, {core.grey.700} 93%)",
+          "value": "linear-gradient(138deg, rgba(47, 47, 71, 0.00) 43%, rgba(255, 242, 193, 0.15) 54.03%, rgba(47, 47, 71, 0.00) 65%)",
           "type": "color"
         },
         "light": {
