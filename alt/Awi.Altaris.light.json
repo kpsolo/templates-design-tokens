@@ -3127,6 +3127,10 @@
         "value": "{semantic.text.default.primary}",
         "type": "color"
       },
+      "light": {
+        "value": "{core.brand-30.a40}",
+        "type": "color"
+      },
       "welcome-bonus": {
         "slate1": {
           "fill": {
@@ -3170,11 +3174,11 @@
       "slate-2": {
         "fill": {
           "default": {
-            "value": "{core.brand-30.800}",
+            "value": "{core.white.a30}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.800}",
+            "value": "{core.white.a30}",
             "type": "color"
           }
         }

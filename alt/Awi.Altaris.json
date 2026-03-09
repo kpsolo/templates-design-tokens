@@ -3129,11 +3129,11 @@
       "slate-2": {
         "fill": {
           "default": {
-            "value": "{core.brand-30.900}",
+            "value": "{core.white.a30}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.900}",
+            "value": "{core.white.a30}",
             "type": "color"
           }
         }
@@ -3177,6 +3177,10 @@
             }
           }
         }
+      },
+      "light": {
+        "value": "{core.brand-30.a40}",
+        "type": "color"
       }
     },
     "up-button": {
