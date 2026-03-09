@@ -5465,12 +5465,6 @@
           "description": "core.validation.warning"
         }
       },
-      "close": {
-        "1": {
-          "value": "{semantic.icon.default.tertiary}",
-          "type": "color"
-        }
-      },
       "border": {
         "value": "{core.white.a0}",
         "type": "color"
