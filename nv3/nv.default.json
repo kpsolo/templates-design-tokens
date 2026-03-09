@@ -5694,7 +5694,7 @@
       "general": {
         "fill": {
           "active": {
-            "value": "{core.grey.a10}",
+            "value": "{core.grey.500}",
             "type": "color"
           }
         }
