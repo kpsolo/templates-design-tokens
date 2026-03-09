@@ -2057,19 +2057,11 @@
       "badge": {
         "value": [
           {
-            "x": "3px",
-            "y": "-5px",
-            "blur": "20px",
+            "x": "0px",
+            "y": "0px",
+            "blur": "12px",
             "spread": "0",
-            "color": "{core.brand-30.500a30}",
-            "type": "dropShadow"
-          },
-          {
-            "x": "-3px",
-            "y": "5px",
-            "blur": "20px",
-            "spread": "0",
-            "color": "{core.brand-30.500a60}",
+            "color": "rgba(213, 142, 14, 0.50)",
             "type": "dropShadow"
           }
         ],
