@@ -4627,5 +4627,15 @@
       "Altaris.preset.yellow": "enabled"
     },
     "group": "ALT"
+  },
+  {
+    "id": "d11adcdaab5022a631b05d550a1a164ba97a2867",
+    "name": "Violet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Altaris.preset.default": "enabled",
+      "Altaris.preset.violet": "enabled"
+    },
+    "group": "ALT"
   }
 ]
