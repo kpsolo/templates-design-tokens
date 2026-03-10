@@ -2541,7 +2541,7 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "{core.brand-60.700a40}",
+        "value": "{core.brand-60.500}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2942,6 +2942,26 @@
         "border": {
           "value": "{core.white.a0}",
           "type": "color"
+        }
+      },
+      "item": {
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
         }
       }
     }
