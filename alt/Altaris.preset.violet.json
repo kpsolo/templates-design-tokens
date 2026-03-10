@@ -2541,7 +2541,7 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.brand-60.700a40}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2560,7 +2560,7 @@
         "description": "+gradients.Emerald 600"
       },
       "11": {
-        "value": "{core.brand-60.900}",
+        "value": "{core.brand-60.700}",
         "type": "color",
         "description": "+gradients.Black 600"
       },
@@ -2592,7 +2592,7 @@
         "description": "not used\ngradient.Black 600\nold #060423\n"
       },
       "5": {
-        "value": "{core.brand-60.800}",
+        "value": "{core.brand-60.500}",
         "type": "color",
         "description": "menu"
       },

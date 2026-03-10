@@ -8263,7 +8263,7 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "rgba(38, 38, 60, 0.50)",
+        "value": "{core.brand-60.500a12}",
         "type": "color",
         "description": "+ "
       },
@@ -8273,7 +8273,7 @@
         "description": "+gradients.Emerald 600"
       },
       "11": {
-        "value": "#0F0F14",
+        "value": "rgba(38, 38, 60, 0.50)",
         "type": "color",
         "description": "+gradients.Black 600"
       },
