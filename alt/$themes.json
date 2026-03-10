@@ -4633,8 +4633,8 @@
     "name": "Violet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Altaris.preset.default": "enabled",
-      "Altaris.preset.violet": "enabled"
+      "Altaris.preset.violet": "enabled",
+      "Awi.Altaris": "enabled"
     },
     "group": "ALT"
   }
