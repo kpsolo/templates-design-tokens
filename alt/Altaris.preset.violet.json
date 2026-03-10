@@ -2829,6 +2829,22 @@
           }
         }
       }
+    },
+    "lottery-tournament": {
+      "tiket": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.600}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "border": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
+      }
     }
   },
   "blur": {
