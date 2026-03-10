@@ -2870,6 +2870,46 @@
             }
           }
         }
+      },
+      "nav-menu": {
+        "item": {
+          "text": {
+            "default": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color"
+            },
+            "hover-active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color"
+            },
+            "hover-active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          },
+          "fill": {
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "hover-active": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
+          },
+          "border": {
+            "border-active-state": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "thumb-games ": {
