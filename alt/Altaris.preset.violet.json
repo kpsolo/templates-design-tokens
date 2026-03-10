@@ -2507,7 +2507,7 @@
         "description": "+gradient popup"
       },
       "4": {
-        "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
+        "value": "linear-gradient(45deg, {core.brand-30.500} 0%, {core.brand-30.600} 100%)",
         "type": "color",
         "description": "+gradients.orange 500"
       },
@@ -2611,7 +2611,7 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "{core.brand-60.900a30}",
+        "value": "{core.brand-30.700a70}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },
@@ -2624,6 +2624,10 @@
         "value": "{core.brand-10.800}",
         "type": "color",
         "description": "text input 2"
+      },
+      "footer": {
+        "value": "{semantic.gradients.8}",
+        "type": "color"
       }
     },
     "text": {
@@ -2751,7 +2755,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         }
       }
@@ -2843,6 +2847,101 @@
             "type": "color",
             "description": "Tiket"
           }
+        }
+      }
+    },
+    "footer": {
+      "border": {
+        "value": "{core.white.a15}",
+        "type": "color"
+      }
+    },
+    "homepage": {
+      "winning-now": {
+        "card": {
+          "background": {
+            "fill": {
+              "value": "{core.brand-30.700a70}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.white.a15}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
+    "thumb-games ": {
+      "label-providers": {
+        "fill": {
+          "value": "linear-gradient(180deg, {core.grey.800a0} 0%, {core.brand-30.800a50} 21%, {core.brand-30.800} 100%)",
+          "type": "color"
+        }
+      },
+      "label": {
+        "fill": {
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        }
+      }
+    },
+    "menu": {
+      "quick-pay": {
+        "fill": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
+        },
+        "text": {
+          "error": {
+            "value": "{core.validation.danger.600}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.text.static.tertiary}",
+            "type": "color",
+            "description": "\n\n"
+          }
+        },
+        "devider": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "indicator": {
+          "success": {
+            "value": "{core.validation.success.a20}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.validation.danger.a20}",
+            "type": "color"
+          },
+          "progress": {
+            "value": "{core.brand-60.600}",
+            "type": "color"
+          }
+        },
+        "inform": {
+          "fill": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "value": "{core.white.a0}",
+          "type": "color"
         }
       }
     }
