@@ -2502,7 +2502,7 @@
         "description": "gradients.yellow 200"
       },
       "3": {
-        "value": "linear-gradient(180deg, {core.grey.700} 0%, {core.grey.800} 29%, {core.grey.800} 67%, {core.grey.800} 83%, {core.grey.900} 100%);",
+        "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-60.800} 29%, {core.brand-60.800} 67%, {core.brand-60.800} 83%, {core.grey.900} 100%);",
         "type": "color",
         "description": "+gradient popup"
       },
@@ -3002,6 +3002,18 @@
             "value": "{core.brand-10.500}",
             "type": "color"
           }
+        }
+      }
+    },
+    "popup": {
+      "bottom": {
+        "fill": {
+          "value": "{core.brand-60.700}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.grey.600}",
+          "type": "color"
         }
       }
     }
