@@ -4637,5 +4637,15 @@
       "Awi.Altaris": "enabled"
     },
     "group": "ALT"
+  },
+  {
+    "id": "899b1a5ad3ddc706ae680fca60f2dd1d9a143b4e",
+    "name": "Brown",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Altaris": "enabled",
+      "Altaris.preset.brown": "enabled"
+    },
+    "group": "ALT"
   }
 ]
