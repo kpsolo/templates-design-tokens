@@ -7110,7 +7110,7 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-5}",
+        "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
