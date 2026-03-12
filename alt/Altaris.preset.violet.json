@@ -2575,7 +2575,7 @@
         "description": "no used"
       },
       "8": {
-        "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-60.800} 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.700} 100%)",
         "type": "color",
         "description": "gradients.Brown 550"
       },
@@ -2877,7 +2877,7 @@
       "tiket": {
         "background": {
           "fill": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.brand-60.400}",
             "type": "color",
             "description": "Tiket"
           },
@@ -2885,6 +2885,34 @@
             "value": "{core.white.a0}",
             "type": "color",
             "description": "Tiket"
+          }
+        }
+      },
+      "tabs": {
+        "item": {
+          "fill": {
+            "default": {
+              "value": "{core.brand-60.700}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-60.600}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.brand-60.200}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{semantic.text.disabled.on-brand-secondary}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-30.50}",
+              "type": "color"
+            }
           }
         }
       }
@@ -3042,6 +3070,18 @@
             "type": "color"
           }
         }
+      },
+      "banner": {
+        "text-accent": {
+          "fill": {
+            "value": "{core.brand-10.50a20}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        }
       }
     },
     "popup": {
@@ -3072,6 +3112,12 @@
           "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.500a0} 81%)",
           "type": "color"
         }
+      }
+    },
+    "notifications": {
+      "fill": {
+        "value": "{core.brand-60.600}",
+        "type": "color"
       }
     }
   },
@@ -3416,5 +3462,40 @@
   "base": {
     "value": "16px",
     "type": "fontSizes"
+  },
+  "shadow": {
+    "menu": {
+      "banner": {
+        "text-accent": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "5px",
+              "spread": "{depth.0}",
+              "color": "{core.brand-10.a30}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.200}",
+              "spread": "{depth.0}",
+              "color": "{core.brand-10.a30}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "5px",
+              "spread": "{depth.0}",
+              "color": "{core.brand-10.a30}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
+    }
   }
 }
