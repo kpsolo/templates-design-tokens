@@ -3711,7 +3711,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{contextual.filter&sort.item.fill.default}",
             "type": "color"
           },
           "active": {
