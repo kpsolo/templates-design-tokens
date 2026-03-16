@@ -3354,7 +3354,7 @@
         "type": "color"
       },
       "background": {
-        "value": "{core.white.a100}",
+        "value": "{contextual.content.fill}",
         "type": "color"
       }
     },
