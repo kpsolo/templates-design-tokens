@@ -21,15 +21,11 @@
       "text.button-large": "S:9c9f8dfe671f78275d4308420fbabcece6607587,",
       "text.button-medium": "S:ea2c5d73d13c18871c4522674cd8b2eb89664328,",
       "text.button-small": "S:039b9ad0c15d4864064a703163531a21ed2bed70,",
-      "heading.ml": "S:23e8bb4d6155458a916a968a2f94d5d060c334c8,",
       "heading.small": "S:88df0d8951d3f1532bfab7d8accca2a157fa68ca,",
       "heading.lg-strong": "S:c469e93b5f376283a9e5cddb4d2eb9b90c935eda,",
-      "heading.lg-stronger": "S:c6f46f2b2264baebab03c2c9cadae9306aa987db,",
-      "heading.xl": "S:d395bd5082d034157d3ad52efdbb8253fd8adb0f,",
+      "heading.xl": "S:b544072f782f85f21881243c94824f98de2b3f43,",
       "heading.xl-strong": "S:0f5c64ec49ab215236b4c75449e6b3368391d619,",
-      "heading.xl-stronger": "S:b544072f782f85f21881243c94824f98de2b3f43,",
       "heading.xxl-strong": "S:1625a252ae6b4d685542e78eab4dbacf18328552,",
-      "heading.xxl-stronger": "S:1329f62b98a44935ba0cd3197473eeda21e7ba0d,",
       "popup.registration.banner.title.mob": "S:afe39a66fd8fcf3e9fb6e546c2d00948ba259321,",
       "popup.title": "S:23a8c9456fcdfd0762f6767ef4a3b6c38d113b1b,",
       "error-pages.text.web.title": "S:b7ca69770e3f840df3342779401486d4bc505f1f,",
@@ -1481,7 +1477,10 @@
       "Toggle-button.active": "S:a32c0b31bc207ed95e841c97d18506af711a5df5,",
       "contextual.vip-club.bullets.background.slider-dots.inactive.fill": "S:b0826741d596cf962c335cc1466eabd7141aa131,",
       "contextual.tabs.general.fill.active": "S:e37de2fde0c4a24467ff2341f55cb0c22daacba2,",
-      "contextual.shop.card.background.fill2": "S:fd535f2cccf57b965f0ba471e68b353bf9680568,"
+      "contextual.shop.card.background.fill2": "S:fd535f2cccf57b965f0ba471e68b353bf9680568,",
+      "heading.md": "S:23e8bb4d6155458a916a968a2f94d5d060c334c8,",
+      "heading.lg": "S:c6f46f2b2264baebab03c2c9cadae9306aa987db,",
+      "heading.xxl": "S:1329f62b98a44935ba0cd3197473eeda21e7ba0d,"
     },
     "selectedTokenSets": {
       "nv.default": "enabled",

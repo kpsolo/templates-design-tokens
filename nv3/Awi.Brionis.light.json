@@ -7072,7 +7072,7 @@
     }
   },
   "heading": {
-    "ml": {
+    "md": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -7190,7 +7190,7 @@
       }
     },
     "title": {
-      "value": "{heading.xl-stronger}",
+      "value": "{heading.xl}",
       "type": "typography"
     },
     "bottom": {
@@ -7210,7 +7210,7 @@
     "text": {
       "web": {
         "title": {
-          "value": "{heading.xl-stronger}",
+          "value": "{heading.xl}",
           "type": "typography",
           "description": "Use for Error text_title (Desktop)"
         },
@@ -7221,13 +7221,13 @@
         }
       },
       "thumbs-title": {
-        "value": "{heading.ml}",
+        "value": "{heading.md}",
         "type": "typography",
         "description": "Use for Error-thumbsʼ section title"
       },
       "mob": {
         "title": {
-          "value": "{heading.ml}",
+          "value": "{heading.md}",
           "type": "typography",
           "description": "Use for Error text_title (Mobile)"
         },
@@ -8083,7 +8083,7 @@
   "header": {
     "desctop": {
       "menu-items": {
-        "value": "{heading.ml}",
+        "value": "{heading.md}",
         "type": "typography"
       }
     }
@@ -8406,7 +8406,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.lg-stronger}",
+          "value": "{heading.lg}",
           "type": "typography"
         }
       },
@@ -8758,7 +8758,7 @@
   "achivments": {
     "offers-block": {
       "title": {
-        "value": "{heading.lg-stronger}",
+        "value": "{heading.lg}",
         "type": "typography"
       }
     }

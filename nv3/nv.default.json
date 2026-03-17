@@ -7106,18 +7106,7 @@
     }
   },
   "heading": {
-    "ml": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "{ml}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "small": {
+    "xs": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -7128,18 +7117,18 @@
       },
       "type": "typography"
     },
-    "lg-strong": {
+    "md": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
-        "lineHeight": "{lg}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
+        "lineHeight": "{ml}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
       },
       "type": "typography"
     },
-    "lg-stronger": {
+    "lg": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -7153,28 +7142,6 @@
     "xl": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "xl-strong": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "xl-stronger": {
-      "value": {
-        "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
@@ -7183,18 +7150,7 @@
       },
       "type": "typography"
     },
-    "xxl-strong": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "xxl-stronger": {
+    "xxl": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -7207,24 +7163,8 @@
     }
   },
   "popup": {
-    "registration": {
-      "banner": {
-        "title": {
-          "mob": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{Bold}",
-              "fontSize": "18px",
-              "lineHeight": "24px",
-              "letterSpacing": "0"
-            },
-            "type": "typography"
-          }
-        }
-      }
-    },
     "title": {
-      "value": "{heading.xl-stronger}",
+      "value": "{heading.xl}",
       "type": "typography"
     },
     "bottom": {
@@ -7244,7 +7184,7 @@
     "text": {
       "web": {
         "title": {
-          "value": "{heading.xl-stronger}",
+          "value": "{heading.xl}",
           "type": "typography",
           "description": "Use for Error text_title (Desktop)"
         },
@@ -7255,13 +7195,13 @@
         }
       },
       "thumbs-title": {
-        "value": "{heading.ml}",
+        "value": "{heading.md}",
         "type": "typography",
         "description": "Use for Error-thumbsʼ section title"
       },
       "mob": {
         "title": {
-          "value": "{heading.ml}",
+          "value": "{heading.md}",
           "type": "typography",
           "description": "Use for Error text_title (Mobile)"
         },
@@ -8117,7 +8057,7 @@
   "header": {
     "desctop": {
       "menu-items": {
-        "value": "{heading.ml}",
+        "value": "{heading.md}",
         "type": "typography"
       }
     }
@@ -8440,7 +8380,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.lg-stronger}",
+          "value": "{heading.lg}",
           "type": "typography"
         }
       },
@@ -8802,7 +8742,7 @@
   "achivments": {
     "offers-block": {
       "title": {
-        "value": "{heading.lg-stronger}",
+        "value": "{heading.lg}",
         "type": "typography"
       }
     }
