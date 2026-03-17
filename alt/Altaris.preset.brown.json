@@ -1813,6 +1813,45 @@
             }
           }
         }
+      },
+      "500a30": {
+        "value": "{core.brand-30.500}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "500a60": {
+        "value": "{core.brand-30.500}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "500a0": {
+        "value": "{core.brand-30.500}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "validation": {
@@ -2413,6 +2452,19 @@
             "modify": {
               "type": "alpha",
               "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "50a20": {
+        "value": "{core.brand-10.50}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.20",
               "space": "lch"
             }
           }

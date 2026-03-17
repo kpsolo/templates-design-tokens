@@ -2456,6 +2456,19 @@
             }
           }
         }
+      },
+      "50a20": {
+        "value": "{core.brand-10.50}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.20",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "additionals": {
