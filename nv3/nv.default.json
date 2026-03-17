@@ -6022,7 +6022,7 @@
         },
         "card": {
           "fill": {
-            "value": "linear-gradient(134deg, {core.white.a100} 0%, {core.white.a60} 75%)",
+            "value": "{contextual.thumb-games.show-more.normal.fill}",
             "type": "color"
           },
           "border": {

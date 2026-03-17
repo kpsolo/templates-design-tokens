@@ -1479,7 +1479,9 @@
       "Toggle-button.normal": "S:40811a5d6f3e0eb9c05f7159b40a9674707bc548,",
       "Toggle-button.hover": "S:aca4701802614d2b1489fcdef7286f1624ac2c09,",
       "Toggle-button.active": "S:a32c0b31bc207ed95e841c97d18506af711a5df5,",
-      "contextual.vip-club.bullets.background.slider-dots.inactive.fill": "S:b0826741d596cf962c335cc1466eabd7141aa131,"
+      "contextual.vip-club.bullets.background.slider-dots.inactive.fill": "S:b0826741d596cf962c335cc1466eabd7141aa131,",
+      "contextual.tabs.general.fill.active": "S:e37de2fde0c4a24467ff2341f55cb0c22daacba2,",
+      "contextual.shop.card.background.fill2": "S:fd535f2cccf57b965f0ba471e68b353bf9680568,"
     },
     "selectedTokenSets": {
       "nv.default": "enabled",
