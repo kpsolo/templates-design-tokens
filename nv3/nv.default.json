@@ -2423,10 +2423,6 @@
         }
       },
       "icon": {
-        "standard": {
-          "value": "{semantic.background.brand.emphasizing.default.primary}",
-          "type": "color"
-        },
         "hover": {
           "value": "{core.brand-60.800}",
           "type": "color"
@@ -2441,18 +2437,6 @@
         },
         "border": {
           "value": "{core.brand-30.500a60}",
-          "type": "color"
-        }
-      }
-    },
-    "email": {
-      "backgrounf": {
-        "header": {
-          "value": "{semantic.gradients.2}",
-          "type": "color"
-        },
-        "fill": {
-          "value": "{semantic.gradients.2}",
           "type": "color"
         }
       }
