@@ -6587,6 +6587,10 @@
     "value": "{base}",
     "type": "fontSizes"
   },
+  "scale-4-5": {
+    "value": "{base}*1.125",
+    "type": "fontSizes"
+  },
   "scale-5": {
     "value": "{base} * 1.25",
     "type": "fontSizes"
@@ -6741,39 +6745,12 @@
       },
       "type": "typography"
     },
-    "ml": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{ml}"
-      },
-      "type": "typography"
-    },
-    "ml-strong": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{ml}"
-      },
-      "type": "typography"
-    },
-    "ml-stronger": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{ml}"
-      },
-      "type": "typography"
-    },
     "lg": {
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "{lg}"
+        "fontSize": "{scale-4}",
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -6781,8 +6758,8 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "{lg}"
+        "fontSize": "{scale-4}",
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -6790,8 +6767,8 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "{lg}"
+        "fontSize": "{scale-4}",
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -6813,14 +6790,16 @@
       },
       "type": "typography"
     },
-    "button-small": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{ml}"
-      },
-      "type": "typography"
+    "button": {
+      "sm": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{Semibold}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{ml}"
+        },
+        "type": "typography"
+      }
     },
     "normal": {
       "value": "{Regular}",
@@ -6847,11 +6826,22 @@
       },
       "type": "typography"
     },
+    "sm": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-4-5}",
+        "lineHeight": "22px",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
     "md": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-6}",
+        "fontSize": "{scale-5}",
         "lineHeight": "{ml}",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
@@ -6893,10 +6883,6 @@
     }
   },
   "popup": {
-    "title": {
-      "value": "{heading.xl}",
-      "type": "typography"
-    },
     "bottom": {
       "min-height": {
         "value": "{size.800}",
@@ -6936,56 +6922,11 @@
           "description": "Use for Error text_title (Mobile)"
         },
         "body": {
-          "value": "{text.ml-strong}",
+          "value": "{text.lg-strong}",
           "type": "typography",
           "description": "Use for Error text_body (Mobile)"
         }
       }
-    }
-  },
-  "Icon": {
-    "numbers": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{text.stronger}",
-        "lineHeight": "16px",
-        "fontSize": "12px"
-      },
-      "type": "typography"
-    }
-  },
-  "banner": {
-    "title-XXXL": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "36",
-        "lineHeight": "42px"
-      },
-      "type": "typography"
-    },
-    "top-up-account": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "16px",
-        "lineHeight": "22px",
-        "textCase": "{text-case.uppercase}",
-        "letterSpacing": "3%"
-      },
-      "type": "typography"
-    },
-    "error-payments": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "22px",
-        "lineHeight": "24px",
-        "textCase": "{text-case.uppercase}",
-        "letterSpacing": "2%"
-      },
-      "type": "typography",
-      "description": "Error payments"
     }
   },
   "semantic": {
@@ -7778,14 +7719,6 @@
       }
     }
   },
-  "header": {
-    "desctop": {
-      "menu-items": {
-        "value": "{heading.md}",
-        "type": "typography"
-      }
-    }
-  },
   "letter-spacing": {
     "2": {
       "value": "2%",
@@ -8098,14 +8031,6 @@
         "padding-left": {
           "value": "{spacing.1200}",
           "type": "spacing"
-        },
-        "mob": {
-          "value": "{text.lg-stronger}",
-          "type": "typography"
-        },
-        "web": {
-          "value": "{heading.lg}",
-          "type": "typography"
         }
       },
       "collections-wrap": {
@@ -8122,92 +8047,10 @@
         "value": "{spacing.0}",
         "type": "spacing"
       }
-    },
-    "payment-block": {
-      "subtitle": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "{scale-4}",
-          "letterSpacing": "{letter-spacing.2}",
-          "textCase": "{text-case.uppercase}",
-          "lineHeight": "22px"
-        },
-        "type": "typography"
-      },
-      "title": {
-        "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "26px",
-          "lineHeight": "36px",
-          "textCase": "{text-case.uppercase}"
-        },
-        "type": "typography"
-      },
-      "title2": {
-        "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "18px",
-          "lineHeight": "24px",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography"
-      },
-      "mob": {
-        "title": {
-          "value": {
-            "fontFamily": "{accent}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "16px",
-            "lineHeight": "24px",
-            "textCase": "{text-case.uppercase}"
-          },
-          "type": "typography"
-        },
-        "title2": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "12px",
-            "lineHeight": "16px",
-            "textCase": "{text-case.none}"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
-  "story": {
-    "title": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "24px",
-        "lineHeight": "32px"
-      },
-      "type": "typography",
-      "description": "Story"
-    },
-    "the-end": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "32px",
-        "lineHeight": "34px",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography",
-      "description": "Story"
     }
   },
   "profile": {
     "verification": {
-      "item": {
-        "value": "{text.lg-stronger}",
-        "type": "typography"
-      },
       "loyalty_points": {
         "sum": {
           "value": {
@@ -8215,19 +8058,6 @@
             "fontWeight": "{text.stronger}",
             "fontSize": "20px",
             "lineHeight": "26px"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "deals": {
-      "label": {
-        "icon": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{Bold}",
-            "fontSize": "10px",
-            "lineHeight": "16px"
           },
           "type": "typography"
         }
@@ -8268,60 +8098,6 @@
       "type": "typography"
     }
   },
-  "strip": {
-    "progress": {
-      "score": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.normal}",
-          "fontSize": "10px",
-          "lineHeight": "12px"
-        },
-        "type": "typography"
-      }
-    }
-  },
-  "lottery-tournament": {
-    "tiket": {
-      "old-price": {
-        "md": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.normal}",
-            "fontSize": "{scale-3}",
-            "lineHeight": "{sm}",
-            "textDecoration": "{text-decoration.line-through}"
-          },
-          "type": "typography"
-        },
-        "sm": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.normal}",
-            "fontSize": "{scale-2}",
-            "lineHeight": "{sm}",
-            "textDecoration": "{text-decoration.line-through}"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
-  "tabs": {
-    "pop-up": {
-      "item": {
-        "text": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{Regular}",
-            "fontSize": "14px",
-            "lineHeight": "20px"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
   "link": {
     "plain": {
       "default": {
@@ -8344,31 +8120,6 @@
       }
     }
   },
-  "complete-registration-btn": {
-    "value": {
-      "fontFamily": "{main}",
-      "fontWeight": "{text.normal}",
-      "fontSize": "{scale-3}",
-      "lineHeight": "{sm}"
-    },
-    "type": "typography",
-    "description": "Complete \nregistration"
-  },
-  "ingame": {
-    "mob": {
-      "navmenu": {
-        "item": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.strong}",
-            "fontSize": "8px",
-            "lineHeight": "12px"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
   "deals": {
     "promo-code-button": {
       "padding-left": {
@@ -8381,78 +8132,7 @@
       }
     }
   },
-  "lootboxes": {
-    "coefficient": {
-      "normal": {
-        "value": "{text.md}",
-        "type": "typography",
-        "description": "contextual.lootboxes.coefficient"
-      },
-      "hover": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "{scale-3}",
-          "lineHeight": "{md}"
-        },
-        "type": "typography",
-        "description": "contextual.lootboxes.coefficient"
-      },
-      "active": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "{scale-3}",
-          "lineHeight": "{md}"
-        },
-        "type": "typography",
-        "description": "contextual.lootboxes.coefficient"
-      }
-    }
-  },
   "wheel": {
-    "sector": {
-      "xs": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "12px",
-          "lineHeight": "12px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      },
-      "sm": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "14px",
-          "lineHeight": "14px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      },
-      "md": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "16px",
-          "lineHeight": "16px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      },
-      "lg": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "18px",
-          "lineHeight": "25px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      }
-    },
     "popup": {
       "vip-bet-amount": {
         "width": {
@@ -8460,14 +8140,6 @@
           "type": "sizing",
           "description": "contextual.wheel.popup.vip-bet-amount"
         }
-      }
-    }
-  },
-  "achivments": {
-    "offers-block": {
-      "title": {
-        "value": "{heading.lg}",
-        "type": "typography"
       }
     }
   }

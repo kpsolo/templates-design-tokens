@@ -7232,7 +7232,7 @@
           "description": "Use for Error text_title (Mobile)"
         },
         "body": {
-          "value": "{text.ml-strong}",
+          "value": "{text.lg-strong}",
           "type": "typography",
           "description": "Use for Error text_body (Mobile)"
         }
