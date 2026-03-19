@@ -214,7 +214,7 @@
       },
       "type": "typography"
     },
-    "ml-stronger": {
+    "lg-stronger": {
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
