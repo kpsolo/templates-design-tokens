@@ -2372,27 +2372,6 @@
         }
       }
     },
-    "upload-files": {
-      "drag&drop": {
-        "background": {
-          "fill": {
-            "value": "{core.brand-60.a5}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{contextual.lottery-tournament.ticket.background.border}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.tertiary}",
-            "type": "color",
-            "description": "Use for text in drag&drop like: File format, etc."
-          }
-        }
-      }
-    },
     "up-button": {
       "fill": {
         "standard": {
@@ -2415,10 +2394,6 @@
       "banner": {
         "fill": {
           "value": "linear-gradient(51deg, {core.brand-10.500} 7%, {core.brand-60.600} 96%)",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.brand-30.500a60}",
           "type": "color"
         }
       }
@@ -2580,10 +2555,6 @@
             "received": {
               "value": "{core.validation.success.a20}",
               "type": "color"
-            },
-            "get": {
-              "value": "{core.brand-60.a10}",
-              "type": "color"
             }
           }
         }
@@ -2595,10 +2566,6 @@
         }
       },
       "offers-block": {
-        "border": {
-          "value": "{core.brand-60.a20}",
-          "type": "color"
-        },
         "fill": {
           "value": "linear-gradient(165deg, {core.white.a100} 3%, {core.brand-30.50a50} 83%)",
           "type": "color"
@@ -2606,22 +2573,8 @@
       },
       "first-block": {
         "fill": {
-          "primary": {
-            "value": "{core.brand-30.a20}",
-            "type": "color"
-          },
           "secondary": {
             "value": "{core.white.a80}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "primary": {
-            "value": "{core.brand-30.200}",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "{core.brand-60.a20}",
             "type": "color"
           }
         }
@@ -2646,32 +2599,6 @@
         "border": {
           "value": "{core.grey.a10}",
           "type": "color"
-        },
-        "switcher-button": {
-          "active": {
-            "text": {
-              "value": "{semantic.text.banner-cart.primary}",
-              "type": "color"
-            },
-            "icon": {
-              "value": "{semantic.icon.banner-cart.primary}",
-              "type": "color"
-            }
-          },
-          "inactive": {
-            "fill": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
-            "text": {
-              "value": "{semantic.text.default.secondary}",
-              "type": "color"
-            },
-            "icon": {
-              "value": "{semantic.icon.brand.static}",
-              "type": "color"
-            }
-          }
         }
       },
       "image-overlay": {
@@ -2704,18 +2631,6 @@
         "fill": {
           "value": "{semantic.gradients.7}",
           "type": "color"
-        }
-      },
-      "route": {
-        "line": {
-          "filled": {
-            "value": "{core.brand-60.500}",
-            "type": "color"
-          },
-          "not-filled": {
-            "value": "{core.brand-60.a30}",
-            "type": "color"
-          }
         }
       },
       "points": {
@@ -2795,14 +2710,6 @@
     },
     "messages": {
       "bottom": {
-        "fill": {
-          "value": "{semantic.gradients.3}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.grey.a8}",
-          "type": "color"
-        },
         "icon": {
           "value": "{core.brand-60.400}",
           "type": "color"
@@ -2813,12 +2720,6 @@
       "fill": {
         "value": "{semantic.background.2}",
         "type": "color"
-      },
-      "popover-action": {
-        "fill": {
-          "value": "{semantic.gradients.3}",
-          "type": "color"
-        }
       },
       "border": {
         "value": "{core.grey.a8}",
@@ -3035,11 +2936,6 @@
             "value": "{core.brand-30.a50}",
             "type": "color",
             "description": "Lootboxes"
-          },
-          "elipse-3": {
-            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-30.a50} 0%, {core.brand-30.a8} 100%)",
-            "type": "color",
-            "description": "Lootboxes"
           }
         }
       },
@@ -3051,11 +2947,6 @@
         }
       },
       "card": {
-        "border": {
-          "value": "{core.brand-60.a15}",
-          "type": "color",
-          "description": "Lootboxes"
-        },
         "status": {
           "value": "{core.brand-30.600}",
           "type": "color",
@@ -3155,17 +3046,9 @@
           "value": "{core.brand-60.a25}",
           "type": "color"
         },
-        "overlay": {
-          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.700} 100%)",
-          "type": "color"
-        },
         "text": {
           "primary": {
             "value": "{core.brand-10.600}",
-            "type": "color"
-          },
-          "accent": {
-            "value": "{semantic.text.default.secondary}",
             "type": "color"
           },
           "secondary": {
