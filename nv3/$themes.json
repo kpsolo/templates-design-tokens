@@ -1480,7 +1480,12 @@
       "contextual.shop.card.background.fill2": "S:fd535f2cccf57b965f0ba471e68b353bf9680568,",
       "heading.md": "S:23e8bb4d6155458a916a968a2f94d5d060c334c8,",
       "heading.lg": "S:c6f46f2b2264baebab03c2c9cadae9306aa987db,",
-      "heading.xxl": "S:1329f62b98a44935ba0cd3197473eeda21e7ba0d,"
+      "heading.xxl": "S:1329f62b98a44935ba0cd3197473eeda21e7ba0d,",
+      "text.button.sm": "S:039b9ad0c15d4864064a703163531a21ed2bed70,",
+      "heading.xs": "S:68447192540df843f590fdc4fd516c1729e2a111,",
+      "heading.sm": "S:462dc63ef71a56f5b68183e20f09cd7afe06e291,",
+      "text.button.lg": "S:9c9f8dfe671f78275d4308420fbabcece6607587,",
+      "text.button.md": "S:ea2c5d73d13c18871c4522674cd8b2eb89664328,"
     },
     "selectedTokenSets": {
       "nv.default": "enabled",
@@ -1634,7 +1639,6 @@
       "blur.400": "c593466290eda4d9575fce022d1e7832d8b70a11",
       "blur.800": "9da5c13e570350e74ed4eba82524dfed68b33b68",
       "blur.overlay": "af0f6363c3fe087997ed3f619437b61ef09edacf",
-      "blur.news.welcome-bonus-card": "4ce978dad331d2531193cd69158cbd78ffbe3cf7",
       "blur.slate-on-card": "143c82ccc160e916b9f34cb593ad998ed92f3155",
       "blur.profile.header": "8ba13e7f9dda0e0904f1b1246ebf1e8db19bc2e9",
       "depth.0": "dd4e5abaaeba186d21a66e39a4ab12437ab399e2",
@@ -1736,6 +1740,7 @@
       "deals.promo-code-button.padding-left": "7c3b9812b4c6917c5bf4463b1d31f5b6d7558c8a",
       "deals.promo-code-button.padding-right": "3ce2cdfb18fdeb4cb810706de8d0058636c2986f",
       "wheel.popup.vip-bet-amount.width": "2f3fab3f402ca8a4ab0945aa343dc82cd30cf97f",
+      "scale-4-5": "ec1b790af72b0de9411a0e66972d346b434e5e62",
       "border-radius.header.mobile-top-up": "913b564b862d61a63c6ffcb6b748ebf92025def6",
       "border-radius.header.general": "6292502a3e069573b61f3558670cc4d6af4b8281",
       "border-radius.header.desktop.special-menu-item": "a96996188848a6f7de3a9951cbef3ec58c690346",
