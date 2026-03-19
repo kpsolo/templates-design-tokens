@@ -3106,19 +3106,6 @@
       }
     }
   },
-  "games": {
-    "labels": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{Medium}",
-        "fontSize": "9px",
-        "lineHeight": "9px",
-        "letterSpacing": "3%",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography"
-    }
-  },
   "Toggle-button": {
     "normal": {
       "value": "{text.md}",

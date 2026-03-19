@@ -2580,10 +2580,6 @@
     },
     "top-up": {
       "banner": {
-        "fill": {
-          "value": "linear-gradient(51deg, {core.brand-10.500} 7%, {core.brand-60.600} 96%)",
-          "type": "color"
-        },
         "border": {
           "value": "{core.brand-30.500a60}",
           "type": "color"
@@ -2647,30 +2643,14 @@
             "value": "{semantic.text.warning.default}",
             "type": "color"
           },
-          "done": {
-            "value": "{core.brand-30.600}",
-            "type": "color"
-          },
           "activation": {
             "value": "{core.brand-10.a10}",
-            "type": "color"
-          },
-          "received": {
-            "value": "{core.validation.success.500}",
             "type": "color"
           }
         },
         "text": {
           "progress": {
             "value": "{semantic.text.warning.default}",
-            "type": "color"
-          },
-          "done": {
-            "value": "{core.brand-30.600}",
-            "type": "color"
-          },
-          "activation": {
-            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "received": {
