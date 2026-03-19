@@ -5036,10 +5036,6 @@
           "value": "{core.grey.200}",
           "type": "color"
         },
-        "border": {
-          "value": "{core.brand-30.a40}",
-          "type": "color"
-        },
         "text": {
           "value": "{semantic.text.default.heading}",
           "type": "color"
@@ -5098,10 +5094,6 @@
             },
             "secondary": {
               "value": "{semantic.text.default.secondary}",
-              "type": "color"
-            },
-            "tertiary": {
-              "value": "{semantic.text.default.tertiary}",
               "type": "color"
             }
           },
@@ -5193,10 +5185,6 @@
             "value": "{core.white.a0}",
             "type": "color"
           },
-          "today": {
-            "value": "{contextual.datepicker.item.fill.default}",
-            "type": "color"
-          },
           "hover": {
             "value": "{core.brand-60.a15}",
             "type": "color"
@@ -5264,10 +5252,6 @@
         },
         "secondary": {
           "value": "{semantic.text.default.secondary}",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "{semantic.text.default.tertiary}",
           "type": "color"
         },
         "accent": {
@@ -5416,11 +5400,6 @@
           "value": "{semantic.text.success.default}",
           "type": "color",
           "description": "core.validation.success"
-        },
-        "warning": {
-          "value": "{semantic.text.warning.default}",
-          "type": "color",
-          "description": "core.validation.warning"
         }
       },
       "close": {
@@ -5684,11 +5663,6 @@
           "value": "{core.brand-60.a5}",
           "type": "color",
           "description": "status-inactive"
-        },
-        "border": {
-          "value": "{core.brand-60.a15}",
-          "type": "color",
-          "description": "status-inactive"
         }
       },
       "top-inner-page": {
@@ -5892,12 +5866,6 @@
           "value": "{core.white.a100}",
           "type": "color"
         },
-        "text": {
-          "accent": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color"
-          }
-        },
         "border": {
           "value": "{core.white.a0}",
           "type": "color"
@@ -5919,10 +5887,6 @@
       },
       "card": {
         "border": {
-          "active": {
-            "value": "{semantic.gradients.9}",
-            "type": "color"
-          },
           "default": {
             "value": "{core.grey.a10}",
             "type": "color"
@@ -5950,10 +5914,6 @@
       "empty": {
         "fill": {
           "value": "{core.brand-10.50}",
-          "type": "color"
-        },
-        "content": {
-          "value": "{core.brand-10.100}",
           "type": "color"
         }
       },
@@ -6089,14 +6049,6 @@
         "default": {
           "value": "{core.white.a0}",
           "type": "color"
-        },
-        "active": {
-          "value": "radial-gradient(99% 99% at 54% 50%, {core.brand-preset.for-gradients.2} 0%, {core.brand-10.500} 100%)",
-          "type": "color"
-        },
-        "special": {
-          "value": "{core.white.a0}",
-          "type": "color"
         }
       }
     },
@@ -6104,24 +6056,9 @@
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
-      },
-      "text": {
-        "default": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
-        }
       }
     },
     "error-pages": {
-      "background": {
-        "value": "{semantic.gradients.3}",
-        "type": "color",
-        "description": "Use for Error-pages fill background"
-      },
       "text": {
         "primary": {
           "value": "{semantic.text.default.heading}",

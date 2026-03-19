@@ -2318,12 +2318,6 @@
               "value": "{core.validation.warning.500}",
               "type": "color"
             }
-          },
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
-              "type": "color"
-            }
           }
         },
         "error": {
@@ -2336,12 +2330,6 @@
           "text": {
             "default": {
               "value": "{core.validation.danger.600}",
-              "type": "color"
-            }
-          },
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
               "type": "color"
             }
           }
@@ -2364,12 +2352,6 @@
             },
             "AI-check": {
               "value": "{core.grey.700}",
-              "type": "color"
-            }
-          },
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
               "type": "color"
             }
           }
@@ -4587,10 +4569,6 @@
           "type": "color"
         },
         "border": {
-          "active": {
-            "value": "{semantic.border.active.element}",
-            "type": "color"
-          },
           "default": {
             "value": "{core.grey.a10}",
             "type": "color"
@@ -4608,11 +4586,6 @@
           "light": {
             "value": "{core.grey.600}",
             "type": "color"
-          },
-          "popup": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "AWI light bg MG dark"
           }
         },
         "border": {
@@ -4666,10 +4639,6 @@
         "background": {
           "fill": {
             "value": "{core.brand-60.50}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-60.a10}",
             "type": "color"
           }
         }
