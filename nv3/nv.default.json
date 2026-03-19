@@ -384,30 +384,6 @@
           "value": "{border-radius.core.full}",
           "type": "borderRadius"
         }
-      },
-      "list-prime": {
-        "small": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius"
-        },
-        "large": {
-          "value": "24px",
-          "type": "borderRadius"
-        }
-      }
-    },
-    "segment-control": {
-      "item": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius",
-        "description": "contextual.segment-control.item"
-      }
-    },
-    "upload-files": {
-      "drag&drop": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius",
-        "description": "Use for drag&drop-file-uploader in upload-files"
       }
     },
     "profile": {
@@ -6855,12 +6831,6 @@
         "value": "{size.800}",
         "type": "sizing"
       }
-    },
-    "loyalty": {
-      "map": {
-        "value": "1816px",
-        "type": "sizing"
-      }
     }
   },
   "error-pages": {
@@ -7988,34 +7958,6 @@
       }
     }
   },
-  "homepage": {
-    "collection": {
-      "padding-top": {
-        "value": "{spacing.1200}",
-        "type": "spacing"
-      },
-      "title": {
-        "padding-left": {
-          "value": "{spacing.1200}",
-          "type": "spacing"
-        }
-      },
-      "collections-wrap": {
-        "gap": {
-          "value": "28px",
-          "type": "spacing"
-        }
-      },
-      "padding-bottom": {
-        "value": "53px",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      }
-    }
-  },
   "profile": {
     "verification": {
       "loyalty_points": {
@@ -8096,17 +8038,6 @@
       "padding-right": {
         "value": "{spacing.300}",
         "type": "spacing"
-      }
-    }
-  },
-  "wheel": {
-    "popup": {
-      "vip-bet-amount": {
-        "width": {
-          "value": "40px",
-          "type": "sizing",
-          "description": "contextual.wheel.popup.vip-bet-amount"
-        }
       }
     }
   }
