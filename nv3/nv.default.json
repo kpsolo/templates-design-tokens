@@ -384,6 +384,30 @@
           "value": "{border-radius.core.full}",
           "type": "borderRadius"
         }
+      },
+      "list-prime": {
+        "small": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "24px",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "segment-control": {
+      "item": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "contextual.segment-control.item"
+      }
+    },
+    "upload-files": {
+      "drag&drop": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "Use for drag&drop-file-uploader in upload-files"
       }
     },
     "profile": {
@@ -584,6 +608,163 @@
         }
       }
     },
+    "icon-graphic": {
+      "slate-1": {
+        "default": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.500}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.200}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "welcome-bonus": {
+        "slate-1": {
+          "active": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.brand-10.400}",
+              "type": "innerShadow"
+            },
+            "type": "boxShadow"
+          },
+          "inactive": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.grey.200}",
+              "type": "innerShadow"
+            },
+            "type": "boxShadow"
+          }
+        },
+        "slate-2": {
+          "active": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.brand-10.400}",
+              "type": "innerShadow"
+            },
+            "type": "boxShadow"
+          },
+          "inactive": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.grey.100}",
+              "type": "innerShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
+      },
+      "slate-2": {
+        "default": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.50}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.50}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
+    },
+    "selection-controls": {
+      "controls": {
+        "fill": {
+          "banner": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "{blur.0}",
+              "spread": "{depth.0}",
+              "color": "{core.brand-60.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "selection-controls.controls.fill.banner."
+          }
+        }
+      }
+    },
+    "mobile-application": {
+      "button": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "17",
+            "spread": "{depth.0}",
+            "color": "{core.white.a30}",
+            "type": "innerShadow"
+          },
+          {
+            "x": "-4",
+            "y": "-4",
+            "blur": "20",
+            "spread": "0",
+            "color": "{core.brand-10.a10}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "20",
+            "spread": "0",
+            "color": "{core.brand-10.a10}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "20",
+            "spread": "0",
+            "color": "{core.brand-10.a25}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
     "input": {
       "default": {
         "value": {
@@ -607,6 +788,39 @@
         },
         "type": "boxShadow"
       },
+      "hover": {
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "active": {
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "validation": {
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
       "disabled": {
         "value": {
           "x": "{depth.0}",
@@ -619,6 +833,17 @@
         "type": "boxShadow",
         "description": "border.input.disabled"
       }
+    },
+    "modal": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "{core.white.a0}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
     "drop": {
       "sm": {
@@ -733,6 +958,20 @@
       },
       "type": "boxShadow"
     },
+    "tab-bar": {
+      "value": [
+        {
+          "x": "{depth.0}",
+          "y": "{depth.50}",
+          "blur": "{blur.100}",
+          "spread": "{depth.0}",
+          "color": "{core.brand-10.a30}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "0px 0px 4px 0px #E028FD"
+    },
     "datepicker": {
       "value": "{shadow.drop.sm}",
       "type": "boxShadow"
@@ -765,6 +1004,65 @@
       },
       "type": "boxShadow"
     },
+    "menu": {
+      "banner": {
+        "text-accent": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "5px",
+              "spread": "{depth.0}",
+              "color": "{core.brand-30.a30}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.200}",
+              "spread": "{depth.0}",
+              "color": "{core.brand-30.a30}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "5px",
+              "spread": "{depth.0}",
+              "color": "{core.brand-30.a30}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      },
+      "item": {
+        "text": {
+          "prime": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.50}",
+              "blur": "{blur.100}",
+              "spread": "",
+              "color": "{core.grey.a50}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
+      },
+      "desktop": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.100}",
+          "blur": "{blur.100}",
+          "spread": "",
+          "color": "{core.brand-60.800a10}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    },
     "profile": {
       "header": {
         "value": [
@@ -788,6 +1086,27 @@
           "color": "{core.white.a0}",
           "type": "dropShadow"
         },
+        "type": "boxShadow"
+      },
+      "image": {
+        "value": [
+          {
+            "x": "0",
+            "y": "1px",
+            "blur": "1px",
+            "spread": "0",
+            "color": "{core.white.a40}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "8px",
+            "blur": "8px",
+            "spread": "0",
+            "color": "{core.grey.a8}",
+            "type": "innerShadow"
+          }
+        ],
         "type": "boxShadow"
       }
     },
@@ -837,6 +1156,10 @@
       "type": "boxShadow"
     },
     "homepage": {
+      "collections": {
+        "value": "{shadow.drop.sm}",
+        "type": "boxShadow"
+      },
       "slider": {
         "payment-block": {
           "value": {
@@ -889,6 +1212,35 @@
             "type": "dropShadow"
           },
           "type": "boxShadow"
+        },
+        "icon": {
+          "value": [
+            {
+              "x": "-0.08",
+              "y": "0.16",
+              "blur": "0.08",
+              "spread": "0px",
+              "color": "{core.white.a50}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "1.2",
+              "blur": "1.56",
+              "spread": "0",
+              "color": "{core.brand-10.800}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0.78",
+              "blur": "0.6",
+              "spread": "0",
+              "color": "{core.grey.a70}",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
         }
       }
     },
@@ -931,6 +1283,25 @@
         }
       }
     },
+    "news": {
+      "welcome-bonus-card": {
+        "background": {
+          "value": {
+            "x": "0px",
+            "y": "0px",
+            "blur": "10px",
+            "spread": "0px",
+            "color": "{core.brand-30.300}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "card": {
+        "value": "{shadow.drop.sm}",
+        "type": "boxShadow"
+      }
+    },
     "referal": {
       "step-card": {
         "value": {
@@ -949,6 +1320,60 @@
       "type": "boxShadow"
     },
     "lottery-tournament": {
+      "tabs": {
+        "item": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "1px",
+              "spread": "0px",
+              "color": "{core.white.a8}",
+              "type": "innerShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.100}",
+              "blur": "{blur.200}",
+              "spread": "0",
+              "color": "{core.brand-60.a20}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "contextual.tabs.lottery-tournament.item"
+        }
+      },
+      "cart": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.100}",
+            "blur": "{blur.100}",
+            "spread": "0",
+            "color": "{core.brand-60.800a10}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "contextual.tabs.lottery-tournament.item"
+      },
+      "desktop": {
+        "block": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.100}",
+              "blur": "{blur.100}",
+              "spread": "0",
+              "color": "{core.brand-60.800a10}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "contextual.tabs.lottery-tournament.item"
+        }
+      },
       "players-prizes": {
         "gold": {
           "value": [
@@ -1047,6 +1472,34 @@
     },
     "wheel": {
       "popup": {
+        "multiplier": {
+          "active": {
+            "value": [
+              {
+                "x": "0px",
+                "y": "0px",
+                "blur": "0px",
+                "spread": "0px",
+                "color": "{core.white.a0}",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "normal": {
+            "value": [
+              {
+                "x": "0px",
+                "y": "0px",
+                "blur": "0px",
+                "spread": "0px",
+                "color": "{core.white.a0}",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
+        },
         "general": {
           "value": {
             "x": "0px",
@@ -1095,6 +1548,61 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "button": {
+        "value": [
+          {
+            "x": "3px",
+            "y": "-5px",
+            "blur": "20px",
+            "spread": "0",
+            "color": "{core.brand-10.a10}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "-3px",
+            "y": "5px",
+            "blur": "20px",
+            "spread": "0",
+            "color": "{core.brand-10.a40}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
+    "progress": {
+      "circle": {
+        "progress": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.0}",
+              "spread": "{depth.50}",
+              "color": "{core.brand-30.400}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
+    },
+    "ingame": {
+      "mob": {
+        "bonus-talisman": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "{depth.0}",
+              "spread": "{depth.0}",
+              "color": "{core.white.a60}",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
       }
     },
     "achivments": {
@@ -1427,6 +1935,17 @@
       }
     },
     "welcome-bonus": {
+      "progress": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.0}",
+          "blur": "{blur.0}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
       "card": {
         "value": "{shadow.drop.sm}",
         "type": "boxShadow",
@@ -1438,6 +1957,47 @@
         "value": "{shadow.drop.xs}",
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
+      }
+    },
+    "tiket": {
+      "default": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{depth.0}",
+            "spread": "{depth.0}",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "hover": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.200}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-10.a25}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "no-hover": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.0}",
+            "spread": "{depth.0}",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     }
   },
@@ -1783,6 +2343,16 @@
           }
         }
       },
+      "glow": {
+        "up": {
+          "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.500a0} 60%)",
+          "type": "color"
+        },
+        "down": {
+          "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.500a0} 81%)",
+          "type": "color"
+        }
+      },
       "bg": {
         "value": "{core.brand-30.900}",
         "type": "color"
@@ -1821,6 +2391,10 @@
           }
         },
         "gold": {
+          "outer": {
+            "value": "linear-gradient(225deg, {core.additionals.gold} 0%, {core.white.a100} 100%)",
+            "type": "color"
+          },
           "inner": {
             "value": "{core.brand-30.800}",
             "type": "color"
@@ -1912,30 +2486,80 @@
     "verification": {
       "verification-status": {
         "time": {
+          "icon": {
+            "default": {
+              "value": "{core.validation.warning.500}",
+              "type": "color"
+            }
+          },
           "text": {
             "default": {
               "value": "{core.validation.warning.500}",
               "type": "color"
             }
+          },
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            }
           }
         },
         "error": {
+          "icon": {
+            "default": {
+              "value": "{core.validation.danger.600}",
+              "type": "color"
+            }
+          },
           "text": {
             "default": {
               "value": "{core.validation.danger.600}",
               "type": "color"
             }
+          },
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            }
           }
         },
         "check": {
+          "icon": {
+            "default": {
+              "value": "{core.validation.success.500}",
+              "type": "color"
+            },
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
+            }
+          },
           "text": {
             "default": {
               "value": "{core.validation.success.500}",
+              "type": "color"
+            },
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
+            }
+          },
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
               "type": "color"
             }
           }
         },
         "loading": {
+          "text": {
+            "default": {
+              "value": "{core.brand-preset.validation.info}",
+              "type": "color"
+            }
+          },
           "background": {
             "fill": {
               "value": "{semantic.background.5}",
@@ -1945,10 +2569,69 @@
         }
       }
     },
+    "upload-files": {
+      "drag&drop": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.a5}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{contextual.lottery-tournament.ticket.background.border}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.tertiary}",
+            "type": "color",
+            "description": "Use for text in drag&drop like: File format, etc."
+          }
+        }
+      }
+    },
+    "up-button": {
+      "fill": {
+        "standard": {
+          "value": "{core.grey.900}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "standard": {
+          "value": "{semantic.background.brand.emphasizing.default.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-60.800}",
+          "type": "color"
+        }
+      }
+    },
     "top-up": {
       "banner": {
         "fill": {
           "value": "linear-gradient(51deg, {core.brand-10.500} 7%, {core.brand-60.600} 96%)",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.500a60}",
+          "type": "color"
+        }
+      }
+    },
+    "email": {
+      "backgrounf": {
+        "header": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "{semantic.gradients.2}",
           "type": "color"
         }
       }
@@ -2016,6 +2699,10 @@
             "value": "{semantic.text.warning.default}",
             "type": "color"
           },
+          "done": {
+            "value": "{core.brand-30.600}",
+            "type": "color"
+          },
           "activation": {
             "value": "{semantic.text.default.primary}",
             "type": "color"
@@ -2028,6 +2715,14 @@
         "border": {
           "progress": {
             "value": "{core.validation.warning.600a30}",
+            "type": "color"
+          },
+          "done": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "activation": {
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "received": {
@@ -2098,6 +2793,10 @@
             "received": {
               "value": "{core.validation.success.a20}",
               "type": "color"
+            },
+            "get": {
+              "value": "{core.brand-60.a10}",
+              "type": "color"
             }
           }
         }
@@ -2108,10 +2807,34 @@
           "type": "color"
         }
       },
+      "offers-block": {
+        "border": {
+          "value": "{core.brand-60.a20}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "linear-gradient(165deg, {core.white.a100} 3%, {core.brand-30.50a50} 83%)",
+          "type": "color"
+        }
+      },
       "first-block": {
         "fill": {
+          "primary": {
+            "value": "{core.brand-30.a20}",
+            "type": "color"
+          },
           "secondary": {
             "value": "{core.white.a80}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "primary": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.brand-60.a20}",
             "type": "color"
           }
         }
@@ -2136,6 +2859,36 @@
         "border": {
           "value": "{core.grey.a10}",
           "type": "color"
+        },
+        "switcher-button": {
+          "active": {
+            "fill": {
+              "value": "{semantic.gradients.7}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{semantic.text.banner-cart.primary}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.icon.banner-cart.primary}",
+              "type": "color"
+            }
+          },
+          "inactive": {
+            "fill": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.icon.brand.static}",
+              "type": "color"
+            }
+          }
         }
       },
       "image-overlay": {
@@ -2168,6 +2921,18 @@
         "fill": {
           "value": "{semantic.gradients.7}",
           "type": "color"
+        }
+      },
+      "route": {
+        "line": {
+          "filled": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          },
+          "not-filled": {
+            "value": "{core.brand-60.a30}",
+            "type": "color"
+          }
         }
       },
       "points": {
@@ -2247,6 +3012,14 @@
     },
     "messages": {
       "bottom": {
+        "fill": {
+          "value": "{semantic.gradients.3}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.grey.a8}",
+          "type": "color"
+        },
         "icon": {
           "value": "{core.brand-60.400}",
           "type": "color"
@@ -2257,6 +3030,12 @@
       "fill": {
         "value": "{semantic.background.2}",
         "type": "color"
+      },
+      "popover-action": {
+        "fill": {
+          "value": "{semantic.gradients.3}",
+          "type": "color"
+        }
       },
       "border": {
         "value": "{core.grey.a8}",
@@ -2473,6 +3252,11 @@
             "value": "{core.brand-30.a50}",
             "type": "color",
             "description": "Lootboxes"
+          },
+          "elipse-3": {
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-30.a50} 0%, {core.brand-30.a8} 100%)",
+            "type": "color",
+            "description": "Lootboxes"
           }
         }
       },
@@ -2484,6 +3268,11 @@
         }
       },
       "card": {
+        "border": {
+          "value": "{core.brand-60.a15}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
         "status": {
           "value": "{core.brand-30.600}",
           "type": "color",
@@ -2583,9 +3372,17 @@
           "value": "{core.brand-60.a25}",
           "type": "color"
         },
+        "overlay": {
+          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.700} 100%)",
+          "type": "color"
+        },
         "text": {
           "primary": {
             "value": "{core.brand-10.600}",
+            "type": "color"
+          },
+          "accent": {
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           },
           "secondary": {
@@ -2597,6 +3394,10 @@
       "support-block": {
         "fill": {
           "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-60.a20}",
           "type": "color"
         }
       }
@@ -2740,6 +3541,10 @@
           "on-review": {
             "value": "{core.validation.warning.a30}",
             "type": "color"
+          },
+          "declined": {
+            "value": "{core.grey.100a10}",
+            "type": "color"
           }
         }
       },
@@ -2757,9 +3562,27 @@
             "value": "{core.white.a0}",
             "type": "color"
           }
+        },
+        "text": {
+          "active": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.text.default.tertiary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          }
         }
       },
       "tabs-balance": {
+        "fill": {
+          "value": "{core.brand-60.a15}",
+          "type": "color"
+        },
         "icon": {
           "fill": {
             "value": "{core.brand-30.100}",
@@ -3133,6 +3956,10 @@
             }
           }
         },
+        "overlay": {
+          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",
+          "type": "color"
+        },
         "navmenu": {
           "fill": {
             "value": "{core.grey.700}",
@@ -3222,6 +4049,10 @@
             },
             "icon": {
               "value": "{core.brand-60.300}",
+              "type": "color"
+            },
+            "devider": {
+              "value": "{core.grey.a10}",
               "type": "color"
             }
           },
@@ -3331,6 +4162,10 @@
         "hover": {
           "value": "{semantic.icon.default.secondary}",
           "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.icon.default.disabled}",
+          "type": "color"
         }
       },
       "border": {
@@ -3439,6 +4274,14 @@
             "unselected": {
               "default": {
                 "value": "{core.white.a0}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{contextual.selection-controls.controls.checkbox.check.unselected.default}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{contextual.selection-controls.controls.checkbox.check.unselected.default}",
                 "type": "color"
               }
             }
@@ -3793,6 +4636,12 @@
       }
     },
     "deals": {
+      "more": {
+        "text": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
+      },
       "promo-code-button": {
         "fill": {
           "default": {
@@ -3893,11 +4742,19 @@
       },
       "timer": {
         "number-cell": {
+          "fill": {
+            "value": "{semantic.gradients.9}",
+            "type": "color"
+          },
           "fill-light": {
             "value": "{core.brand-30.300}",
             "type": "color"
           },
           "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
             "active-light": {
               "value": "{core.brand-60.800}",
               "type": "color"
@@ -3905,6 +4762,10 @@
           }
         },
         "text": {
+          "date": {
+            "value": "{semantic.text.brand.on-brand-secondary}",
+            "type": "color"
+          },
           "date-light": {
             "value": "{semantic.text.default.primary}",
             "type": "color"
@@ -3925,6 +4786,10 @@
           "type": "color"
         },
         "border": {
+          "active": {
+            "value": "{semantic.border.active.element}",
+            "type": "color"
+          },
           "default": {
             "value": "{core.grey.a10}",
             "type": "color"
@@ -3942,6 +4807,11 @@
           "light": {
             "value": "{core.grey.600}",
             "type": "color"
+          },
+          "popup": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "AWI light bg MG dark"
           }
         },
         "border": {
@@ -3996,6 +4866,10 @@
           "fill": {
             "value": "{core.brand-60.50}",
             "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-60.a10}",
+            "type": "color"
           }
         }
       },
@@ -4016,6 +4890,14 @@
           "background-card": {
             "value": "{core.brand-60.800}",
             "type": "color"
+          }
+        },
+        "item": {
+          "background": {
+            "fill": {
+              "value": "{semantic.gradients.7}",
+              "type": "color"
+            }
           }
         }
       },
@@ -4041,11 +4923,53 @@
         "icon": {
           "value": "{core.brand-10.600}",
           "type": "color"
+        },
+        "link": {
+          "default": {
+            "value": "{semantic.link.default.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.link.default.hover}",
+            "type": "color"
+          }
         }
       },
       "sport": {
         "item": {
           "fill": {
+            "1": {
+              "value": "{core.brand-preset.sport.1}",
+              "type": "color"
+            },
+            "2": {
+              "value": "{core.brand-preset.sport.2}",
+              "type": "color"
+            },
+            "3": {
+              "value": "{core.brand-preset.sport.3}",
+              "type": "color"
+            },
+            "4": {
+              "value": "{core.brand-preset.sport.4}",
+              "type": "color"
+            },
+            "5": {
+              "value": "{core.brand-preset.sport.5}",
+              "type": "color"
+            },
+            "6": {
+              "value": "{core.brand-preset.sport.6}",
+              "type": "color"
+            },
+            "7": {
+              "value": "{core.brand-preset.sport.7}",
+              "type": "color"
+            },
+            "8": {
+              "value": "{core.brand-preset.sport.8}",
+              "type": "color"
+            },
             "default": {
               "value": "{semantic.gradients.6}",
               "type": "color"
@@ -4083,6 +5007,10 @@
         "background": {
           "1": {
             "value": "linear-gradient(58deg, {core.brand-10.500} 0%, rgba(58, 110, 254, 0.00) 20%)",
+            "type": "color"
+          },
+          "2": {
+            "value": "radial-gradient(89% 46% at 20% 45%, {core.brand-preset.for-gradients.3} 0%, {core.brand-10.500} 100%)",
             "type": "color"
           }
         }
@@ -4234,6 +5162,10 @@
             }
           },
           "inform": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            },
             "border": {
               "value": "{core.brand-10.100}",
               "type": "color"
@@ -4856,6 +5788,11 @@
             "value": "{core.white.a100}",
             "type": "color",
             "description": "Tiket"
+          },
+          "winning": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "Tiket"
           }
         },
         "fill": {
@@ -4879,6 +5816,11 @@
         }
       },
       "zero-block": {
+        "fill": {
+          "value": "{semantic.background.5}",
+          "type": "color",
+          "description": "zero block"
+        },
         "border": {
           "value": "{core.brand-10.100}",
           "type": "color",
@@ -5036,6 +5978,10 @@
     },
     "thumb-games": {
       "label": {
+        "fill": {
+          "value": "{semantic.gradients.7}",
+          "type": "color"
+        },
         "text": {
           "value": "{core.white.a100}",
           "type": "color"
@@ -5259,6 +6205,14 @@
         "type": "color"
       },
       "progress": {
+        "inactive": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
         "steps": {
           "steps": {
             "icon": {
@@ -5903,10 +6857,6 @@
     "value": "{base}",
     "type": "fontSizes"
   },
-  "scale-4-5": {
-    "value": "{base}*1.125",
-    "type": "fontSizes"
-  },
   "scale-5": {
     "value": "{base} * 1.25",
     "type": "fontSizes"
@@ -6061,7 +7011,7 @@
       },
       "type": "typography"
     },
-    "lg": {
+    "ml": {
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
@@ -6070,7 +7020,7 @@
       },
       "type": "typography"
     },
-    "lg-strong": {
+    "ml-strong": {
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
@@ -6079,7 +7029,7 @@
       },
       "type": "typography"
     },
-    "lg-stronger": {
+    "ml-stronger": {
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
@@ -6088,34 +7038,59 @@
       },
       "type": "typography"
     },
-    "button": {
-      "lg": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "{scale-4}",
-          "lineHeight": "{lg}"
-        },
-        "type": "typography"
+    "lg": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.normal}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{lg}"
       },
-      "md": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "{scale-4}",
-          "lineHeight": "{lg}"
-        },
-        "type": "typography"
+      "type": "typography"
+    },
+    "lg-strong": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{lg}"
       },
-      "sm": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{Semibold}",
-          "fontSize": "{scale-3}",
-          "lineHeight": "{ml}"
-        },
-        "type": "typography"
-      }
+      "type": "typography"
+    },
+    "lg-stronger": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{lg}"
+      },
+      "type": "typography"
+    },
+    "button-large": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{scale-4}",
+        "lineHeight": "{lg}"
+      },
+      "type": "typography"
+    },
+    "button-medium": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{scale-4}",
+        "lineHeight": "{lg}"
+      },
+      "type": "typography"
+    },
+    "button-small": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{scale-3}",
+        "lineHeight": "{ml}"
+      },
+      "type": "typography"
     },
     "normal": {
       "value": "{Regular}",
@@ -6131,29 +7106,7 @@
     }
   },
   "heading": {
-    "xs": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "20px",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "sm": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-4-5}",
-        "lineHeight": "22px",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "md": {
+    "ml": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -6164,7 +7117,29 @@
       },
       "type": "typography"
     },
-    "lg": {
+    "small": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-4}",
+        "lineHeight": "20px",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "lg-strong": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{scale-6}",
+        "lineHeight": "{lg}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "lg-stronger": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -6178,6 +7153,28 @@
     "xl": {
       "value": {
         "fontFamily": "{accent}",
+        "fontWeight": "{Expanded}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "{xl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "xl-strong": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "{xl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "xl-stronger": {
+      "value": {
+        "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
@@ -6186,7 +7183,18 @@
       },
       "type": "typography"
     },
-    "xxl": {
+    "xxl-strong": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{scale-8}",
+        "lineHeight": "{xxl}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "xxl-stronger": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -6199,9 +7207,35 @@
     }
   },
   "popup": {
+    "registration": {
+      "banner": {
+        "title": {
+          "mob": {
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{Bold}",
+              "fontSize": "18px",
+              "lineHeight": "24px",
+              "letterSpacing": "0"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    },
+    "title": {
+      "value": "{heading.xl-stronger}",
+      "type": "typography"
+    },
     "bottom": {
       "min-height": {
         "value": "{size.800}",
+        "type": "sizing"
+      }
+    },
+    "loyalty": {
+      "map": {
+        "value": "1816px",
         "type": "sizing"
       }
     }
@@ -6210,7 +7244,7 @@
     "text": {
       "web": {
         "title": {
-          "value": "{heading.xl}",
+          "value": "{heading.xl-stronger}",
           "type": "typography",
           "description": "Use for Error text_title (Desktop)"
         },
@@ -6221,22 +7255,67 @@
         }
       },
       "thumbs-title": {
-        "value": "{heading.md}",
+        "value": "{heading.ml}",
         "type": "typography",
         "description": "Use for Error-thumbsʼ section title"
       },
       "mob": {
         "title": {
-          "value": "{heading.md}",
+          "value": "{heading.ml}",
           "type": "typography",
           "description": "Use for Error text_title (Mobile)"
         },
         "body": {
-          "value": "{text.lg-strong}",
+          "value": "{text.ml-strong}",
           "type": "typography",
           "description": "Use for Error text_body (Mobile)"
         }
       }
+    }
+  },
+  "Icon": {
+    "numbers": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{text.stronger}",
+        "lineHeight": "16px",
+        "fontSize": "12px"
+      },
+      "type": "typography"
+    }
+  },
+  "banner": {
+    "title-XXXL": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "36",
+        "lineHeight": "42px"
+      },
+      "type": "typography"
+    },
+    "top-up-account": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "3%"
+      },
+      "type": "typography"
+    },
+    "error-payments": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "22px",
+        "lineHeight": "24px",
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "2%"
+      },
+      "type": "typography",
+      "description": "Error payments"
     }
   },
   "semantic": {
@@ -6902,6 +7981,12 @@
       "value": "{blur.100}",
       "type": "dimension"
     },
+    "news": {
+      "welcome-bonus-card": {
+        "value": "38px",
+        "type": "dimension"
+      }
+    },
     "slate-on-card": {
       "value": "24px",
       "type": "dimension"
@@ -7021,6 +8106,20 @@
         "value": "3px",
         "type": "spacing"
       }
+    },
+    "general": {
+      "padding-top": {
+        "value": "{blur.100}",
+        "type": "spacing"
+      }
+    }
+  },
+  "header": {
+    "desctop": {
+      "menu-items": {
+        "value": "{heading.ml}",
+        "type": "typography"
+      }
     }
   },
   "letter-spacing": {
@@ -7112,6 +8211,10 @@
       "md": {
         "value": "{spacing.300}",
         "type": "spacing"
+      },
+      "joint": {
+        "value": "{spacing.100}",
+        "type": "spacing"
       }
     },
     "padding-left": {
@@ -7121,6 +8224,10 @@
       },
       "md": {
         "value": "{spacing.300}",
+        "type": "spacing"
+      },
+      "joint": {
+        "value": "{spacing.100}",
         "type": "spacing"
       }
     },
@@ -7287,8 +8394,156 @@
       }
     }
   },
+  "Thumb-providers": {
+    "md": {
+      "padding-bottom": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      },
+      "gap-text": {
+        "value": "{spacing.200}",
+        "type": "spacing"
+      }
+    },
+    "sm": {
+      "padding-bottom": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      },
+      "gap-text": {
+        "value": "{spacing.200}",
+        "type": "spacing"
+      }
+    }
+  },
+  "homepage": {
+    "collection": {
+      "padding-top": {
+        "value": "{spacing.1200}",
+        "type": "spacing"
+      },
+      "title": {
+        "padding-left": {
+          "value": "{spacing.1200}",
+          "type": "spacing"
+        },
+        "mob": {
+          "value": "{text.lg-stronger}",
+          "type": "typography"
+        },
+        "web": {
+          "value": "{heading.lg-stronger}",
+          "type": "typography"
+        }
+      },
+      "collections-wrap": {
+        "gap": {
+          "value": "28px",
+          "type": "spacing"
+        }
+      },
+      "padding-bottom": {
+        "value": "53px",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      }
+    },
+    "payment-block": {
+      "subtitle": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-4}",
+          "letterSpacing": "{letter-spacing.2}",
+          "textCase": "{text-case.uppercase}",
+          "lineHeight": "22px"
+        },
+        "type": "typography"
+      },
+      "title": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "26px",
+          "lineHeight": "36px",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      },
+      "title2": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "18px",
+          "lineHeight": "24px",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography"
+      },
+      "mob": {
+        "title": {
+          "value": {
+            "fontFamily": "{accent}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "16px",
+            "lineHeight": "24px",
+            "textCase": "{text-case.uppercase}"
+          },
+          "type": "typography"
+        },
+        "title2": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "12px",
+            "lineHeight": "16px",
+            "textCase": "{text-case.none}"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
+  "story": {
+    "title": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.normal}",
+        "fontSize": "24px",
+        "lineHeight": "32px"
+      },
+      "type": "typography",
+      "description": "Story"
+    },
+    "the-end": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "32px",
+        "lineHeight": "34px",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Story"
+    }
+  },
   "profile": {
     "verification": {
+      "item": {
+        "value": "{text.lg-stronger}",
+        "type": "typography"
+      },
       "loyalty_points": {
         "sum": {
           "value": {
@@ -7296,6 +8551,19 @@
             "fontWeight": "{text.stronger}",
             "fontSize": "20px",
             "lineHeight": "26px"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "deals": {
+      "label": {
+        "icon": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{Bold}",
+            "fontSize": "10px",
+            "lineHeight": "16px"
           },
           "type": "typography"
         }
@@ -7336,6 +8604,60 @@
       "type": "typography"
     }
   },
+  "strip": {
+    "progress": {
+      "score": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.normal}",
+          "fontSize": "10px",
+          "lineHeight": "12px"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "lottery-tournament": {
+    "tiket": {
+      "old-price": {
+        "md": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.normal}",
+            "fontSize": "{scale-3}",
+            "lineHeight": "{sm}",
+            "textDecoration": "{text-decoration.line-through}"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.normal}",
+            "fontSize": "{scale-2}",
+            "lineHeight": "{sm}",
+            "textDecoration": "{text-decoration.line-through}"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
+  "tabs": {
+    "pop-up": {
+      "item": {
+        "text": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{Regular}",
+            "fontSize": "14px",
+            "lineHeight": "20px"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
   "link": {
     "plain": {
       "default": {
@@ -7355,6 +8677,133 @@
       "default": {
         "value": "{text-decoration.underline}",
         "type": "textDecoration"
+      }
+    }
+  },
+  "complete-registration-btn": {
+    "value": {
+      "fontFamily": "{main}",
+      "fontWeight": "{text.normal}",
+      "fontSize": "{scale-3}",
+      "lineHeight": "{sm}"
+    },
+    "type": "typography",
+    "description": "Complete \nregistration"
+  },
+  "ingame": {
+    "mob": {
+      "navmenu": {
+        "item": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.strong}",
+            "fontSize": "8px",
+            "lineHeight": "12px"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
+  "deals": {
+    "promo-code-button": {
+      "padding-left": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{spacing.300}",
+        "type": "spacing"
+      }
+    }
+  },
+  "lootboxes": {
+    "coefficient": {
+      "normal": {
+        "value": "{text.md}",
+        "type": "typography",
+        "description": "contextual.lootboxes.coefficient"
+      },
+      "hover": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{md}"
+        },
+        "type": "typography",
+        "description": "contextual.lootboxes.coefficient"
+      },
+      "active": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{md}"
+        },
+        "type": "typography",
+        "description": "contextual.lootboxes.coefficient"
+      }
+    }
+  },
+  "wheel": {
+    "sector": {
+      "xs": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "12px",
+          "lineHeight": "12px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "14px",
+          "lineHeight": "14px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "18px",
+          "lineHeight": "25px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      }
+    },
+    "popup": {
+      "vip-bet-amount": {
+        "width": {
+          "value": "40px",
+          "type": "sizing",
+          "description": "contextual.wheel.popup.vip-bet-amount"
+        }
+      }
+    }
+  },
+  "achivments": {
+    "offers-block": {
+      "title": {
+        "value": "{heading.lg-stronger}",
+        "type": "typography"
       }
     }
   }
