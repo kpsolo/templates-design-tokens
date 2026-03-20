@@ -1,7 +1,7 @@
 [
   {
     "id": "5b409a2e0aa92ebefbea85cface1357e96ec77c9",
-    "name": "nv",
+    "name": "dark",
     "$figmaStyleReferences": {
       "text.xs": "S:ad5689958358d317ab2c0b1fd6f1918cbb1f1267,",
       "text.xs-strong": "S:a2caf4342062ff7fee9e1d94ff0491e8c55308cb,",
@@ -1724,6 +1724,17 @@
       "border-radius.header.general": "6292502a3e069573b61f3558670cc4d6af4b8281",
       "border-radius.header.desktop.special-menu-item": "a96996188848a6f7de3a9951cbef3ec58c690346",
       "base": "49d87aeec84a4e398fcddb90fe269b633f060c5a"
-    }
+    },
+    "group": "cascade"
+  },
+  {
+    "id": "62674037309e87eecf5a9e69406be2b80e4fa311",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "cascade.default_dark": "enabled",
+      "cascade.base_dark": "enabled"
+    },
+    "group": "cascade"
   }
 ]
