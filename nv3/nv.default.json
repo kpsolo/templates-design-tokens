@@ -6088,25 +6088,25 @@
       },
       "type": "typography"
     },
-    "button-large": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
-      },
-      "type": "typography"
-    },
-    "button-medium": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
-      },
-      "type": "typography"
-    },
     "button": {
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-4}",
+          "lineHeight": "{lg}"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-4}",
+          "lineHeight": "{lg}"
+        },
+        "type": "typography"
+      },
       "sm": {
         "value": {
           "fontFamily": "{main}",
