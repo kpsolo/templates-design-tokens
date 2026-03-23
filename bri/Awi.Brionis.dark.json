@@ -3880,7 +3880,7 @@
       },
       "border-color": {
         "default": {
-          "value": "{core.white.a10}",
+          "value": "{core.grey.600}",
           "type": "color"
         },
         "hover": {
@@ -4097,7 +4097,7 @@
           "type": "color"
         },
         "fill-current": {
-          "value": "linear-gradient(80deg, {core.brand-60.700} 70%, {core.brand-30.600} 100%)",
+          "value": "linear-gradient(80deg, {core.brand-60.800} 70%, {core.brand-30.700} 100%)",
           "type": "color"
         }
       },
@@ -6578,7 +6578,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.300}",
+          "value": "{core.brand-30.300}",
           "type": "color"
         },
         "disabled": {
@@ -6596,7 +6596,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.300}",
+          "value": "{core.brand-30.300}",
           "type": "color"
         },
         "disabled": {
