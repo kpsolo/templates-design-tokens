@@ -2759,16 +2759,16 @@
         "type": "color"
       },
       "secondary": {
-        "value": "#492da6",
+        "value": "#427cff",
         "type": "color"
       },
       "tertiary": {
-        "value": "#401ecc",
+        "value": "#2521d4",
         "type": "color",
         "description": "tertiary.    "
       },
       "primary": {
-        "value": "#C30054",
+        "value": "#2D42FF",
         "type": "color"
       },
       "for-gradients": {
