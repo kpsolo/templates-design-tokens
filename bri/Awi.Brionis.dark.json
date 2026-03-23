@@ -3780,7 +3780,7 @@
     },
     "content": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{semantic.background.page}",
         "type": "color"
       }
     },
