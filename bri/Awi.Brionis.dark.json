@@ -2055,7 +2055,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.tertiary.fill.hover}",
+            "value": "{semantic.background.brand.tertiary.default}",
             "type": "color"
           },
           "disabled": {
@@ -2065,19 +2065,19 @@
         },
         "text": {
           "default": {
-            "value": "{core.grey.700}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.700}",
+            "value": "{contextual.button.tertiary.text.default}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.400}",
+            "value": "{contextual.button.tertiary.text.default}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.200}",
+            "value": "{core.white.a30}",
             "type": "color"
           }
         },
@@ -7484,19 +7484,19 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.grey.a15}",
+            "value": "{core.grey.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.100}",
+            "value": "{semantic.border.brand.tertiary.default}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.100}",
+            "value": "{semantic.border.brand.tertiary.default}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.50}",
+            "value": "{semantic.border.brand.tertiary.default}",
             "type": "color"
           }
         },
