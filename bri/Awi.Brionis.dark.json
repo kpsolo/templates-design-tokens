@@ -5916,7 +5916,7 @@
       },
       "empty": {
         "fill": {
-          "value": "{core.brand-10.50}",
+          "value": "{core.brand-60.a50}",
           "type": "color"
         },
         "content": {
@@ -5935,7 +5935,7 @@
       "show-more": {
         "normal": {
           "fill": {
-            "value": "{core.brand-60.100}",
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "border": {
@@ -5943,7 +5943,7 @@
             "type": "color"
           },
           "content": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
@@ -5970,7 +5970,7 @@
       },
       "mobile": {
         "fill": {
-          "value": "{semantic.background.5}",
+          "value": "{core.brand-60.a50}",
           "type": "color"
         }
       }
