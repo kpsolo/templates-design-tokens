@@ -2103,15 +2103,15 @@
       "secondary": {
         "fill": {
           "default": {
-            "value": "{semantic.background.brand.secondary.default}",
+            "value": "{core.brand-60.a50}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.secondary.hover}",
+            "value": "{core.brand-60.a70}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.brand.secondary.active}",
+            "value": "{core.brand-60.a70}",
             "type": "color"
           },
           "disabled": {
@@ -2121,19 +2121,19 @@
         },
         "text": {
           "default": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.text.disabled.secondary}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         },
@@ -7654,25 +7654,25 @@
         },
         "secondary": {
           "default": {
-            "value": "{core.brand-10.50}",
+            "value": "{core.brand-60.a50}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.brand-60.a70}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.brand-60.a30}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-30.a20}",
+            "value": "{core.brand-60.a40}",
             "type": "color"
           }
         },
         "tertiary": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.a60}",
             "type": "color"
           },
           "hover": {
