@@ -5685,12 +5685,12 @@
       "tiket": {
         "background": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.a50}",
             "type": "color",
             "description": "Tiket"
           },
           "border": {
-            "value": "{core.brand-10.100}",
+            "value": "{core.white.a20}",
             "type": "color",
             "description": "Tiket"
           }
@@ -7329,7 +7329,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.400}",
+          "value": "{core.white.a70}",
           "type": "color"
         }
       },
