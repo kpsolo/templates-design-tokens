@@ -990,7 +990,14 @@
       "type": "boxShadow"
     },
     "popup": {
-      "value": "{shadow.modal}",
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "{core.white.a0}",
+        "type": "dropShadow"
+      },
       "type": "boxShadow"
     },
     "booster-cart": {
