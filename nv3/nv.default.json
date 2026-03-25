@@ -995,7 +995,7 @@
         "y": "0",
         "blur": "0",
         "spread": "0",
-        "color": "{core.white.a0}",
+        "color": "{shadow.modal}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
