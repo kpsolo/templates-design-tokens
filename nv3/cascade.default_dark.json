@@ -2175,6 +2175,12 @@
               "value": "{semantic.text.banner-cart.primary}",
               "type": "color"
             }
+          },
+          "inactive": {
+            "text": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            }
           }
         }
       },
