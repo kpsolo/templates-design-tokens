@@ -3027,31 +3027,6 @@
     "value": "400",
     "type": "fontWeights"
   },
-  "homepage": {
-    "banner": {
-      "title": {
-        "web": {
-          "value": {
-            "fontFamily": "{accent}",
-            "fontWeight": "{Bold}",
-            "lineHeight": "52px",
-            "letterSpacing": "0%",
-            "textCase": "{text-case.none}",
-            "fontSize": "40px"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "nav-menu": {
-      "mobile": {
-        "tab": {
-          "value": "{text.sm-strong}",
-          "type": "typography"
-        }
-      }
-    }
-  },
   "Toggle-button": {
     "normal": {
       "value": "{text.md}",
@@ -3059,11 +3034,6 @@
       "description": "contextual.lootboxes.coefficient"
     },
     "hover": {
-      "value": "{text.md-stronger}",
-      "type": "typography",
-      "description": "contextual.lootboxes.coefficient"
-    },
-    "active": {
       "value": "{text.md-stronger}",
       "type": "typography",
       "description": "contextual.lootboxes.coefficient"

@@ -3522,13 +3522,6 @@
             "description": "Tiket"
           }
         },
-        "border": {
-          "default": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
         "fill": {
           "gold": {
             "value": "{core.additionals.gold}",
@@ -3574,23 +3567,11 @@
       },
       "prize": {
         "gold-winning": {
-          "fill": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "status-inactive"
-          },
           "text": {
             "value": "{core.additionals.gold}",
             "type": "color",
             "description": "status-inactive"
           }
-        }
-      },
-      "inner-page": {
-        "fill": {
-          "value": "{core.grey.800}",
-          "type": "color",
-          "description": "status-inactive"
         }
       },
       "cart": {
@@ -3616,20 +3597,6 @@
       }
     },
     "news": {
-      "inner-page": {
-        "fill": {
-          "value": "{core.grey.800}",
-          "type": "color",
-          "description": "status-inactive"
-        }
-      },
-      "banner": {
-        "fill": {
-          "value": "{core.brand-60.800}",
-          "type": "color",
-          "description": "status-inactive"
-        }
-      },
       "card": {
         "fill": {
           "value": "{core.grey.700}",
@@ -3641,25 +3608,9 @@
           "type": "color",
           "description": "status-inactive"
         }
-      },
-      "welcome-bonus": {
-        "fill": {
-          "value": "{core.grey.700}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        }
       }
     },
     "shop": {
-      "banner": {
-        "fill": {
-          "value": "{core.brand-60.800}",
-          "type": "color"
-        }
-      },
       "cost-indicator": {
         "text&icon": {
           "value": "{core.brand-10.400}",
@@ -3682,12 +3633,6 @@
       }
     },
     "thumb-games": {
-      "label": {
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
       "empty": {
         "fill": {
           "value": "{core.grey.500}",
@@ -3696,10 +3641,6 @@
       },
       "overlay": {
         "value": "{core.grey.a60}",
-        "type": "color"
-      },
-      "icon": {
-        "value": "{core.white.a100}",
         "type": "color"
       },
       "show-more": {
@@ -3714,16 +3655,6 @@
           },
           "content": {
             "value": "{core.white.a100}",
-            "type": "color"
-          }
-        },
-        "card": {
-          "border": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          },
-          "content": {
-            "value": "{core.brand-10.500}",
             "type": "color"
           }
         }
@@ -3769,36 +3700,10 @@
           "value": "{core.white.a100}",
           "type": "color"
         },
-        "special": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
         "background": {
           "fill": {
-            "default": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
             "special": {
               "value": "{core.brand-10.500}",
-              "type": "color"
-            }
-          },
-          "border": {
-            "default": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
-            "special": {
-              "value": "{core.white.a10}",
               "type": "color"
             }
           }
@@ -3811,16 +3716,6 @@
         },
         "active": {
           "value": "{core.brand-10.400}",
-          "type": "color"
-        },
-        "special": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        }
-      },
-      "elipse": {
-        "default": {
-          "value": "{core.white.a0}",
           "type": "color"
         },
         "special": {
@@ -3870,10 +3765,6 @@
       }
     },
     "welcome-bonus": {
-      "background": {
-        "value": "{core.white.a100}",
-        "type": "color"
-      },
       "progress": {
         "steps": {
           "steps": {
@@ -3886,16 +3777,6 @@
               "type": "color"
             }
           }
-        }
-      },
-      "stories": {
-        "fill": {
-          "value": "linear-gradient(120deg, {core.brand-10.800} 12.67%, {core.brand-10.900}  86.96%)",
-          "type": "color"
-        },
-        "border": {
-          "value": "linear-gradient(120deg, {core.brand-10.400} 12.67%, {core.brand-10.600}  86.96%)",
-          "type": "color"
         }
       }
     },
@@ -4047,10 +3928,6 @@
           "default": {
             "value": "{core.white.a0}",
             "type": "color"
-          },
-          "hover": {
-            "value": "{core.white.a0}",
-            "type": "color"
           }
         }
       }
@@ -4129,57 +4006,6 @@
           "value": "{core.brand-preset.sport.7}",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        }
-      },
-      "third": {
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        }
-      },
-      "fifth": {
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        }
-      },
-      "fourth": {
-        "fill": {
-          "value": "linear-gradient(225deg, {core.brand-30.500} 0%, {core.brand-10.500} 100%)",
-          "type": "color",
-          "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
         }
       }
     },
@@ -4206,28 +4032,6 @@
             "value": "{core.brand-preset.validation.info}",
             "type": "color"
           }
-        },
-        "normal": {
-          "success": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{core.grey.600}",
-            "type": "color"
-          },
-          "warning": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "error": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "info": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
         }
       },
       "fill": {
@@ -4252,24 +4056,6 @@
             "value": "{core.validation.info.a10}",
             "type": "color"
           }
-        },
-        "normal": {
-          "success": {
-            "value": "{core.validation.success.500}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{core.brand-60.100}",
-            "type": "color"
-          },
-          "warning": {
-            "value": "{core.validation.warning.500}",
-            "type": "color"
-          },
-          "error": {
-            "value": "{core.validation.danger.500}",
-            "type": "color"
-          }
         }
       }
     },
@@ -4278,28 +4064,6 @@
         "value": "{core.brand-10.500}",
         "type": "color",
         "description": "Loader default color"
-      },
-      "button": {
-        "value": "{core.grey.800}",
-        "type": "color",
-        "description": "Loader button color"
-      },
-      "dark": {
-        "value": "{core.white.a100}",
-        "type": "color",
-        "description": "Loader dark color"
-      }
-    },
-    "skeleton": {
-      "gr-1": {
-        "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a5} 50%, {core.white.a0} 100%)",
-        "type": "color",
-        "description": "Skeleton gradient stop 1"
-      },
-      "gr-2": {
-        "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a20} 50%, {core.white.a0} 100%);",
-        "type": "color",
-        "description": "Skeleton gradient stop 2"
       }
     },
     "menu-item": {
@@ -4340,24 +4104,6 @@
           "value": "{core.grey.700}",
           "type": "color"
         }
-      },
-      "border": {
-        "default": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        }
       }
     },
     "toggle-button": {
@@ -4365,11 +4111,6 @@
         "fill": {
           "hover": {
             "value": "{core.brand-60.500}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{core.brand-60.600}",
             "type": "color",
             "description": "Toggle-button"
           }
