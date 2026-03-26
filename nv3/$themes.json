@@ -1735,6 +1735,7 @@
       "cascade.default_dark": "enabled",
       "cascade.base_dark": "enabled"
     },
-    "group": "cascade"
+    "group": "cascade",
+    "$figmaVariableReferences": {}
   }
 ]

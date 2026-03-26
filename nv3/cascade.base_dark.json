@@ -3065,10 +3065,6 @@
   "homepage": {
     "banner": {
       "title": {
-        "mob": {
-          "value": "{heading.lg}",
-          "type": "typography"
-        },
         "web": {
           "value": {
             "fontFamily": "{accent}",
