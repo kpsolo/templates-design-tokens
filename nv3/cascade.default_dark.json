@@ -2649,21 +2649,9 @@
           }
         },
         "background": {
-          "inactive": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
           "active": {
             "value": "linear-gradient(180deg, {core.brand-10.500} 0%, {core.brand-30.600} 100%)",
             "type": "color"
-          }
-        },
-        "widget": {
-          "text": {
-            "accent": {
-              "value": "{core.brand-30.500}",
-              "type": "color"
-            }
           }
         },
         "tabs": {
@@ -2673,10 +2661,6 @@
           },
           "border": {
             "active": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
-            "inactive": {
               "value": "{core.white.a0}",
               "type": "color"
             }
@@ -2699,10 +2683,6 @@
             "active": {
               "value": "{core.white.a100}",
               "type": "color"
-            },
-            "inactive": {
-              "value": "{core.white.a0}",
-              "type": "color"
             }
           }
         },
@@ -2711,24 +2691,6 @@
             "value": "{semantic.text.default.heading}",
             "type": "color"
           }
-        }
-      },
-      "timer": {
-        "number-cell": {
-          "fill-light": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          },
-          "text": {
-            "active-light": {
-              "value": "{core.brand-60.800}",
-              "type": "color"
-            }
-          }
-        },
-        "background": {
-          "value": "{core.white.a10}",
-          "type": "color"
         }
       },
       "bonus-card": {
@@ -2807,14 +2769,6 @@
           "type": "color"
         }
       },
-      "thumb-providers": {
-        "background": {
-          "fill": {
-            "value": "{core.brand-60.50}",
-            "type": "color"
-          }
-        }
-      },
       "status-widget": {
         "background": {
           "fill": {
@@ -2827,28 +2781,10 @@
           }
         }
       },
-      "collection": {
-        "background": {
-          "background-card": {
-            "value": "{core.brand-60.800}",
-            "type": "color"
-          }
-        }
-      },
       "slider": {
         "payment-block": {
           "background": {
             "value": "{core.brand-10.a60}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-10.200}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "main-text": {
-            "value": "{core.brand-30.300}",
             "type": "color"
           }
         }
@@ -2870,18 +2806,10 @@
               "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.400} 100%)",
               "type": "color"
             }
-          },
-          "ellipse": {
-            "value": "{core.white.a100}",
-            "type": "color"
           }
         }
       },
       "winning-now": {
-        "background": {
-          "value": "{core.brand-60.900}",
-          "type": "color"
-        },
         "item": {
           "background": {
             "default": {
@@ -2892,14 +2820,6 @@
               "value": "{core.grey.600}",
               "type": "color"
             }
-          }
-        }
-      },
-      "banner": {
-        "background": {
-          "1": {
-            "value": "linear-gradient(58deg, {core.brand-10.500} 0%, rgba(58, 110, 254, 0.00) 20%)",
-            "type": "color"
           }
         }
       }
@@ -2958,14 +2878,6 @@
     },
     "referal": {
       "step": {
-        "fill": {
-          "value": "linear-gradient(90deg, {core.brand-30.100} 0%, {core.white.a100} 100%)",
-          "type": "color"
-        },
-        "line": {
-          "value": "{core.grey.200}",
-          "type": "color"
-        },
         "text": {
           "value": "{semantic.text.default.heading}",
           "type": "color"
@@ -2975,18 +2887,6 @@
         "fill": {
           "value": "{core.white.a100}",
           "type": "color"
-        }
-      },
-      "banner": {
-        "fill": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "text": {
-          "accent": {
-            "value": "{core.brand-30.500}",
-            "type": "color"
-          }
         }
       }
     },
@@ -3024,20 +2924,6 @@
             },
             "secondary": {
               "value": "{semantic.text.default.secondary}",
-              "type": "color"
-            }
-          },
-          "indicator": {
-            "error": {
-              "value": "{core.validation.danger.a10}",
-              "type": "color"
-            },
-            "success": {
-              "value": "{core.validation.success.a10}",
-              "type": "color"
-            },
-            "progress": {
-              "value": "{core.brand-10.a10}",
               "type": "color"
             }
           },
@@ -3197,59 +3083,9 @@
         "description": "Segment Control"
       },
       "item": {
-        "fill": {
-          "default": {
-            "value": "{core.white.a0}",
-            "type": "color",
-            "description": "Segment Control"
-          },
-          "hover": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "Segment Control"
-          },
-          "active": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "Segment Control"
-          }
-        },
         "border": {
           "default": {
             "value": "{core.grey.a0}",
-            "type": "color",
-            "description": "Segment Control"
-          },
-          "hover": {
-            "value": "{core.grey.50}",
-            "type": "color",
-            "description": "Segment Control"
-          },
-          "active": {
-            "value": "{core.grey.100}",
-            "type": "color",
-            "description": "Segment Control"
-          }
-        }
-      },
-      "tabs": {
-        "popup": {
-          "item": {
-            "fill": {
-              "default": {
-                "value": "{core.white.a0}",
-                "type": "color",
-                "description": "Segment Control"
-              },
-              "active": {
-                "value": "{core.grey.100}",
-                "type": "color",
-                "description": "Segment Control"
-              }
-            }
-          },
-          "fill": {
-            "value": "{core.grey.50}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -3259,10 +3095,6 @@
     "popup": {
       "fill": {
         "value": "{core.grey.700}",
-        "type": "color"
-      },
-      "overlay": {
-        "value": "{core.white.a70}",
         "type": "color"
       },
       "slate": {
@@ -3356,14 +3188,6 @@
             "active": {
               "value": "{core.white.a100}",
               "type": "color"
-            },
-            "hover": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.white.a0}",
-              "type": "color"
             }
           },
           "icon": {
@@ -3387,20 +3211,6 @@
               "value": "{core.grey.100}",
               "type": "color"
             },
-            "active": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.brand-30.100}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.grey.600}",
-              "type": "color"
-            }
-          },
-          "icon": {
             "active": {
               "value": "{core.white.a100}",
               "type": "color"
@@ -3447,14 +3257,6 @@
               "value": "{core.white.a0}",
               "type": "color"
             }
-          }
-        }
-      },
-      "general": {
-        "fill": {
-          "active": {
-            "value": "{core.grey.500}",
-            "type": "color"
           }
         }
       }
