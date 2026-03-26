@@ -670,14 +670,6 @@
         }
       }
     },
-    "balance": {
-      "item": {
-        "fill": {
-          "value": "{core.grey.50a50}",
-          "type": "color"
-        }
-      }
-    },
     "wheel": {
       "sector": {
         "fill": {
@@ -777,32 +769,6 @@
         "divider": {
           "value": "{core.grey.a20}",
           "type": "color"
-        },
-        "multiplier": {
-          "fill": {
-            "normal": {
-              "value": "{core.brand-60.a30}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-60.500}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "normal": {
-              "value": "{contextual.button.secondary.text.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{contextual.toggle-button.card.text.hover}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{contextual.button.secondary.text.active}",
-              "type": "color"
-            }
-          }
         },
         "vip-bet-amount": {
           "fill": {
@@ -927,25 +893,7 @@
             "type": "color"
           }
         },
-        "text": {
-          "progress": {
-            "value": "{semantic.text.warning.default}",
-            "type": "color"
-          },
-          "activation": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "received": {
-            "value": "{semantic.text.success.default}",
-            "type": "color"
-          }
-        },
         "border": {
-          "progress": {
-            "value": "{core.validation.warning.600a30}",
-            "type": "color"
-          },
           "received": {
             "value": "{core.white.a0}",
             "type": "color"
@@ -1034,23 +982,9 @@
       }
     },
     "mobile-application": {
-      "reviews": {
-        "fill": {
-          "value": "{core.brand-60.a10}",
-          "type": "color"
-        },
-        "border": {
-          "value": "linear-gradient(177deg, {core.brand-60.a15} 3%, {core.brand-60.a0} 98%)",
-          "type": "color"
-        }
-      },
       "switcher": {
         "fill": {
           "value": "{core.grey.600}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.grey.a10}",
           "type": "color"
         },
         "switcher-button": {
@@ -1089,10 +1023,6 @@
         }
       },
       "overlay": {
-        "upper": {
-          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.700} 100%)",
-          "type": "color"
-        },
         "bottom": {
           "value": "{core.grey.700}",
           "type": "color"
@@ -1497,10 +1427,6 @@
       "overlay": {
         "value": "{core.grey.a30}",
         "type": "color"
-      },
-      "background": {
-        "value": "{contextual.content.fill}",
-        "type": "color"
       }
     },
     "cashbox": {
@@ -1511,10 +1437,6 @@
         },
         "border": {
           "value": "{core.brand-30.300}",
-          "type": "color"
-        },
-        "elipse": {
-          "value": "{core.brand-60.a25}",
           "type": "color"
         },
         "text": {
@@ -1746,10 +1668,6 @@
         },
         "gold": {
           "value": "{core.additionals.gold}",
-          "type": "color"
-        },
-        "small": {
-          "value": "{semantic.icon.default.primary}",
           "type": "color"
         }
       },
@@ -2237,10 +2155,6 @@
         "hover": {
           "value": "{semantic.text.default.primary}",
           "type": "color"
-        },
-        "disabled": {
-          "value": "{semantic.text.disabled.primary}",
-          "type": "color"
         }
       },
       "fill": {
@@ -2250,10 +2164,6 @@
         },
         "hover": {
           "value": "{core.brand-10.a10}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{contextual.tag.fill.default}",
           "type": "color"
         }
       },
@@ -5176,10 +5086,6 @@
           "value": "{core.brand-60.a10}",
           "type": "color"
         },
-        "filled": {
-          "value": "{core.brand-60.a10}",
-          "type": "color"
-        },
         "hover": {
           "value": "{core.brand-30.100}",
           "type": "color"
@@ -5278,11 +5184,6 @@
               "value": "{semantic.text.brand.primary}",
               "type": "color",
               "description": "emphasizing"
-            },
-            "secondary": {
-              "value": "{semantic.text.brand.secondary}",
-              "type": "color",
-              "description": "emphasizing"
             }
           },
           "static": {
@@ -5363,10 +5264,6 @@
         "secondary": {
           "value": "{core.brand-60.a20}",
           "type": "color"
-        },
-        "accent": {
-          "value": "{core.brand-60.a50}",
-          "type": "color"
         }
       },
       "banner-cart": {
@@ -5376,10 +5273,6 @@
         },
         "secondary": {
           "value": "{core.white.a10}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{core.brand-30.a50}",
           "type": "color"
         }
       }

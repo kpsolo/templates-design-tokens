@@ -2873,11 +2873,6 @@
   },
   "semantic": {
     "gradients": {
-      "1": {
-        "value": "{core.brand-60.a30}",
-        "type": "color",
-        "description": "gradients.yellow 50"
-      },
       "2": {
         "value": "linear-gradient(103deg, {core.brand-30.a20} 2%, {core.brand-30.50} 96%)",
         "type": "color",
@@ -2926,11 +2921,6 @@
         "value": "{core.brand-60.50}",
         "type": "color",
         "description": "gradients.Black 600"
-      },
-      "12": {
-        "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-60.a10} 0%, {core.brand-60.a0} 100%)",
-        "type": "color",
-        "description": "gradients.Radial"
       }
     },
     "background": {
