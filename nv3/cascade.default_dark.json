@@ -1102,6 +1102,27 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "button": {
+        "value": [
+          {
+            "x": "3px",
+            "y": "-5px",
+            "blur": "20px",
+            "spread": "0",
+            "color": "{core.brand-10.a10}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "-3px",
+            "y": "5px",
+            "blur": "20px",
+            "spread": "0",
+            "color": "{core.brand-10.a40}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "achivments": {
@@ -2143,6 +2164,18 @@
         "border": {
           "value": "{core.grey.a10}",
           "type": "color"
+        },
+        "switcher-button": {
+          "active": {
+            "fill": {
+              "value": "{semantic.gradients.7}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{semantic.text.banner-cart.primary}",
+              "type": "color"
+            }
+          }
         }
       },
       "image-overlay": {
