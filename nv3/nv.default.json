@@ -2820,7 +2820,7 @@
           "type": "color"
         },
         "fill": {
-          "value": "linear-gradient(165deg, {core.white.a100} 3%, {core.brand-30.50a50} 83%)",
+          "value": "linear-gradient(165deg, {core.brand-60.700} 3%, {core.grey.600} 83%)",
           "type": "color"
         }
       },
