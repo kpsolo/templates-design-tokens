@@ -97,17 +97,7 @@
       }
     },
     "menu": {
-      "item": {
-        "new": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius"
-        }
-      },
       "list-prime": {
-        "small": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius"
-        },
         "large": {
           "value": "24px",
           "type": "borderRadius"
@@ -3043,21 +3033,6 @@
       "type": "dimension"
     }
   },
-  "header": {
-    "mobile": {
-      "welcome-bonus": {
-        "timer": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "11px",
-            "lineHeight": "11px"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
   "Expanded": {
     "value": "400",
     "type": "fontWeights"
@@ -3082,21 +3057,6 @@
       "mobile": {
         "tab": {
           "value": "{text.sm-strong}",
-          "type": "typography"
-        }
-      }
-    }
-  },
-  "profile": {
-    "verification": {
-      "loyalty_points": {
-        "sum": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "20px",
-            "lineHeight": "26px"
-          },
           "type": "typography"
         }
       }

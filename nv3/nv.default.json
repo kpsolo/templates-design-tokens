@@ -3717,10 +3717,6 @@
             "value": "{core.brand-60.a30}",
             "type": "color"
           },
-          "hover": {
-            "value": "{contextual.filter&sort.item.fill.default}",
-            "type": "color"
-          },
           "active": {
             "value": "{core.brand-10.a10}",
             "type": "color"

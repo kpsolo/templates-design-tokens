@@ -3191,19 +3191,6 @@
         "value": "{heading.ml}",
         "type": "typography"
       }
-    },
-    "mobile": {
-      "welcome-bonus": {
-        "timer": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "11px",
-            "lineHeight": "11px"
-          },
-          "type": "typography"
-        }
-      }
     }
   },
   "Expanded": {
