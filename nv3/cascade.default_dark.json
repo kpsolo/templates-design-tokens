@@ -6213,39 +6213,6 @@
       }
     }
   },
-  "error-pages": {
-    "text": {
-      "web": {
-        "title": {
-          "value": "{heading.xl}",
-          "type": "typography",
-          "description": "Use for Error text_title (Desktop)"
-        },
-        "body": {
-          "value": "{text.lg-strong}",
-          "type": "typography",
-          "description": "Use for Error text_body (Desktop)"
-        }
-      },
-      "thumbs-title": {
-        "value": "{heading.md}",
-        "type": "typography",
-        "description": "Use for Error-thumbsʼ section title"
-      },
-      "mob": {
-        "title": {
-          "value": "{heading.md}",
-          "type": "typography",
-          "description": "Use for Error text_title (Mobile)"
-        },
-        "body": {
-          "value": "{text.lg-strong}",
-          "type": "typography",
-          "description": "Use for Error text_body (Mobile)"
-        }
-      }
-    }
-  },
   "semantic": {
     "icon": {
       "static": {
@@ -7337,6 +7304,18 @@
         "fontFamily": "{main}",
         "fontWeight": "{Medium}",
         "fontSize": "9px",
+        "lineHeight": "9px",
+        "letterSpacing": "3%"
+      },
+      "type": "typography"
+    }
+  },
+  "welcome-bonus": {
+    "tabs": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Medium}",
+        "fontSize": "10px",
         "lineHeight": "9px",
         "letterSpacing": "3%"
       },
