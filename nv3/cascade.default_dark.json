@@ -975,7 +975,7 @@
       "first-block": {
         "fill": {
           "secondary": {
-            "value": "{core.white.a80}",
+            "value": "{core.brand-60.a25}",
             "type": "color"
           }
         }
