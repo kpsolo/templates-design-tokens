@@ -3486,5 +3486,19 @@
   "base": {
     "value": "16px",
     "type": "fontSizes"
+  },
+  "contextual": {
+    "verification": {
+      "verification-status": {
+        "check": {
+          "text": {
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
   }
 }

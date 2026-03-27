@@ -814,6 +814,10 @@
             "default": {
               "value": "{core.validation.success.500}",
               "type": "color"
+            },
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
             }
           }
         },
@@ -4084,7 +4088,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-9}",
-        "lineHeight": "{xxl}",
+        "lineHeight": "48",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
       },
