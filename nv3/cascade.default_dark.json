@@ -827,6 +827,12 @@
               "value": "{semantic.background.5}",
               "type": "color"
             }
+          },
+          "text": {
+            "default": {
+              "value": "{core.brand-preset.validation.info}",
+              "type": "color"
+            }
           }
         }
       }
@@ -3764,6 +3770,27 @@
             "value": "{contextual.button.secondary.text.active}",
             "type": "color",
             "description": "Toggle-button"
+          }
+        }
+      }
+    },
+    "upload-files": {
+      "drag&drop": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.a5}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{contextual.lottery-tournament.ticket.background.border}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.tertiary}",
+            "type": "color",
+            "description": "Use for text in drag&drop like: File format, etc."
           }
         }
       }
