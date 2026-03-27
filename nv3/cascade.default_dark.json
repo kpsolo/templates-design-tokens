@@ -3887,6 +3887,10 @@
         "active": {
           "value": "{core.brand-10.300}",
           "type": "color"
+        },
+        "default": {
+          "value": "{semantic.icon.default.tertiary}",
+          "type": "color"
         }
       },
       "fill": {
