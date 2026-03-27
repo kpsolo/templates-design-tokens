@@ -4047,6 +4047,10 @@
     "value": "{base} * 2",
     "type": "fontSizes"
   },
+  "scale-9": {
+    "value": "{base} * 2.5",
+    "type": "fontSizes"
+  },
   "xs": {
     "value": "14px",
     "type": "lineHeights"
@@ -4315,6 +4319,17 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-8}",
+        "lineHeight": "{xxl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "xxxl": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-9}",
         "lineHeight": "{xxl}",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
