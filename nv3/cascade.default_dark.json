@@ -6342,6 +6342,100 @@
         ],
         "type": "boxShadow"
       }
+    },
+    "semantic": {
+      "drop": {
+        "dark-5": {
+          "value": {
+            "x": "0",
+            "y": "2",
+            "blur": "12",
+            "spread": "0",
+            "color": "rgba(0,0,0,0.05)",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "dark-10": {
+          "value": {
+            "x": "0",
+            "y": "2",
+            "blur": "12",
+            "spread": "0",
+            "color": "rgba(0,0,0,0.1)",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "accent-25": {
+          "value": {
+            "x": "0",
+            "y": "2",
+            "blur": "12",
+            "spread": "0",
+            "color": "{core.brand-10.a25}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "secondary-30": {
+          "value": {
+            "x": "0",
+            "y": "2",
+            "blur": "12",
+            "spread": "0",
+            "color": "{core.brand-30.500a30}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "placeholder": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "0",
+            "color": "rgba(0,0,0,0)",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "inner": {
+        "white": {
+          "value": {
+            "x": "0",
+            "y": "-1",
+            "blur": "3",
+            "spread": "0",
+            "color": "{core.white.a50}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "accent-60": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "14",
+            "spread": "0",
+            "color": "{core.brand-10.a60}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "placeholder": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "0",
+            "color": "rgba(0,0,0,0)",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
     }
   }
 }
