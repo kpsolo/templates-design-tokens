@@ -3843,11 +3843,11 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{core.grey.700}",
+            "value": "{core.grey.a20}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.50}",
+            "value": "{contextual.input.fill.primary.default}",
             "type": "color"
           }
         },
@@ -3880,7 +3880,7 @@
       },
       "border-color": {
         "default": {
-          "value": "{core.grey.600}",
+          "value": "{core.brand-60.a30}",
           "type": "color"
         },
         "hover": {
@@ -3896,7 +3896,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.grey.a10}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         }
       },
@@ -4185,7 +4185,7 @@
       },
       "border": {
         "default": {
-          "value": "{core.brand-10.400}",
+          "value": "{core.brand-60.a30}",
           "type": "color"
         },
         "hover": {
@@ -5213,7 +5213,7 @@
         "type": "color"
       },
       "bottom-fill": {
-        "value": "{core.white.a8}",
+        "value": "{contextual.datepicker.fill}",
         "type": "color"
       },
       "border": {
@@ -7323,7 +7323,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.200}",
+          "value": "{core.grey.300}",
           "type": "color"
         }
       },
@@ -7351,7 +7351,7 @@
       },
       "disabled": {
         "primary": {
-          "value": "{core.grey.a30}",
+          "value": "{core.white.a30}",
           "type": "color"
         },
         "brand": {
