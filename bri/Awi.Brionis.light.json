@@ -5256,12 +5256,6 @@
           }
         }
       },
-      "week-day": {
-        "text": {
-          "value": "{semantic.icon.default.primary}",
-          "type": "color"
-        }
-      },
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"

@@ -3613,7 +3613,7 @@
     "accordion": {
       "background": {
         "fill": {
-          "value": "{semantic.background.5}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         }
       },
@@ -5208,14 +5208,8 @@
           }
         }
       },
-      "week-day": {
-        "text": {
-          "value": "{semantic.icon.default.primary}",
-          "type": "color"
-        }
-      },
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.700}",
         "type": "color"
       },
       "bottom-fill": {
@@ -5365,7 +5359,7 @@
     },
     "popup": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.700}",
         "type": "color"
       },
       "overlay": {
@@ -7325,11 +7319,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.50}",
+          "value": "{core.grey.100}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.white.a70}",
+          "value": "{core.grey.200}",
           "type": "color"
         }
       },
