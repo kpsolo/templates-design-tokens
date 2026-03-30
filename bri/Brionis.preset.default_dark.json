@@ -1287,7 +1287,7 @@
         "description": "replacement.sand 300 (15%)\n"
       },
       "a20": {
-        "value": "{core.brand-60.300}",
+        "value": "{contextual.selection-controls.controls.radio-button.fill.unselected.default}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {

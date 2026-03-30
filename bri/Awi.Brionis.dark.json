@@ -4318,7 +4318,7 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{core.white.a100}",
+                "value": "{contextual.selection-controls.controls.radio-button.fill.unselected.default}",
                 "type": "color"
               },
               "disabled": {
@@ -4406,11 +4406,11 @@
             },
             "unselected": {
               "default": {
-                "value": "{core.white.a100}",
+                "value": "{core.brand-60.a15}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.white.a100}",
+                "value": "{core.brand-60.a15}",
                 "type": "color"
               },
               "disabled": {
@@ -4498,7 +4498,7 @@
             },
             "unselected": {
               "default": {
-                "value": "{core.grey.100}",
+                "value": "{contextual.selection-controls.controls.radio-button.fill.unselected.default}",
                 "type": "color"
               },
               "hover": {
