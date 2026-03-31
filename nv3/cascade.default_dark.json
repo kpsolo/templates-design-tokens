@@ -4353,21 +4353,21 @@
       "default": {
         "text": {
           "primary": {
-            "value": "{core.validation.info.500}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.validation.info.600}",
+            "value": "{core.grey.900}",
             "type": "color"
           }
         },
         "bg": {
           "secondary": {
-            "value": "{core.validation.info.a10}",
+            "value": "{core.white.a10}",
             "type": "color"
           },
           "primary": {
-            "value": "{core.validation.info.500}",
+            "value": "{core.brand-60.100}",
             "type": "color"
           }
         },
