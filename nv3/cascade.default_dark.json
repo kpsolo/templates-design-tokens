@@ -4235,7 +4235,7 @@
         },
         "bg": {
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.warning.a10}",
             "type": "color"
           },
           "primary": {
@@ -4257,31 +4257,31 @@
       "success": {
         "text": {
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           }
         },
         "bg": {
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.success.a10}",
             "type": "color"
           },
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           }
         },
         "icon": {
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           },
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           }
         }
@@ -4289,31 +4289,31 @@
       "error": {
         "text": {
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.danger.500}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.danger.500}",
             "type": "color"
           }
         },
         "bg": {
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.danger.500}",
             "type": "color"
           },
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.danger.a10}",
             "type": "color"
           }
         },
         "icon": {
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.danger.500}",
             "type": "color"
           },
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.danger.500}",
             "type": "color"
           }
         }
@@ -4321,31 +4321,63 @@
       "info": {
         "text": {
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.info.500}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.info.600}",
             "type": "color"
           }
         },
         "bg": {
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.info.a10}",
             "type": "color"
           },
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.info.500}",
             "type": "color"
           }
         },
         "icon": {
           "secondary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.info.500}",
             "type": "color"
           },
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.info.600}",
+            "type": "color"
+          }
+        }
+      },
+      "default": {
+        "text": {
+          "primary": {
+            "value": "{core.validation.info.500}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.validation.info.600}",
+            "type": "color"
+          }
+        },
+        "bg": {
+          "secondary": {
+            "value": "{core.validation.info.a10}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{core.validation.info.500}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "secondary": {
+            "value": "{core.validation.info.500}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{core.validation.info.600}",
             "type": "color"
           }
         }
