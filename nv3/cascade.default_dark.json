@@ -2639,6 +2639,10 @@
         "text": {
           "value": "{semantic.text.default.heading}",
           "type": "color"
+        },
+        "fill": {
+          "value": "linear-gradient(90deg, {core.brand-60.a40} 0%, {core.grey.600} 100%)",
+          "type": "color"
         }
       },
       "inner-pafe": {
