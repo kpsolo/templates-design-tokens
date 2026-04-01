@@ -2103,15 +2103,15 @@
       "secondary": {
         "fill": {
           "default": {
-            "value": "{core.brand-60.a50}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-60.a70}",
+            "value": "{core.brand-60.300}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-60.a70}",
+            "value": "{contextual.button.secondary.fill.default}",
             "type": "color"
           },
           "disabled": {
