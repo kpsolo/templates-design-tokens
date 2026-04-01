@@ -4234,12 +4234,12 @@
           }
         },
         "bg": {
-          "secondary": {
-            "value": "{core.validation.warning.a10}",
-            "type": "color"
-          },
           "primary": {
             "value": "{core.validation.warning.500}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.validation.warning.a10}",
             "type": "color"
           }
         },
@@ -4262,12 +4262,12 @@
           }
         },
         "bg": {
-          "secondary": {
-            "value": "{core.validation.success.a10}",
+          "primary": {
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
-          "primary": {
-            "value": "{core.validation.success.500}",
+          "secondary": {
+            "value": "{core.validation.success.a10}",
             "type": "color"
           }
         },
