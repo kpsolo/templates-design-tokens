@@ -3025,7 +3025,7 @@
   "header": {
     "desctop": {
       "menu-items": {
-        "value": "{heading.ml}",
+        "value": "{heading.sm}",
         "type": "typography"
       }
     },
@@ -3055,7 +3055,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.xxl-stronger}",
+          "value": "{heading.xxxl}",
           "type": "typography"
         }
       }
@@ -3063,7 +3063,7 @@
     "banner": {
       "title": {
         "mob": {
-          "value": "{heading.lg-stronger}",
+          "value": "{heading.lg}",
           "type": "typography"
         },
         "web": {
@@ -3330,7 +3330,7 @@
   "achivments": {
     "offers-block": {
       "title": {
-        "value": "{heading.lg-stronger}",
+        "value": "{heading.lg}",
         "type": "typography"
       }
     }

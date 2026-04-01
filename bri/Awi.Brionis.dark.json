@@ -7162,13 +7162,13 @@
         }
       },
       "thumbs-title": {
-        "value": "{heading.ml}",
+        "value": "{heading.sm}",
         "type": "typography",
         "description": "Use for Error-thumbsʼ section title"
       },
       "mob": {
         "title": {
-          "value": "{heading.ml}",
+          "value": "{heading.sm}",
           "type": "typography",
           "description": "Use for Error text_title (Mobile)"
         },
@@ -8024,7 +8024,7 @@
   "header": {
     "desctop": {
       "menu-items": {
-        "value": "{heading.ml}",
+        "value": "{heading.sm}",
         "type": "typography"
       }
     }
@@ -8347,7 +8347,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.lg-stronger}",
+          "value": "{heading.lg}",
           "type": "typography"
         }
       },
@@ -8699,9 +8699,17 @@
   "achivments": {
     "offers-block": {
       "title": {
-        "value": "{heading.lg-stronger}",
+        "value": "{heading.lg}",
         "type": "typography"
       }
     }
+  },
+  "scale-4-5": {
+    "value": "{base}*1.125",
+    "type": "fontSizes"
+  },
+  "scale-9": {
+    "value": "{base} * 2.5",
+    "type": "fontSizes"
   }
 }

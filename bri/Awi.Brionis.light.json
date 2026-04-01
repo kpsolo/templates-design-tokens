@@ -6808,6 +6808,10 @@
     "value": "{base}",
     "type": "fontSizes"
   },
+  "scale-4-5": {
+    "value": "{base}*1.125",
+    "type": "fontSizes"
+  },
   "scale-5": {
     "value": "{base} * 1.25",
     "type": "fontSizes"
@@ -6822,6 +6826,10 @@
   },
   "scale-8": {
     "value": "{base} * 2",
+    "type": "fontSizes"
+  },
+  "scale-9": {
+    "value": "{base} * 2.5",
     "type": "fontSizes"
   },
   "xs": {
@@ -7057,18 +7065,7 @@
     }
   },
   "heading": {
-    "ml": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "{lg}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "small": {
+    "xs": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -7079,18 +7076,29 @@
       },
       "type": "typography"
     },
-    "lg-strong": {
+    "sm": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{scale-6}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-4-5}",
         "lineHeight": "{lg}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "md": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{ml}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
-    "lg-stronger": {
+    "lg": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -7104,7 +7112,7 @@
     "xl": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
         "textCase": "{text-case.none}",
@@ -7112,32 +7120,10 @@
       },
       "type": "typography"
     },
-    "xl-strong": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "xl-stronger": {
+    "xxl": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "xxl-strong": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
         "letterSpacing": "0%",
@@ -7145,12 +7131,12 @@
       },
       "type": "typography"
     },
-    "xxl-stronger": {
+    "xxxl": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
+        "fontSize": "{scale-9}",
+        "lineHeight": "48px",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
       },
@@ -7206,13 +7192,13 @@
         }
       },
       "thumbs-title": {
-        "value": "{heading.ml}",
+        "value": "{heading.sm}",
         "type": "typography",
         "description": "Use for Error-thumbsʼ section title"
       },
       "mob": {
         "title": {
-          "value": "{heading.ml}",
+          "value": "{heading.sm}",
           "type": "typography",
           "description": "Use for Error text_title (Mobile)"
         },
@@ -8068,7 +8054,7 @@
   "header": {
     "desctop": {
       "menu-items": {
-        "value": "{heading.ml}",
+        "value": "{heading.sm}",
         "type": "typography"
       }
     }
@@ -8391,7 +8377,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.lg-stronger}",
+          "value": "{heading.lg}",
           "type": "typography"
         }
       },
@@ -8724,7 +8710,7 @@
   "achivments": {
     "offers-block": {
       "title": {
-        "value": "{heading.lg-stronger}",
+        "value": "{heading.lg}",
         "type": "typography"
       }
     }
