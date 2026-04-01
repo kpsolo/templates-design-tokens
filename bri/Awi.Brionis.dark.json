@@ -2993,7 +2993,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.500}",
         "type": "color"
       },
       "popover-action": {
@@ -4240,7 +4240,7 @@
           "border": {
             "selected": {
               "default": {
-                "value": "{core.white.a0}",
+                "value": "{contextual.selection-controls.controls.checkbox.border.unselected.default}",
                 "type": "color"
               },
               "hover": {
@@ -4300,7 +4300,7 @@
           "fill": {
             "selected": {
               "default": {
-                "value": "{core.brand-10.500}",
+                "value": "{core.brand-60.a20}",
                 "type": "color"
               },
               "hover": {
@@ -5227,7 +5227,7 @@
     },
     "tooltip": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.600}",
         "type": "color"
       },
       "text": {
@@ -5975,7 +5975,7 @@
     },
     "tab-bar": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.500}",
         "type": "color"
       },
       "text": {
@@ -6067,7 +6067,7 @@
     },
     "sticky-notifications": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.500}",
         "type": "color"
       },
       "text": {
@@ -6608,7 +6608,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{core.grey.25}",
+          "value": "{core.grey.500}",
           "type": "color"
         },
         "active": {
@@ -6616,7 +6616,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.grey.25}",
+          "value": "{core.white.a15}",
           "type": "color"
         }
       },
