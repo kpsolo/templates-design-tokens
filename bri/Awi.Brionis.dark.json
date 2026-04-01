@@ -7010,6 +7010,15 @@
     "stronger": {
       "value": "{Bold}",
       "type": "fontWeights"
+    },
+    "lg-ыекщтп": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Semibold}",
+        "fontSize": "{scale-4}",
+        "lineHeight": "{blur.profile.header}"
+      },
+      "type": "typography"
     }
   },
   "heading": {
