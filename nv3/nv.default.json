@@ -7063,7 +7063,7 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-5}",
+        "fontSize": "{scale-4}",
         "lineHeight": "{ml}"
       },
       "type": "typography"

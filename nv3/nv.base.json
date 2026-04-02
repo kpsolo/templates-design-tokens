@@ -240,8 +240,8 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "{ml}"
+        "fontSize": "{scale-4}",
+        "lineHeight": "{blur.slate-on-card}"
       },
       "type": "typography"
     },
