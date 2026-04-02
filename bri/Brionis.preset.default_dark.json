@@ -632,7 +632,7 @@
         "description": "basic.sand 1100"
       },
       "900": {
-        "value": "{core.brand-preset.grey}",
+        "value": "{core.grey.400}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2759,7 +2759,7 @@
         "type": "color"
       },
       "secondary": {
-        "value": "#427cff",
+        "value": "#6342ff",
         "type": "color"
       },
       "tertiary": {
@@ -2768,7 +2768,7 @@
         "description": "tertiary.    "
       },
       "primary": {
-        "value": "#2D42FF",
+        "value": "#386DFF",
         "type": "color"
       },
       "for-gradients": {

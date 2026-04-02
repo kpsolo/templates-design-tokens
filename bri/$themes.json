@@ -8022,7 +8022,16 @@
       "shadow.tiket.default": "S:027d1974352a69e6212d36c7d20b4f8804f66f7d,",
       "shadow.tiket.hover": "S:ee4ac525ff616d25c44dbddb45fe8020f0112abf,",
       "shadow.tiket.no-hover": "S:716777c14ff374a0ee44b19a966e5d1650ce3a60,",
-      "contextual.selection-controls.controls.radio-button.fill.unselected.validation": "S:9ee4892bae125683965004aa5d97b83913482d09,"
+      "contextual.selection-controls.controls.radio-button.fill.unselected.validation": "S:9ee4892bae125683965004aa5d97b83913482d09,",
+      "text.button.lg": "S:940a3a5479d5b5a7e2e1d920e9d6358d9eaa010f,",
+      "text.button.md": "S:76a6ef7ad5f000452bba656b088723d0c0e818e1,",
+      "text.button.sm": "S:26e5346cac332a19cd7bf697c1241603270d0c41,",
+      "heading.xs": "S:c387e091df5582b3816dda624d585547d7f07af0,",
+      "heading.sm": "S:36b24159f3d0ce905565b8a13752a2d96c28efdb,",
+      "heading.md": "S:0702676b791f6e72ee8127c76076b0fcb118614e,",
+      "heading.lg": "S:9acab0aa94316664afa298f05c5070db12609569,",
+      "heading.xxl": "S:51abcef867d36ba7537bfe36ac1090ca398d2b76,",
+      "heading.xxxl": "S:4c16e60007c6d5a57a4b0ea0314cd4bae21e7d70,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_dark": "enabled",
@@ -8283,7 +8292,9 @@
       "border-radius.header.general": "0b557188edea710f6a86128639d6671e8b473f97",
       "border-radius.header.desktop.special-menu-item": "9b5e56ea905d0ebb77c3b01ce0ec81a6dc0b5c4a",
       "blur.homepage.nav-menu": "1908a8d099dbbe9d711a1d0c6da0564c5ee83c1e",
-      "base": "1567da2fc128c91a4cc9aeb2cc528113fd86d56b"
+      "base": "1567da2fc128c91a4cc9aeb2cc528113fd86d56b",
+      "scale-4-5": "97b8d3542a99e29eb2caf5288057fd161f9fb34a",
+      "scale-9": "3067d1bb0fd11f6382cb5a319e5a41ac7b0561dd"
     }
   }
 ]

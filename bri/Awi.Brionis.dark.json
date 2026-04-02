@@ -2929,15 +2929,15 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.600}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a80}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.400}",
             "type": "color"
           }
         },
@@ -2961,7 +2961,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.a8}",
+            "value": "{core.grey.300}",
             "type": "color"
           },
           "active": {
@@ -2971,7 +2971,7 @@
         }
       },
       "fill": {
-        "value": "{core.grey.50}",
+        "value": "{core.grey.600}",
         "type": "color"
       }
     },
@@ -4112,7 +4112,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-30.200}",
             "type": "color"
           },
           "disabled": {
@@ -4130,7 +4130,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-30.200}",
             "type": "color"
           },
           "disabled": {
@@ -4802,7 +4802,7 @@
       "number-cell": {
         "fill": {
           "light": {
-            "value": "{core.white.a100}",
+            "value": "{contextual.timer.number-cell.border.light}",
             "type": "color"
           },
           "popup": {
@@ -5046,7 +5046,7 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.brand-60.50}",
+          "value": "{contextual.popup.fill}",
           "type": "color"
         },
         "divider": {
@@ -5076,7 +5076,7 @@
               "type": "color"
             },
             "tertiary": {
-              "value": "{semantic.text.default.tertiary}",
+              "value": "{contextual.menu.quick-pay.item.inform.border}",
               "type": "color"
             }
           },
@@ -5096,7 +5096,7 @@
           },
           "inform": {
             "fill": {
-              "value": "{semantic.background.5}",
+              "value": "{contextual.segment-control.item.icon.hover}",
               "type": "color"
             },
             "border": {
@@ -5251,24 +5251,24 @@
     },
     "segment-control": {
       "fill": {
-        "value": "{core.grey.50}",
+        "value": "{core.grey.600}",
         "type": "color",
         "description": "Segment Control"
       },
       "item": {
         "fill": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.600}",
             "type": "color",
             "description": "Segment Control"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.500}",
             "type": "color",
             "description": "Segment Control"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.400}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -5302,7 +5302,7 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{semantic.icon.brand.static}",
+            "value": "{contextual.segment-control.item.border.active}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -5933,7 +5933,7 @@
       "show-more": {
         "normal": {
           "fill": {
-            "value": "{core.brand-60.700}",
+            "value": "{contextual.button.secondary.fill.default}",
             "type": "color"
           },
           "border": {
