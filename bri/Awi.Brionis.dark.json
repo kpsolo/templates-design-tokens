@@ -3175,12 +3175,12 @@
       },
       "label": {
         "text": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.brand-30.100}",
           "type": "color",
           "description": "Lootboxes"
         },
         "fill": {
-          "value": "{core.brand-30.a10}",
+          "value": "{core.brand-30.600a25}",
           "type": "color",
           "description": "Lootboxes"
         }
