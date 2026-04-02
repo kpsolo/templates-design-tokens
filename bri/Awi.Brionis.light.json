@@ -6979,6 +6979,15 @@
       },
       "type": "typography"
     },
+    "lg": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "{scale-4}",
+        "lineHeight": "{lg}"
+      },
+      "type": "typography"
+    },
     "lg-stronger": {
       "value": {
         "fontFamily": "{main}",
@@ -6988,32 +6997,34 @@
       },
       "type": "typography"
     },
-    "button-large": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+    "button": {
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-4}",
+          "lineHeight": "{lg}"
+        },
+        "type": "typography"
       },
-      "type": "typography"
-    },
-    "button-medium": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+      "md": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-4}",
+          "lineHeight": "{lg}"
+        },
+        "type": "typography"
       },
-      "type": "typography"
-    },
-    "button-small": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{ml}"
-      },
-      "type": "typography"
+      "sm": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{ml}"
+        },
+        "type": "typography"
+      }
     },
     "normal": {
       "value": "{Regular}",
@@ -7138,39 +7149,6 @@
       "map": {
         "value": "1816px",
         "type": "sizing"
-      }
-    }
-  },
-  "error-pages": {
-    "text": {
-      "web": {
-        "title": {
-          "value": "{heading.xl-stronger}",
-          "type": "typography",
-          "description": "Use for Error text_title (Desktop)"
-        },
-        "body": {
-          "value": "{text.lg-strong}",
-          "type": "typography",
-          "description": "Use for Error text_body (Desktop)"
-        }
-      },
-      "thumbs-title": {
-        "value": "{heading.sm}",
-        "type": "typography",
-        "description": "Use for Error-thumbsʼ section title"
-      },
-      "mob": {
-        "title": {
-          "value": "{heading.sm}",
-          "type": "typography",
-          "description": "Use for Error text_title (Mobile)"
-        },
-        "body": {
-          "value": "{text.ml-strong}",
-          "type": "typography",
-          "description": "Use for Error text_body (Mobile)"
-        }
       }
     }
   },
