@@ -6723,7 +6723,7 @@
             "description": "Toggle-button"
           },
           "active": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.brand-30.200}",
             "type": "color",
             "description": "Toggle-button"
           }
@@ -7360,7 +7360,7 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(113deg, {core.brand-30.600} 0%, {core.brand-30.500} 48.56%, {core.brand-30.100} 100%)",
+          "value": "linear-gradient(113deg, {core.brand-30.600} 0%, {core.brand-30.500} 48.56%, {core.brand-30.400} 100%)",
           "type": "color"
         }
       },

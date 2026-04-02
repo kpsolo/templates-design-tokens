@@ -2942,7 +2942,7 @@
         "description": "not used\ngradient.Black 600\nold #060423\n"
       },
       "5": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.700}",
         "type": "color",
         "description": "menu"
       },
@@ -2961,7 +2961,7 @@
         "description": "The slate third level on main(white) background"
       },
       "slate-on-card": {
-        "value": "{core.white.a90}",
+        "value": "{core.grey.800a60}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },
