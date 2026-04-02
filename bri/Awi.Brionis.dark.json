@@ -6083,7 +6083,7 @@
     },
     "error-pages": {
       "background": {
-        "value": "{semantic.gradients.3}",
+        "value": "{core.grey.800}",
         "type": "color",
         "description": "Use for Error-pages fill background"
       },
