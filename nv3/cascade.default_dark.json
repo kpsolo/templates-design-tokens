@@ -793,28 +793,8 @@
     },
     "verification": {
       "verification-status": {
-        "time": {
-          "text": {
-            "default": {
-              "value": "{core.validation.warning.500}",
-              "type": "color"
-            }
-          }
-        },
-        "error": {
-          "text": {
-            "default": {
-              "value": "{core.validation.danger.600}",
-              "type": "color"
-            }
-          }
-        },
         "check": {
           "text": {
-            "default": {
-              "value": "{core.validation.success.500}",
-              "type": "color"
-            },
             "AI-check": {
               "value": "{core.grey.700}",
               "type": "color"
@@ -825,12 +805,6 @@
           "background": {
             "fill": {
               "value": "{semantic.background.5}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{core.brand-preset.validation.info}",
               "type": "color"
             }
           }
@@ -876,14 +850,6 @@
       }
     },
     "achivments": {
-      "status": {
-        "fill": {
-          "progress": {
-            "value": "{semantic.text.warning.default}",
-            "type": "color"
-          }
-        }
-      },
       "card": {
         "fiill": {
           "default": {
@@ -1053,24 +1019,6 @@
         }
       },
       "toast": {
-        "status": {
-          "success": {
-            "value": "{core.validation.success.500}",
-            "type": "color"
-          },
-          "warning": {
-            "value": "{core.validation.warning.500}",
-            "type": "color"
-          },
-          "error": {
-            "value": "{core.validation.danger.500}",
-            "type": "color"
-          },
-          "info": {
-            "value": "{core.brand-preset.validation.info}",
-            "type": "color"
-          }
-        },
         "icon": {
           "value": "{core.white.a100}",
           "type": "color"
@@ -1400,33 +1348,13 @@
       },
       "status": {
         "fill": {
-          "success": {
-            "value": "{core.validation.success.600}",
-            "type": "color"
-          },
           "error": {
             "value": "{core.validation.danger.600}",
-            "type": "color"
-          },
-          "pending": {
-            "value": "{core.validation.warning.600}",
-            "type": "color"
-          },
-          "on-review": {
-            "value": "{core.validation.warning.500}",
-            "type": "color"
-          },
-          "declined": {
-            "value": "{core.additionals.silver}",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "on-review": {
             "value": "{core.white.a100}",
             "type": "color"
           }
@@ -2869,17 +2797,6 @@
           "type": "color"
         }
       },
-      "validation": {
-        "danger": {
-          "value": "{semantic.text.danger.default}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{semantic.text.success.default}",
-          "type": "color",
-          "description": "core.validation.success"
-        }
-      },
       "border": {
         "value": "{core.white.a0}",
         "type": "color"
@@ -3582,48 +3499,16 @@
     "status": {
       "content": {
         "transparency": {
-          "success": {
-            "value": "{core.validation.success.600}",
-            "type": "color"
-          },
           "default": {
             "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "warning": {
-            "value": "{core.validation.warning.600}",
-            "type": "color"
-          },
-          "error": {
-            "value": "{core.validation.danger.600}",
-            "type": "color"
-          },
-          "info": {
-            "value": "{core.brand-preset.validation.info}",
             "type": "color"
           }
         }
       },
       "fill": {
         "transparency": {
-          "success": {
-            "value": "{core.validation.success.a10}",
-            "type": "color"
-          },
           "default": {
             "value": "{core.white.a10}",
-            "type": "color"
-          },
-          "warning": {
-            "value": "{core.validation.warning.a10}",
-            "type": "color"
-          },
-          "error": {
-            "value": "{core.validation.danger.a10}",
-            "type": "color"
-          },
-          "info": {
-            "value": "{core.validation.info.a10}",
             "type": "color"
           }
         }
@@ -4445,26 +4330,6 @@
         },
         "accent": {
           "value": "{core.brand-30.500}",
-          "type": "color"
-        }
-      },
-      "danger": {
-        "default": {
-          "value": "{core.validation.danger.500}",
-          "type": "color"
-        },
-        "static": {
-          "value": "{core.validation.danger.600}",
-          "type": "color"
-        }
-      },
-      "success": {
-        "default": {
-          "value": "{core.validation.success.500}",
-          "type": "color"
-        },
-        "static": {
-          "value": "{core.validation.success.500}",
           "type": "color"
         }
       },
