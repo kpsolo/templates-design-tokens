@@ -6058,6 +6058,10 @@
       "bottom-fill": {
         "value": "{core.white.a8}",
         "type": "color"
+      },
+      "border": {
+        "value": "{core.white.a0}",
+        "type": "color"
       }
     },
     "tooltip": {
