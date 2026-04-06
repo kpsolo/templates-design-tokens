@@ -6970,6 +6970,30 @@
             "type": "color"
           }
         }
+      },
+      "error": {
+        "text": {
+          "primary": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          }
+        },
+        "bg": {
+          "secondary": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{core.validation.danger.a10}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "primary": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          }
+        }
       }
     },
     "icon": {
