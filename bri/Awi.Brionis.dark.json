@@ -7686,7 +7686,7 @@
       "warning": {
         "text": {
           "primary": {
-            "value": "{core.validation.warning.500}",
+            "value": "{core.validation.warning.600}",
             "type": "color"
           }
         },
@@ -7710,7 +7710,7 @@
       "error": {
         "text": {
           "primary": {
-            "value": "{core.validation.danger.500}",
+            "value": "{core.validation.danger.600}",
             "type": "color"
           }
         },
@@ -7734,13 +7734,13 @@
       "success": {
         "text": {
           "primary": {
-            "value": "{core.validation.success.500}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           }
         },
         "bg": {
           "primary": {
-            "value": "{core.validation.success.600}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           },
           "secondary": {
@@ -7775,6 +7775,28 @@
         "icon": {
           "primary": {
             "value": "{core.validation.info.600}",
+            "type": "color"
+          }
+        }
+      },
+      "default": {
+        "text": {
+          "primary": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.grey.900}",
+            "type": "color"
+          }
+        },
+        "bg": {
+          "secondary": {
+            "value": "{core.grey.a10}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{core.brand-60.100}",
             "type": "color"
           }
         }
