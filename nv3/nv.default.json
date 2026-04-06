@@ -2291,6 +2291,104 @@
         }
       }
     },
+    "verification": {
+      "illustration": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "fill-2": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          }
+        }
+      },
+      "verification-status": {
+        "time": {
+          "icon": {
+            "default": {
+              "value": "{core.validation.warning.500}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.validation.warning.500}",
+              "type": "color"
+            }
+          },
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            }
+          }
+        },
+        "error": {
+          "icon": {
+            "default": {
+              "value": "{core.validation.danger.600}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.validation.danger.600}",
+              "type": "color"
+            }
+          },
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            }
+          }
+        },
+        "check": {
+          "icon": {
+            "default": {
+              "value": "{core.validation.success.500}",
+              "type": "color"
+            },
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.validation.success.500}",
+              "type": "color"
+            },
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
+            }
+          },
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            }
+          }
+        },
+        "loading": {
+          "text": {
+            "default": {
+              "value": "{core.brand-preset.validation.info}",
+              "type": "color"
+            }
+          },
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
     "registration": {
       "banner": {
         "background": {
@@ -2485,92 +2583,6 @@
               "value": "{semantic.border.brand.primary.default}",
               "type": "color",
               "description": "vip bet amount"
-            }
-          }
-        }
-      }
-    },
-    "verification": {
-      "verification-status": {
-        "time": {
-          "icon": {
-            "default": {
-              "value": "{core.validation.warning.500}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{core.validation.warning.500}",
-              "type": "color"
-            }
-          },
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
-              "type": "color"
-            }
-          }
-        },
-        "error": {
-          "icon": {
-            "default": {
-              "value": "{core.validation.danger.600}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{core.validation.danger.600}",
-              "type": "color"
-            }
-          },
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
-              "type": "color"
-            }
-          }
-        },
-        "check": {
-          "icon": {
-            "default": {
-              "value": "{core.validation.success.500}",
-              "type": "color"
-            },
-            "AI-check": {
-              "value": "{core.grey.700}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{core.validation.success.500}",
-              "type": "color"
-            },
-            "AI-check": {
-              "value": "{core.grey.700}",
-              "type": "color"
-            }
-          },
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
-              "type": "color"
-            }
-          }
-        },
-        "loading": {
-          "text": {
-            "default": {
-              "value": "{core.brand-preset.validation.info}",
-              "type": "color"
-            }
-          },
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
-              "type": "color"
             }
           }
         }
