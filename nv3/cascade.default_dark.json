@@ -813,11 +813,11 @@
       "illustration": {
         "background": {
           "fill": {
-            "value": "{core.brand-60.800}",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "fill-2": {
-            "value": "{core.brand-60.800}",
+            "value": "{core.grey.600}",
             "type": "color"
           }
         },
