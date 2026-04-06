@@ -1984,6 +1984,111 @@
         ],
         "type": "boxShadow"
       }
+    },
+    "semantic": {
+      "drop": {
+        "dark-5": {
+          "value": {
+            "x": "0px",
+            "y": "2px",
+            "blur": "12px",
+            "spread": "0px",
+            "color": "rgba(0,0,0,0.05)",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "dark-10": {
+          "value": {
+            "x": "0px",
+            "y": "2px",
+            "blur": "12px",
+            "spread": "0px",
+            "color": "rgba(0,0,0,0.1)",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "accent-25": {
+          "value": {
+            "x": "0px",
+            "y": "2px",
+            "blur": "12px",
+            "spread": "0px",
+            "color": "{core.brand-10.a25}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "secondary-30": {
+          "value": {
+            "x": "0px",
+            "y": "2px",
+            "blur": "12px",
+            "spread": "0px",
+            "color": "{core.brand-30.500a30}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "placeholder": {
+          "value": {
+            "x": "0px",
+            "y": "0px",
+            "blur": "0px",
+            "spread": "0px",
+            "color": "rgba(0,0,0,0)",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "inner": {
+        "white": {
+          "value": {
+            "x": "0px",
+            "y": "-1px",
+            "blur": "3px",
+            "spread": "0px",
+            "color": "{core.white.a50}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "accent-60": {
+          "value": {
+            "x": "0px",
+            "y": "0px",
+            "blur": "14px",
+            "spread": "0px",
+            "color": "{core.brand-10.a60}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "secondary-60": {
+          "value": {
+            "x": "0px",
+            "y": "0px",
+            "blur": "14px",
+            "spread": "0px",
+            "color": "{core.brand-30.a60}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "placeholder": {
+          "value": {
+            "x": "0px",
+            "y": "0px",
+            "blur": "0px",
+            "spread": "0px",
+            "color": "rgba(0,0,0,0)",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
