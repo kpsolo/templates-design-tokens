@@ -3819,7 +3819,7 @@
           }
         },
         "validation-text": {
-          "value": "{semantic.text.danger.default}",
+          "value": "{semantic.status.error.text.primary}",
           "type": "color"
         },
         "action-right": {
@@ -5134,11 +5134,11 @@
               "type": "color"
             },
             "error": {
-              "value": "{semantic.text.danger.default}",
+              "value": "{semantic.status.error.text.primary}",
               "type": "color"
             },
             "success": {
-              "value": "{semantic.text.success.default}",
+              "value": "{semantic.status.success.text.primary}",
               "type": "color"
             },
             "secondary": {
