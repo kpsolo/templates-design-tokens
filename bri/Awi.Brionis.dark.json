@@ -3746,7 +3746,7 @@
     "bullet": {
       "fill": {
         "default": {
-          "value": "{core.brand-60.500a12}",
+          "value": "{core.grey.500}",
           "type": "color"
         },
         "active": {
@@ -5731,7 +5731,7 @@
     "lottery-tournament": {
       "players-prizes": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{contextual.lottery-tournament.tiket.background.fill}",
           "type": "color"
         },
         "border": {
@@ -5868,7 +5868,7 @@
         },
         "state-2": {
           "fill": {
-            "value": "{semantic.background.slate-2}",
+            "value": "{semantic.background.brand.secondary.active}",
             "type": "color"
           },
           "border": {
@@ -5890,7 +5890,7 @@
             "description": "status-inactive"
           },
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{contextual.lottery-tournament.prize.fill}",
             "type": "color",
             "description": "status-inactive"
           },
