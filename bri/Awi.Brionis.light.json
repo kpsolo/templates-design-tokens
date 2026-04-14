@@ -5382,6 +5382,12 @@
       "bottom-fill": {
         "value": "{core.white.a8}",
         "type": "color"
+      },
+      "week-day": {
+        "text": {
+          "value": "{semantic.icon.default.primary}",
+          "type": "color"
+        }
       }
     },
     "tooltip": {
