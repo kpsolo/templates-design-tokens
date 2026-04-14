@@ -5725,6 +5725,16 @@
               "type": "color"
             }
           }
+        },
+        "number": {
+          "text2": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          },
+          "fill2": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          }
         }
       }
     },
@@ -6848,6 +6858,16 @@
             "value": "{contextual.button.secondary.text.active}",
             "type": "color",
             "description": "Toggle-button"
+          }
+        }
+      }
+    },
+    "icon-graphic": {
+      "slate-1": {
+        "fill": {
+          "default": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
           }
         }
       }

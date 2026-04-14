@@ -2374,6 +2374,16 @@
         }
       }
     },
+    "icon-graphic": {
+      "slate-1": {
+        "fill": {
+          "default": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "registration": {
       "banner": {
         "background": {
@@ -5768,6 +5778,16 @@
               "value": "{core.grey.a20}",
               "type": "color"
             }
+          }
+        },
+        "number": {
+          "text2": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          },
+          "fill2": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
           }
         }
       }
