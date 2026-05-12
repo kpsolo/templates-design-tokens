@@ -5,7 +5,7 @@
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Poppins",
+    "value": "Mariupol",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },

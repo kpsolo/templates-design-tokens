@@ -5,7 +5,7 @@
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Poppins",
+    "value": "Mariupol",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },
@@ -2417,7 +2417,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.text.brand.on-brand-secondary}",
+            "value": "{contextual.button.primary.text.default}",
             "type": "color"
           }
         },
@@ -2435,7 +2435,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.border.brand.primary.disabled}",
+            "value": "{core.brand-10.700}",
             "type": "color"
           }
         }
@@ -2499,7 +2499,7 @@
       "secondary": {
         "fill": {
           "default": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-30.50}",
             "type": "color"
           },
           "hover": {
@@ -2507,7 +2507,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.brand-30.300}",
             "type": "color"
           },
           "disabled": {
