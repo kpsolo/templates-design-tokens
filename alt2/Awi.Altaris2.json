@@ -4096,7 +4096,7 @@
       "level": {
         "text": {
           "accent": {
-            "value": "{core.validation.danger.500}",
+            "value": "{semantic.text.static.accent}",
             "type": "color"
           }
         }
