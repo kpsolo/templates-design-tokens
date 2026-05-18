@@ -7263,7 +7263,7 @@
     "accent": {
       "s": {
         "value": {
-          "fontFamily": "{accent}",
+          "fontFamily": "{main}",
           "fontWeight": "{Expanded}",
           "fontSize": "56px",
           "lineHeight": "56px",
@@ -7274,7 +7274,7 @@
       },
       "l": {
         "value": {
-          "fontFamily": "{accent}",
+          "fontFamily": "{main}",
           "fontWeight": "{Expanded}",
           "fontSize": "130px",
           "lineHeight": "130px",
