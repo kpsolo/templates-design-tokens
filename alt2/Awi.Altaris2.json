@@ -7102,7 +7102,7 @@
   "heading": {
     "ml": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
@@ -7113,7 +7113,7 @@
     },
     "lg-strong": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Medium}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
@@ -7124,7 +7124,7 @@
     },
     "lg-stronger": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
@@ -7135,7 +7135,7 @@
     },
     "xl": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Expanded}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
@@ -7146,7 +7146,7 @@
     },
     "xl-strong": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Medium}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
@@ -7157,7 +7157,7 @@
     },
     "xl-stronger": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
@@ -7168,7 +7168,7 @@
     },
     "xxl-strong": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Medium}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
@@ -7179,7 +7179,7 @@
     },
     "xxl-stronger": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
@@ -9296,6 +9296,32 @@
       "mobile": {
         "tab": {
           "value": "{text.sm-strong}",
+          "type": "typography"
+        }
+      }
+    },
+    "banner": {
+      "title": {
+        "mob": {
+          "value": {
+            "fontFamily": "{accent}",
+            "fontWeight": "{Bold}",
+            "fontSize": "{scale-6}",
+            "lineHeight": "{lg}",
+            "letterSpacing": "0%",
+            "textCase": "{text-case.none}"
+          },
+          "type": "typography"
+        },
+        "web": {
+          "value": {
+            "fontFamily": "{accent}",
+            "fontWeight": "{Bold}",
+            "fontSize": "{scale-8}",
+            "lineHeight": "{xxl}",
+            "textCase": "{text-case.none}",
+            "letterSpacing": "-0.56px"
+          },
           "type": "typography"
         }
       }

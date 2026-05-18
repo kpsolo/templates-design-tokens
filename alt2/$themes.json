@@ -2724,7 +2724,9 @@
       "contextual.smart-banner.fill": "S:3222de6c1dc251a16ca9391c9598bc0decc6273d,",
       "contextual.smart-banner.border": "S:bb4595bd085f21706ed8837d43459d3ef3222bb8,",
       "core.brand-30.700a70": "S:e6d89b643e651427f280e8515961b2ae19bedb29,",
-      "contextual.tabs.deals.background": "S:3f2d7947bd3218fa5f5d66655ea7dd8df1dc7c78,"
+      "contextual.tabs.deals.background": "S:3f2d7947bd3218fa5f5d66655ea7dd8df1dc7c78,",
+      "homepage.banner.title.mob": "S:99ce2cb169f264e4fbf0aa9e91543a9d2c549327,",
+      "homepage.banner.title.web": "S:06094169d5315736fe59d7fa937ab3ed2a2731e6,"
     },
     "selectedTokenSets": {
       "Altaris.preset.default": "enabled",
