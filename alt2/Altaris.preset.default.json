@@ -2749,7 +2749,7 @@
       },
       "title": {
         "value": {
-          "fontFamily": "{accent}",
+          "fontFamily": "{main}",
           "fontWeight": "{text.stronger}",
           "fontSize": "26px",
           "lineHeight": "36px",
@@ -2759,7 +2759,7 @@
       },
       "title2": {
         "value": {
-          "fontFamily": "{accent}",
+          "fontFamily": "{main}",
           "fontWeight": "{text.stronger}",
           "fontSize": "18px",
           "lineHeight": "24px",
@@ -2770,7 +2770,7 @@
       "mob": {
         "title": {
           "value": {
-            "fontFamily": "{accent}",
+            "fontFamily": "{main}",
             "fontWeight": "{text.stronger}",
             "fontSize": "16px",
             "lineHeight": "24px",
