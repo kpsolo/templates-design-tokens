@@ -1482,6 +1482,19 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "card": {
+        "balance": {
+          "value": {
+            "x": "{blur.0}",
+            "y": "{blur.100}",
+            "blur": "6px",
+            "spread": "{depth.0}",
+            "color": "{core.brand-60.a10}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
       }
     },
     "segment-control": {
@@ -4063,6 +4076,32 @@
             "value": "{semantic.text.default.heading}",
             "type": "color"
           }
+        }
+      },
+      "balance-card": {
+        "icon": {
+          "fill": {
+            "value": "{semantic.icon.brand.on-brand-secondary}",
+            "type": "color"
+          },
+          "background": {
+            "value": "{semantic.background.slate-2}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "secondary": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{semantic.text.brand.on-brand-secondary}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
         }
       }
     },
@@ -9426,6 +9465,35 @@
           "type": "typography"
         }
       }
+    },
+    "balance-card": {
+      "balance": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{Bold}",
+          "fontSize": "18px",
+          "lineHeight": "20px"
+        },
+        "type": "typography"
+      },
+      "10th": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{Semibold}",
+          "fontSize": "14px",
+          "lineHeight": "16px"
+        },
+        "type": "typography"
+      }
+    },
+    "balance": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Bold}",
+        "fontSize": "26px",
+        "lineHeight": "28px"
+      },
+      "type": "typography"
     }
   },
   "tooltip": {
@@ -9641,6 +9709,12 @@
         "value": "{heading.lg-stronger}",
         "type": "typography"
       }
+    }
+  },
+  "card": {
+    "balance": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
     }
   }
 }
