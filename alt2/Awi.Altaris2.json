@@ -4108,6 +4108,12 @@
         "fill": {
           "value": "{contextual.popup.fill}",
           "type": "color"
+        },
+        "menu": {
+          "fill": {
+            "value": "{core.grey.800}",
+            "type": "color"
+          }
         }
       }
     },
