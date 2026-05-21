@@ -4103,6 +4103,12 @@
           "value": "{semantic.gradients.1}",
           "type": "color"
         }
+      },
+      "background": {
+        "fill": {
+          "value": "{contextual.popup.fill}",
+          "type": "color"
+        }
       }
     },
     "loyalty": {
