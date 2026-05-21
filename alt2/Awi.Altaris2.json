@@ -6862,56 +6862,42 @@
       }
     },
     "list-item": {
-      "default": {
-        "text": {
-          "primary": {
-            "value": "{semantic.text.brand.on-brand-secondary}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "primary": {
-            "value": "{semantic.icon.static.primary}",
-            "type": "color"
-          }
-        }
-      },
-      "active": {
-        "text": {
-          "primary": {
-            "value": "{semantic.text.static.accent}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "primary": {
-            "value": "{semantic.icon.static.accent}",
-            "type": "color"
-          }
-        }
-      },
-      "hover": {
-        "text": {
-          "primary": {
-            "value": "{semantic.text.brand.on-brand-secondary}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "primary": {
-            "value": "{semantic.icon.static.primary}",
+      "text": {
+        "primary": {
+          "active": {
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
-          "secondary": {
-            "value": "{semantic.icon.static.secondary}",
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           }
         }
       },
-      "elipse": {
-        "hover": {
-          "value": "{core.white.a0}",
-          "type": "color"
+      "icon": {
+        "primary": {
+          "default": {
+            "value": "{semantic.icon.default.tertiary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.icon.default.secondary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "hover": {
+            "value": "{semantic.icon.default.tertiary}",
+            "type": "color"
+          }
         }
       }
     }
