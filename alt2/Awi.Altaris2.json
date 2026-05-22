@@ -2951,6 +2951,10 @@
         "value": "{semantic.icon.static.primary}",
         "type": "color"
       },
+      "icon-text-default": {
+        "value": "{core.white.a100}",
+        "type": "color"
+      },
       "slate-2": {
         "fill": {
           "default": {
