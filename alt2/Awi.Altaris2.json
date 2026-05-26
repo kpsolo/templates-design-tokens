@@ -2954,11 +2954,11 @@
       "slate-2": {
         "fill": {
           "default": {
-            "value": "{core.brand-30.900}",
+            "value": "{core.grey.a30}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.900}",
+            "value": "{core.grey.a30}",
             "type": "color"
           }
         }
