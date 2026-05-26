@@ -2928,7 +2928,7 @@
       "slate-1": {
         "fill": {
           "default": {
-            "value": "{core.grey.50}",
+            "value": "{core.brand-30.50}",
             "type": "color"
           },
           "hover": {
@@ -2938,11 +2938,11 @@
         },
         "border": {
           "default": {
-            "value": "{core.grey.100}",
+            "value": "{core.brand-30.200}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           }
         }
@@ -2954,11 +2954,11 @@
       "slate-2": {
         "fill": {
           "default": {
-            "value": "{core.grey.a30}",
+            "value": "{core.brand-30.900}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.a30}",
+            "value": "{core.brand-30.900}",
             "type": "color"
           }
         }
