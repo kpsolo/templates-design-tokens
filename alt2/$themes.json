@@ -1371,7 +1371,6 @@
     "name": "Altaris.green",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Altaris.preset.green": "enabled",
       "Awi.Altaris2": "enabled"
     },
     "$figmaVariableReferences": {},
@@ -2983,7 +2982,6 @@
     "name": "Altaris.preset.green2",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Altaris.preset.green2": "enabled",
       "Awi.Altaris2": "enabled"
     },
     "$figmaVariableReferences": {},
@@ -4346,10 +4344,7 @@
       "contextual.skeleton.gr-1": "S:8da8b84e508f42e68f769d7d138f805b98394110,",
       "contextual.skeleton.gr-2": "S:551d15657afa21cb070f20cee4dac0e1bfdddbd2,"
     },
-    "selectedTokenSets": {
-      "Awi.Altaris.light": "enabled",
-      "Altaris.preset.default_light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:44526:90059",
     "$figmaModeId": "44526:0",
     "$figmaVariableReferences": {
@@ -4599,10 +4594,7 @@
     "id": "c5961ee3862628a78e1a3db69b66797ac5498b0d",
     "name": "Altaris.preset.light-green",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Awi.Altaris.light": "enabled",
-      "Altaris.preset.green_light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {},
     "group": "ALT2"
   }
