@@ -5765,7 +5765,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "{core.validation.danger.600}",
+          "value": "{core.validation.warning.600}",
           "type": "color"
         },
         "secondary": {
