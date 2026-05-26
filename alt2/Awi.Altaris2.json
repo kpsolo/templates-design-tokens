@@ -2938,11 +2938,11 @@
         },
         "border": {
           "default": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }
