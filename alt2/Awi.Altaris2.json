@@ -2938,7 +2938,7 @@
         },
         "border": {
           "default": {
-            "value": "{core.grey.50}",
+            "value": "{core.grey.100}",
             "type": "color"
           },
           "hover": {
