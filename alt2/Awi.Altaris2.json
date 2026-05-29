@@ -6200,7 +6200,7 @@
             }
           },
           "fill": {
-            "value": "{core.grey.800}",
+            "value": "{core.grey.900}",
             "type": "color",
             "description": "Segment Control"
           }
