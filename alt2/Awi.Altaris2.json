@@ -3965,7 +3965,7 @@
       },
       "loyalty_points": {
         "fill": {
-          "value": "{core.brand-60.700}",
+          "value": "{core.grey.500}",
           "type": "color",
           "description": "contextual.profile.loyalty_points.fill"
         },
