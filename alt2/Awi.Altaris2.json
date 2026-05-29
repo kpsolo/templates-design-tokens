@@ -4106,7 +4106,7 @@
       },
       "background": {
         "fill": {
-          "value": "{contextual.popup.fill}",
+          "value": "{core.grey.800}",
           "type": "color"
         },
         "menu": {
