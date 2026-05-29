@@ -4085,7 +4085,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{semantic.background.slate-2}",
+            "value": "{core.brand-60.a60}",
             "type": "color"
           }
         },
