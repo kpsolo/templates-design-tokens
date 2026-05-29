@@ -9488,7 +9488,7 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
-        "fontSize": "26px",
+        "fontSize": "24px",
         "lineHeight": "28px"
       },
       "type": "typography"
