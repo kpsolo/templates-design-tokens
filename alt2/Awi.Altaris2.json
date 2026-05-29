@@ -4081,7 +4081,7 @@
       "balance-card": {
         "icon": {
           "fill": {
-            "value": "{semantic.icon.brand.on-brand-secondary}",
+            "value": "{semantic.icon.default.primary}",
             "type": "color"
           },
           "background": {
