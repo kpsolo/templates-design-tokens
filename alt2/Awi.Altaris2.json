@@ -1495,6 +1495,27 @@
           },
           "type": "boxShadow"
         }
+      },
+      "badge": {
+        "value": [
+          {
+            "x": "0px",
+            "y": "2px",
+            "blur": "6px",
+            "spread": "0px",
+            "color": "{core.brand-60.800a10}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0px",
+            "y": "1px",
+            "blur": "0px",
+            "spread": "0px",
+            "color": "{core.grey.a30}",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "segment-control": {
