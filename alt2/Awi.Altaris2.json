@@ -3174,7 +3174,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{core.grey.a10}",
+            "value": "{core.brand-60.a10}",
             "type": "color"
           }
         },
