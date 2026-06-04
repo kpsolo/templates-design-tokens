@@ -4115,6 +4115,12 @@
             "type": "color"
           }
         }
+      },
+      "badge": {
+        "fill": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
       }
     },
     "loyalty": {
